@@ -7,19 +7,19 @@ To add your changes:
 
 ### 1. Add files to the staging area with:
 
-git add [file name / files names]
+- git add [file name / files names]
 
 if you want to add all the files or changes, just do:
 
-git add .
+- git add .
 
 ### 2. Commit your files with a message
 
-git commit -m "your message"
+- git commit -m "your message"
 
 ### 3. Push your branch with:
 
-git push origin [name_of_your_branch]
+- git push origin [name_of_your_branch]
 
 Each pull request requires one person to review it.
 
