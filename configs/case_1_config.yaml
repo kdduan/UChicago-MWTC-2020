@@ -1,0 +1,53 @@
+# Configuration for the XChange platform
+# Schema v1.1
+---
+
+assets: # Each asset declaration specifies an asset or related series of assets
+    EFM:
+        type: DEFAULT
+        bookSize: {minPrice: 1.00, maxPrice: 10.00, tickSize: 0.01}
+        fillAlgorithm: PRO_RATA
+        orderSizeLimit: 100
+    EFQ:
+        type: DEFAULT
+        bookSize: {minPrice: 1.00, maxPrice: 10.00, tickSize: 0.01}
+        fillAlgorithm: PRO_RATA
+        orderSizeLimit: 100
+    EFV:
+        type: DEFAULT
+        bookSize: {minPrice: 1.00, maxPrice: 10.00, tickSize: 0.01}
+        fillAlgorithm: PRO_RATA
+        orderSizeLimit: 100
+    EFZ:
+        type: DEFAULT
+        bookSize: {minPrice: 1.00, maxPrice: 10.00, tickSize: 0.01}
+        fillAlgorithm: PRO_RATA
+        orderSizeLimit: 100
+
+
+
+rounds: # Each round declaration specifies the settings for a round
+    Case 1 Example Round:
+        assets: [EFM, EFQ, EFV, EFZ]
+        limits:
+            - {type: ASSET_POSITION, asset: EFM, limit: 1001, liquidationFactor: 1.1}
+            - {type: ASSET_POSITION, asset: EFM, limit: 1001, liquidationFactor: 1.1}
+            - {type: ASSET_POSITION, asset: EFM, limit: 1001, liquidationFactor: 1.1}
+            - {type: ASSET_POSITION, asset: EFM, limit: 1001, liquidationFactor: 1.1}
+
+            - {type: NET_POSITION, assets: [EFM, EFQ, EFV, EFZ], limit: 10000, liquidationFactor: 0.9, assetInfo: "all assets"}
+        caseManagers:
+            - {program: case1/mm_manager.py, args: {num_competitors: 1}}
+
+
+timeline: # Specifies the order in which the rounds are run
+    - Case 1 Example Round
+
+
+logging:
+    frequency: 0.5 # Logging frequency in seconds
+
+resources:
+    python: venv/bin/python
+    orderManager:
+        numThreads: 20 # Use this play with the threads / service. Platform team will optimize this pre-competition

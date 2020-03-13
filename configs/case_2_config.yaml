@@ -1,0 +1,273 @@
+# Configuration for the XChange platform
+# Schema v1.1
+---
+
+assets: # Each asset declaration specifies an asset or related series of assets
+    A:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    AC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10] # The strikes for this call.
+        range: True # If range: format [start, end, step] (inclusive). If list, put false and strikes will be treated as list.
+        underlying: A
+        orderSizeLimit: 10000
+
+    AP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: A
+        orderSizeLimit: 10000
+
+    B:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    BC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: B
+        orderSizeLimit: 10000
+
+    BP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: B
+        orderSizeLimit: 10000
+
+    C:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    CC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: C
+        orderSizeLimit: 10000
+
+    CP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: C
+        orderSizeLimit: 10000
+
+    D:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    DC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: D
+        orderSizeLimit: 10000
+
+    DP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: D
+        orderSizeLimit: 10000
+
+    E:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    EC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: E
+        orderSizeLimit: 10000
+
+    EP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: E
+        orderSizeLimit: 10000
+
+    F:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    FC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: F
+        orderSizeLimit: 10000
+
+    FP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: F
+        orderSizeLimit: 10000
+    
+    G:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    GC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: G
+        orderSizeLimit: 1000
+
+    GP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: G
+        orderSizeLimit: 10000
+
+    H:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    HC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: H
+        orderSizeLimit: 10000
+
+    HP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: H
+        orderSizeLimit: 10000
+
+    I:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    IC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: I
+        orderSizeLimit: 10000
+
+    IP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: I
+        orderSizeLimit: 10000
+
+    J:
+        type: DEFAULT
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        orderSizeLimit: 4000
+
+    JC:
+        type: CALL_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: J
+        orderSizeLimit: 10000
+
+    JP:
+        type: PUT_OPTION
+        bookSize: {minPrice: 0.00, maxPrice: 300.00, tickSize: .01}
+        fillAlgorithm: FIFO
+        strikes: [70, 150, 10]
+        range: True
+        underlying: J
+        orderSizeLimit: 10000
+
+rounds: # Each round declaration specifies the settings for a round
+    Case 2 Example Round:
+        assets: ['A', 'AC', 'AP', 'B', 'BC', 'BP', 'C', 'CC', 'CP', 'D', 'DC', 'DP', 'E', 'EC', 'EP', 'F', 'FC', 'FP', 'G', 'GC', 'GP', 'H', 'HC', 'HP', 'I', 'IC', 'IP', 'J', 'JC', 'JP']
+        limits:
+            - {type: GREEK, underlying: A, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: B, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: C, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: D, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: E, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: F, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: G, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: H, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: I, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+            - {type: GREEK, underlying: J, greekLimits: {DELTA: 2000, GAMMA: 5000, VEGA: 1000000, THETA: 5000}, liquidationFactor: 0.2}
+        caseManagers:
+            - program: case2/stockbot.py
+            - program: case2/flowbot.py
+            
+
+timeline: # Specifies the order in which the rounds are run
+    - Case 2 Example Round
+
+
+logging:
+    frequency: 0.5 # Logging frequency in seconds
+
+resources:
+    python: venv/bin/python
