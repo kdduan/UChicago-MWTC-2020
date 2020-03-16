@@ -9,7 +9,7 @@ To add new files or changes to your local machine, type
 
 in your terminal.
 
-###To add your changes:
+### To add your changes:
 
 #### 1. Add files to the staging area with:
 
