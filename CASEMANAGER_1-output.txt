@@ -1,0 +1,7562 @@
+Case has begun. Starting to handle exchange updates...
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.55, ASK: 100.56
+BID: 99.59, ASK: 99.60000000000001
+BID: 100.8, ASK: 100.81
+BID: 100.52, ASK: 100.53
+BID: 99.44, ASK: 99.45
+BID: 101.02, ASK: 101.03
+BID: 100.74, ASK: 100.75
+BID: 99.15, ASK: 99.16000000000001
+BID: 99.33, ASK: 99.34
+BID: 99.14, ASK: 99.15
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.37, ASK: 101.38000000000001
+BID: 99.94, ASK: 99.95
+BID: 101.48, ASK: 101.49000000000001
+BID: 101.16, ASK: 101.17
+BID: 99.86, ASK: 99.87
+BID: 102.14, ASK: 102.15
+BID: 101.58, ASK: 101.59
+BID: 99.94, ASK: 99.95
+BID: 99.98, ASK: 99.99000000000001
+BID: 100.16, ASK: 100.17
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA5NDK1FZ1MNYERVY0GYE"
+asset: "F"
+trades {
+  price_level: "102.14"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291715099"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA5N4Z3MX1GSYJZHZ1QDS"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "99.87"
+  quantity: 9
+}
+filled_qty: 9
+remaining_qty: 399991
+timestamp: "1584291715471"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA5NZ113T08KCPWRR1M4H"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "99.99"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291715476"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.29, ASK: 102.30000000000001
+BID: 99.53, ASK: 99.54
+BID: 102.82, ASK: 102.83
+BID: 100.41, ASK: 100.42
+BID: 100.36, ASK: 100.37
+BID: 100.75, ASK: 100.76
+BID: 100.82, ASK: 100.83
+BID: 98.11, ASK: 98.12
+BID: 99.1, ASK: 99.11
+BID: 98.95, ASK: 98.96000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA75D1QXP12SH27WJ1KPK"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "99.54"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399971
+timestamp: "1584291717170"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA75CCG7816JVW5B607EW"
+asset: "B"
+trades {
+  price_level: "99.53"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584291717485"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.66, ASK: 101.67
+BID: 99.01, ASK: 99.02000000000001
+BID: 104.03, ASK: 104.04
+BID: 99.79, ASK: 99.80000000000001
+BID: 99.86, ASK: 99.87
+BID: 99.79, ASK: 99.80000000000001
+BID: 100.1, ASK: 100.11
+BID: 96.53, ASK: 96.54
+BID: 99.95, ASK: 99.96000000000001
+BID: 98.44, ASK: 98.45
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA8QG84451M4226AJ1Q9F"
+asset: "C"
+trades {
+  price_level: "104.03"
+  quantity: 6
+}
+filled_qty: 6
+remaining_qty: 399994
+timestamp: "1584291718109"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA8QYEYBS1V8BHD1B09DQ"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "99.80"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584291718546"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJA8RNC1VH0SE5WTCM146X"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "98.45"
+  quantity: 14
+}
+filled_qty: 14
+remaining_qty: 399986
+timestamp: "1584291719358"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.09, ASK: 101.10000000000001
+BID: 98.48, ASK: 98.49000000000001
+BID: 103.28, ASK: 103.29
+BID: 100.52, ASK: 100.53
+BID: 99.49, ASK: 99.5
+BID: 98.49, ASK: 98.5
+BID: 99.61, ASK: 99.62
+BID: 97.22, ASK: 97.23
+BID: 99.01, ASK: 99.02000000000001
+BID: 97.95, ASK: 97.96000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAAAXY51X1HWY4TY30856"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "97.23"
+  quantity: 44
+}
+filled_qty: 44
+remaining_qty: 399956
+timestamp: "1584291720523"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAAB0PN2407ZRJAJT1NBY"
+asset: "I"
+trades {
+  price_level: "99.01"
+  quantity: 4
+}
+filled_qty: 4
+remaining_qty: 399996
+timestamp: "1584291720528"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.56, ASK: 100.57000000000001
+BID: 98.99, ASK: 99.0
+BID: 102.09, ASK: 102.10000000000001
+BID: 101.22, ASK: 101.23
+BID: 99.9, ASK: 99.91000000000001
+BID: 100.15, ASK: 100.16000000000001
+BID: 98.88, ASK: 98.89
+BID: 96.32, ASK: 96.33
+BID: 99.85, ASK: 99.86
+BID: 97.33, ASK: 97.34
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJABV8NEF01B5THGP40578"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "99.00"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584291721165"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJABVY3MYQ1GAKQ3M10041"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "99.86"
+  quantity: 31
+}
+filled_qty: 31
+remaining_qty: 399969
+timestamp: "1584291722126"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJABVXN24D0C0ZXSBT0W37"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "96.33"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584291722329"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.74, ASK: 99.75
+BID: 98.63, ASK: 98.64
+BID: 102.84, ASK: 102.85000000000001
+BID: 101.84, ASK: 101.85000000000001
+BID: 100.29, ASK: 100.30000000000001
+BID: 101.4, ASK: 101.41000000000001
+BID: 99.53, ASK: 99.54
+BID: 95.29, ASK: 95.30000000000001
+BID: 100.79, ASK: 100.80000000000001
+BID: 98.19, ASK: 98.2
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJADGFWJ4B0Q91B4DX1E71"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "98.20"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584291722939"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJADFSMV8Y0K8ESA311CYZ"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "100.30"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584291722941"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJADFAXAZT10BKZE2D1RA9"
+asset: "D"
+trades {
+  price_level: "101.84"
+  quantity: 50
+}
+filled_qty: 50
+remaining_qty: 399950
+timestamp: "1584291723467"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJADG3G39D0NF90V910F7Z"
+asset: "H"
+trades {
+  price_level: "95.29"
+  quantity: 41
+}
+filled_qty: 41
+remaining_qty: 399959
+timestamp: "1584291723676"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.5, ASK: 100.51
+BID: 99.07, ASK: 99.08
+BID: 103.52, ASK: 103.53
+BID: 101.22, ASK: 101.23
+BID: 99.72, ASK: 99.73
+BID: 100.44, ASK: 100.45
+BID: 99.08, ASK: 99.09
+BID: 96.01, ASK: 96.02000000000001
+BID: 99.57, ASK: 99.58
+BID: 98.76, ASK: 98.77000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAF17QAYC0DPG9PJE13MP"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "101.23"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584291725721"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.88, ASK: 99.89
+BID: 99.38, ASK: 99.39
+BID: 104.12, ASK: 104.13000000000001
+BID: 100.69, ASK: 100.7
+BID: 100.02, ASK: 100.03
+BID: 100.95, ASK: 100.96000000000001
+BID: 98.67, ASK: 98.68
+BID: 95.53, ASK: 95.54
+BID: 100.44, ASK: 100.45
+BID: 98.44, ASK: 98.45
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAGKFBBWR0844BMX219Q1"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "100.03"
+  quantity: 25
+}
+filled_qty: 25
+remaining_qty: 399975
+timestamp: "1584291726142"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAGM2BJ4K0DQYG8X507J0"
+asset: "H"
+trades {
+  price_level: "95.53"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291726148"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAGJVAJ911TQDVX2J1QN2"
+asset: "D"
+trades {
+  price_level: "100.69"
+  quantity: 50
+}
+filled_qty: 50
+remaining_qty: 399950
+timestamp: "1584291727298"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.24, ASK: 99.25
+BID: 99.77, ASK: 99.78
+BID: 103.36, ASK: 103.37
+BID: 100.14, ASK: 100.15
+BID: 99.68, ASK: 99.69000000000001
+BID: 102.09, ASK: 102.10000000000001
+BID: 99.08, ASK: 99.09
+BID: 94.93, ASK: 94.94000000000001
+BID: 99.89, ASK: 99.9
+BID: 98.89, ASK: 98.9
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAJ68N40812APPBRH011H"
+asset: "G"
+trades {
+  price_level: "99.08"
+  quantity: 33
+}
+filled_qty: 33
+remaining_qty: 399967
+timestamp: "1584291727727"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAJ6ZHSDQ1VEKGZKK0T2N"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "99.90"
+  quantity: 33
+}
+filled_qty: 33
+remaining_qty: 399967
+timestamp: "1584291728517"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.61, ASK: 99.62
+BID: 99.26, ASK: 99.27000000000001
+BID: 104.09, ASK: 104.10000000000001
+BID: 100.72, ASK: 100.73
+BID: 99.33, ASK: 99.34
+BID: 103.4, ASK: 103.41000000000001
+BID: 99.56, ASK: 99.57000000000001
+BID: 95.8, ASK: 95.81
+BID: 100.42, ASK: 100.43
+BID: 99.27, ASK: 99.28
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAKR68Z5V07B8ZZWX1CZT"
+asset: "J"
+trades {
+  price_level: "99.27"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291730580"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.99, ASK: 99.0
+BID: 99.61, ASK: 99.62
+BID: 103.26, ASK: 103.27000000000001
+BID: 100.14, ASK: 100.15
+BID: 99.71, ASK: 99.72
+BID: 102.26, ASK: 102.27000000000001
+BID: 99.02, ASK: 99.03
+BID: 94.77, ASK: 94.78
+BID: 99.73, ASK: 99.74000000000001
+BID: 98.62, ASK: 98.63000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.51, ASK: 98.52000000000001
+BID: 99.27, ASK: 99.28
+BID: 103.79, ASK: 103.80000000000001
+BID: 99.59, ASK: 99.60000000000001
+BID: 99.33, ASK: 99.34
+BID: 100.86, ASK: 100.87
+BID: 98.44, ASK: 98.45
+BID: 94.17, ASK: 94.18
+BID: 100.38, ASK: 100.39
+BID: 97.86, ASK: 97.87
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.8, ASK: 97.81
+BID: 98.87, ASK: 98.88000000000001
+BID: 102.72, ASK: 102.73
+BID: 99.06, ASK: 99.07000000000001
+BID: 99.78, ASK: 99.79
+BID: 100.2, ASK: 100.21000000000001
+BID: 98.89, ASK: 98.9
+BID: 93.67, ASK: 93.68
+BID: 99.55, ASK: 99.56
+BID: 98.65, ASK: 98.66000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.27, ASK: 98.28
+BID: 98.53, ASK: 98.54
+BID: 102.12, ASK: 102.13000000000001
+BID: 99.53, ASK: 99.54
+BID: 99.19, ASK: 99.2
+BID: 101.51, ASK: 101.52000000000001
+BID: 98.3, ASK: 98.31
+BID: 94.22, ASK: 94.23
+BID: 98.99, ASK: 99.0
+BID: 97.9, ASK: 97.91000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAT229KP40PPMABWK1AZK"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "98.31"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291736223"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.96, ASK: 98.97
+BID: 98.9, ASK: 98.91000000000001
+BID: 101.41, ASK: 101.42
+BID: 100.06, ASK: 100.07000000000001
+BID: 98.82, ASK: 98.83
+BID: 100.0, ASK: 100.01
+BID: 98.77, ASK: 98.78
+BID: 93.68, ASK: 93.69000000000001
+BID: 99.56, ASK: 99.57000000000001
+BID: 98.49, ASK: 98.5
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.6, ASK: 98.61
+BID: 99.28, ASK: 99.29
+BID: 101.02, ASK: 101.03
+BID: 99.4, ASK: 99.41000000000001
+BID: 98.42, ASK: 98.43
+BID: 99.03, ASK: 99.04
+BID: 99.29, ASK: 99.30000000000001
+BID: 94.17, ASK: 94.18
+BID: 100.06, ASK: 100.07000000000001
+BID: 98.81, ASK: 98.82000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAX7BHVSM195VAM6X198K"
+asset: "I"
+trades {
+  price_level: "100.06"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291739039"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.19, ASK: 99.2
+BID: 99.67, ASK: 99.68
+BID: 99.89, ASK: 99.9
+BID: 98.73, ASK: 98.74000000000001
+BID: 97.84, ASK: 97.85000000000001
+BID: 97.82, ASK: 97.83
+BID: 99.85, ASK: 99.86
+BID: 93.57, ASK: 93.58
+BID: 99.43, ASK: 99.44000000000001
+BID: 98.43, ASK: 98.44000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJAYPSTBA21HP86QX61KJ4"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "97.85"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291740409"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.77, ASK: 98.78
+BID: 100.09, ASK: 100.10000000000001
+BID: 99.54, ASK: 99.55000000000001
+BID: 99.19, ASK: 99.2
+BID: 97.51, ASK: 97.52000000000001
+BID: 96.99, ASK: 97.0
+BID: 99.36, ASK: 99.37
+BID: 92.81, ASK: 92.82000000000001
+BID: 98.88, ASK: 98.89
+BID: 97.84, ASK: 97.85000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB0BBMJCE1MAZJ57W0268"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "97.85"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291742247"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB093Y4MB13TDVRKX0VF2"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "99.20"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584291742459"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.23, ASK: 98.24000000000001
+BID: 99.67, ASK: 99.68
+BID: 100.5, ASK: 100.51
+BID: 98.6, ASK: 98.61
+BID: 97.13, ASK: 97.14
+BID: 95.53, ASK: 95.54
+BID: 98.72, ASK: 98.73
+BID: 93.36, ASK: 93.37
+BID: 99.49, ASK: 99.5
+BID: 97.27, ASK: 97.28
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB1V3D43S0PXMNG5Z01TB"
+asset: "C"
+trades {
+  price_level: "100.50"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291744465"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.71, ASK: 98.72
+BID: 100.02, ASK: 100.03
+BID: 99.75, ASK: 99.76
+BID: 99.22, ASK: 99.23
+BID: 97.63, ASK: 97.64
+BID: 96.7, ASK: 96.71000000000001
+BID: 98.09, ASK: 98.10000000000001
+BID: 92.32, ASK: 92.33
+BID: 98.69, ASK: 98.7
+BID: 97.91, ASK: 97.92
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB3F43S6F14HN7Z4Q1SXS"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "97.92"
+  quantity: 18
+}
+filled_qty: 18
+remaining_qty: 399982
+timestamp: "1584291745794"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB3F2WV280X2F2QZG0HD2"
+asset: "I"
+trades {
+  price_level: "98.69"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584291746212"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.27, ASK: 98.28
+BID: 99.61, ASK: 99.62
+BID: 100.33, ASK: 100.34
+BID: 99.72, ASK: 99.73
+BID: 97.24, ASK: 97.25
+BID: 95.74, ASK: 95.75
+BID: 97.55, ASK: 97.56
+BID: 92.77, ASK: 92.78
+BID: 98.07, ASK: 98.08
+BID: 98.36, ASK: 98.37
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.87, ASK: 98.88000000000001
+BID: 100.11, ASK: 100.12
+BID: 100.92, ASK: 100.93
+BID: 99.04, ASK: 99.05000000000001
+BID: 97.67, ASK: 97.68
+BID: 97.63, ASK: 97.64
+BID: 96.95, ASK: 96.96000000000001
+BID: 92.02, ASK: 92.03
+BID: 98.86, ASK: 98.87
+BID: 97.38, ASK: 97.39
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB6KACSC40RBRN3711G7V"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "97.39"
+  quantity: 8
+}
+filled_qty: 8
+remaining_qty: 399992
+timestamp: "1584291749611"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB6K9HCW31K754SYE05H7"
+asset: "J"
+trades {
+  price_level: "97.38"
+  quantity: 33
+}
+filled_qty: 33
+remaining_qty: 399967
+timestamp: "1584291749814"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.61, ASK: 99.62
+BID: 99.8, ASK: 99.81
+BID: 101.5, ASK: 101.51
+BID: 98.54, ASK: 98.55000000000001
+BID: 98.23, ASK: 98.24000000000001
+BID: 98.28, ASK: 98.29
+BID: 97.54, ASK: 97.55000000000001
+BID: 91.32, ASK: 91.33
+BID: 98.37, ASK: 98.38000000000001
+BID: 96.75, ASK: 96.76
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB84DDMNA1TS4B3SX0JJ6"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "91.33"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584291750242"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB83E8SSG0PWFKGQP0JSJ"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "99.81"
+  quantity: 10
+}
+filled_qty: 10
+remaining_qty: 399990
+timestamp: "1584291750460"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB84H60F203K9HHK81ZTM"
+asset: "I"
+trades {
+  price_level: "98.37"
+  quantity: 42
+}
+filled_qty: 42
+remaining_qty: 399958
+timestamp: "1584291750668"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB83B75JW17C0VCD30YCZ"
+asset: "A"
+trades {
+  price_level: "99.61"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584291751279"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.38, ASK: 100.39
+BID: 99.46, ASK: 99.47
+BID: 100.81, ASK: 100.82000000000001
+BID: 98.95, ASK: 98.96000000000001
+BID: 98.61, ASK: 98.62
+BID: 97.46, ASK: 97.47
+BID: 97.92, ASK: 97.93
+BID: 91.73, ASK: 91.74000000000001
+BID: 97.83, ASK: 97.84
+BID: 97.4, ASK: 97.41000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJB9P0YM7M0JEGE61W0NVV"
+asset: "D"
+trades {
+  price_level: "98.95"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584291752436"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.99, ASK: 100.0
+BID: 99.79, ASK: 99.80000000000001
+BID: 100.17, ASK: 100.18
+BID: 98.49, ASK: 98.5
+BID: 98.26, ASK: 98.27000000000001
+BID: 96.48, ASK: 96.49000000000001
+BID: 97.47, ASK: 97.48
+BID: 91.17, ASK: 91.18
+BID: 97.3, ASK: 97.31
+BID: 97.01, ASK: 97.02000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBB836QWR1B55VTBB0ASA"
+asset: "F"
+trades {
+  price_level: "96.48"
+  quantity: 25
+}
+filled_qty: 25
+remaining_qty: 399975
+timestamp: "1584291754038"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBB7Q7T290C21806P1S1Z"
+asset: "E"
+trades {
+  price_level: "98.26"
+  quantity: 17
+}
+filled_qty: 17
+remaining_qty: 399983
+timestamp: "1584291754652"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.64, ASK: 100.65
+BID: 100.16, ASK: 100.17
+BID: 100.92, ASK: 100.93
+BID: 99.23, ASK: 99.24000000000001
+BID: 97.79, ASK: 97.80000000000001
+BID: 97.7, ASK: 97.71000000000001
+BID: 98.12, ASK: 98.13000000000001
+BID: 91.83, ASK: 91.84
+BID: 98.02, ASK: 98.03
+BID: 97.78, ASK: 97.79
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBCSRAY8V0PF5K9Z20CYR"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "98.03"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584291755071"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBCSRAY8V0PF5K9Z20CYR"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "98.03"
+  quantity: 12
+}
+filled_qty: 12
+remaining_qty: 399967
+timestamp: "1584291755515"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.12, ASK: 100.13000000000001
+BID: 100.69, ASK: 100.7
+BID: 100.41, ASK: 100.42
+BID: 99.95, ASK: 99.96000000000001
+BID: 98.28, ASK: 98.29
+BID: 98.56, ASK: 98.57000000000001
+BID: 98.62, ASK: 98.63000000000001
+BID: 91.39, ASK: 91.4
+BID: 98.79, ASK: 98.80000000000001
+BID: 98.49, ASK: 98.5
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBEC2SPV61Y3810DF05CC"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "98.63"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584291756437"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.77, ASK: 100.78
+BID: 100.36, ASK: 100.37
+BID: 101.14, ASK: 101.15
+BID: 100.71, ASK: 100.72
+BID: 98.63, ASK: 98.64
+BID: 98.03, ASK: 98.04
+BID: 99.17, ASK: 99.18
+BID: 91.91, ASK: 91.92
+BID: 99.59, ASK: 99.60000000000001
+BID: 99.29, ASK: 99.30000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBFXYGV331RW49TNJ1G61"
+asset: "B"
+trades {
+  price_level: "100.36"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584291758657"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.24, ASK: 101.25
+BID: 100.65, ASK: 100.66000000000001
+BID: 101.78, ASK: 101.79
+BID: 100.25, ASK: 100.26
+BID: 99.04, ASK: 99.05000000000001
+BID: 97.53, ASK: 97.54
+BID: 99.71, ASK: 99.72
+BID: 91.34, ASK: 91.35000000000001
+BID: 99.05, ASK: 99.06
+BID: 98.79, ASK: 98.80000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBHGQ7A2Z1RCM2ABY06DT"
+asset: "I"
+trades {
+  price_level: "99.05"
+  quantity: 13
+}
+filled_qty: 13
+remaining_qty: 399987
+timestamp: "1584291760123"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.58, ASK: 100.59
+BID: 100.96, ASK: 100.97
+BID: 101.45, ASK: 101.46000000000001
+BID: 100.73, ASK: 100.74000000000001
+BID: 99.38, ASK: 99.39
+BID: 96.96, ASK: 96.97
+BID: 100.11, ASK: 100.12
+BID: 90.92, ASK: 90.93
+BID: 99.75, ASK: 99.76
+BID: 99.49, ASK: 99.5
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBK26D3200EN41SDY1JEJ"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "99.39"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584291762473"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.24, ASK: 100.25
+BID: 100.65, ASK: 100.66000000000001
+BID: 101.03, ASK: 101.04
+BID: 100.3, ASK: 100.31
+BID: 99.03, ASK: 99.04
+BID: 97.93, ASK: 97.94000000000001
+BID: 99.67, ASK: 99.68
+BID: 90.32, ASK: 90.33
+BID: 99.13, ASK: 99.14
+BID: 99.15, ASK: 99.16000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBMMHGQBH0RWAKQ0W0MZX"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "99.14"
+  quantity: 13
+}
+filled_qty: 13
+remaining_qty: 399987
+timestamp: "1584291764269"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.73, ASK: 99.74000000000001
+BID: 100.32, ASK: 100.33
+BID: 100.3, ASK: 100.31
+BID: 99.83, ASK: 99.84
+BID: 98.45, ASK: 98.46000000000001
+BID: 97.19, ASK: 97.2
+BID: 99.13, ASK: 99.14
+BID: 90.98, ASK: 90.99000000000001
+BID: 99.79, ASK: 99.80000000000001
+BID: 98.57, ASK: 98.58
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBP6VD3DP0BBSPAXV024S"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "99.14"
+  quantity: 44
+}
+filled_qty: 44
+remaining_qty: 399956
+timestamp: "1584291765300"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.32, ASK: 99.33
+BID: 99.97, ASK: 99.98
+BID: 99.28, ASK: 99.29
+BID: 99.15, ASK: 99.16000000000001
+BID: 98.88, ASK: 98.89
+BID: 96.57, ASK: 96.58
+BID: 98.72, ASK: 98.73
+BID: 90.61, ASK: 90.62
+BID: 98.96, ASK: 98.97
+BID: 98.24, ASK: 98.25
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.88, ASK: 98.89
+BID: 99.55, ASK: 99.56
+BID: 100.03, ASK: 100.04
+BID: 99.71, ASK: 99.72
+BID: 99.3, ASK: 99.31
+BID: 97.53, ASK: 97.54
+BID: 98.26, ASK: 98.27000000000001
+BID: 90.01, ASK: 90.02000000000001
+BID: 100.02, ASK: 100.03
+BID: 97.5, ASK: 97.51
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBSAHJ0YS1AK1WZK31A4Z"
+asset: "E"
+trades {
+  price_level: "99.30"
+  quantity: 47
+}
+filled_qty: 47
+remaining_qty: 399953
+timestamp: "1584291769023"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.39, ASK: 98.4
+BID: 99.0, ASK: 99.01
+BID: 101.49, ASK: 101.5
+BID: 99.21, ASK: 99.22
+BID: 98.92, ASK: 98.93
+BID: 96.78, ASK: 96.79
+BID: 97.78, ASK: 97.79
+BID: 90.42, ASK: 90.43
+BID: 100.84, ASK: 100.85000000000001
+BID: 96.81, ASK: 96.82000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.72, ASK: 98.73
+BID: 99.29, ASK: 99.30000000000001
+BID: 101.85, ASK: 101.86
+BID: 99.67, ASK: 99.68
+BID: 98.57, ASK: 98.58
+BID: 96.12, ASK: 96.13000000000001
+BID: 98.21, ASK: 98.22
+BID: 91.03, ASK: 91.04
+BID: 101.69, ASK: 101.7
+BID: 97.24, ASK: 97.25
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBWFACCAT1V2SPESY12T9"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "91.04"
+  quantity: 11
+}
+filled_qty: 11
+remaining_qty: 399989
+timestamp: "1584291771721"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.15, ASK: 99.16000000000001
+BID: 98.69, ASK: 98.7
+BID: 101.31, ASK: 101.32000000000001
+BID: 100.2, ASK: 100.21000000000001
+BID: 98.95, ASK: 98.96000000000001
+BID: 96.88, ASK: 96.89
+BID: 97.75, ASK: 97.76
+BID: 91.51, ASK: 91.52000000000001
+BID: 100.71, ASK: 100.72
+BID: 97.89, ASK: 97.9
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.53, ASK: 99.54
+BID: 99.01, ASK: 99.02000000000001
+BID: 100.81, ASK: 100.82000000000001
+BID: 99.68, ASK: 99.69000000000001
+BID: 99.42, ASK: 99.43
+BID: 96.17, ASK: 96.18
+BID: 98.14, ASK: 98.15
+BID: 91.99, ASK: 92.0
+BID: 101.53, ASK: 101.54
+BID: 97.34, ASK: 97.35000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJBZKAAV641Y3XKN601EQG"
+asset: "J"
+trades {
+  price_level: "97.34"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584291775450"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.21, ASK: 99.22
+BID: 99.31, ASK: 99.32000000000001
+BID: 100.32, ASK: 100.33
+BID: 100.14, ASK: 100.15
+BID: 98.89, ASK: 98.9
+BID: 95.54, ASK: 95.55000000000001
+BID: 97.75, ASK: 97.76
+BID: 91.23, ASK: 91.24000000000001
+BID: 100.91, ASK: 100.92
+BID: 96.95, ASK: 96.96000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJC153WR5B0HPNE7MP01ZF"
+asset: "F"
+trades {
+  price_level: "95.54"
+  quantity: 42
+}
+filled_qty: 42
+remaining_qty: 399958
+timestamp: "1584291777056"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.68, ASK: 98.69000000000001
+BID: 98.97, ASK: 98.98
+BID: 99.52, ASK: 99.53
+BID: 100.82, ASK: 100.83
+BID: 99.26, ASK: 99.27000000000001
+BID: 96.14, ASK: 96.15
+BID: 98.21, ASK: 98.22
+BID: 90.63, ASK: 90.64
+BID: 99.91, ASK: 99.92
+BID: 96.44, ASK: 96.45
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.1, ASK: 98.11
+BID: 99.36, ASK: 99.37
+BID: 100.34, ASK: 100.35000000000001
+BID: 100.12, ASK: 100.13000000000001
+BID: 98.74, ASK: 98.75
+BID: 95.5, ASK: 95.51
+BID: 97.61, ASK: 97.62
+BID: 90.17, ASK: 90.18
+BID: 98.69, ASK: 98.7
+BID: 95.6, ASK: 95.61
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.49, ASK: 97.5
+BID: 99.87, ASK: 99.88000000000001
+BID: 100.99, ASK: 101.0
+BID: 100.62, ASK: 100.63000000000001
+BID: 99.23, ASK: 99.24000000000001
+BID: 94.7, ASK: 94.71000000000001
+BID: 98.11, ASK: 98.12
+BID: 90.6, ASK: 90.61
+BID: 97.92, ASK: 97.93
+BID: 96.25, ASK: 96.26
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.96, ASK: 96.97
+BID: 100.26, ASK: 100.27000000000001
+BID: 100.67, ASK: 100.68
+BID: 100.22, ASK: 100.23
+BID: 99.56, ASK: 99.57000000000001
+BID: 93.98, ASK: 93.99000000000001
+BID: 98.46, ASK: 98.47
+BID: 91.04, ASK: 91.05000000000001
+BID: 97.38, ASK: 97.39
+BID: 95.78, ASK: 95.79
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.4, ASK: 96.41000000000001
+BID: 100.6, ASK: 100.61
+BID: 101.47, ASK: 101.48
+BID: 100.64, ASK: 100.65
+BID: 99.21, ASK: 99.22
+BID: 94.8, ASK: 94.81
+BID: 98.11, ASK: 98.12
+BID: 91.52, ASK: 91.53
+BID: 96.79, ASK: 96.80000000000001
+BID: 95.39, ASK: 95.4
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJC903XFRV0SX1WPA70FYR"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "96.80"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291783934"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.81, ASK: 95.82000000000001
+BID: 100.25, ASK: 100.26
+BID: 102.21, ASK: 102.22
+BID: 101.28, ASK: 101.29
+BID: 98.74, ASK: 98.75
+BID: 95.62, ASK: 95.63000000000001
+BID: 97.56, ASK: 97.57000000000001
+BID: 91.01, ASK: 91.02000000000001
+BID: 96.03, ASK: 96.04
+BID: 95.02, ASK: 95.03
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.2, ASK: 95.21000000000001
+BID: 99.91, ASK: 99.92
+BID: 101.42, ASK: 101.43
+BID: 100.68, ASK: 100.69000000000001
+BID: 98.37, ASK: 98.38000000000001
+BID: 95.05, ASK: 95.06
+BID: 97.11, ASK: 97.12
+BID: 90.57, ASK: 90.58
+BID: 96.84, ASK: 96.85000000000001
+BID: 94.15, ASK: 94.16000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCC3VA92A1QHMAJXF1A92"
+asset: "J"
+trades {
+  price_level: "94.15"
+  quantity: 38
+}
+filled_qty: 38
+remaining_qty: 399962
+timestamp: "1584291787871"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.6, ASK: 94.61
+BID: 99.59, ASK: 99.60000000000001
+BID: 100.59, ASK: 100.60000000000001
+BID: 100.22, ASK: 100.23
+BID: 97.89, ASK: 97.9
+BID: 94.51, ASK: 94.52000000000001
+BID: 96.76, ASK: 96.77000000000001
+BID: 90.22, ASK: 90.23
+BID: 97.33, ASK: 97.34
+BID: 93.8, ASK: 93.81
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCDN5WCYH15TWMCZR0F0J"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "94.61"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584291788491"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.19, ASK: 94.2
+BID: 99.96, ASK: 99.97
+BID: 101.06, ASK: 101.07000000000001
+BID: 100.8, ASK: 100.81
+BID: 97.51, ASK: 97.52000000000001
+BID: 93.84, ASK: 93.85000000000001
+BID: 96.26, ASK: 96.27000000000001
+BID: 90.61, ASK: 90.62
+BID: 98.0, ASK: 98.01
+BID: 94.36, ASK: 94.37
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCF7FMZ6Y1HREF8J013DN"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "90.62"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291790687"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.74, ASK: 94.75
+BID: 99.31, ASK: 99.32000000000001
+BID: 101.78, ASK: 101.79
+BID: 100.19, ASK: 100.2
+BID: 98.02, ASK: 98.03
+BID: 93.22, ASK: 93.23
+BID: 95.83, ASK: 95.84
+BID: 90.18, ASK: 90.19000000000001
+BID: 96.75, ASK: 96.76
+BID: 93.8, ASK: 93.81
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCGT99PMF0BN3S2AB0G24"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "90.19"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584291792710"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.34, ASK: 94.35000000000001
+BID: 99.62, ASK: 99.63000000000001
+BID: 100.94, ASK: 100.95
+BID: 100.71, ASK: 100.72
+BID: 97.57, ASK: 97.58
+BID: 92.62, ASK: 92.63000000000001
+BID: 95.24, ASK: 95.25
+BID: 89.83, ASK: 89.84
+BID: 97.28, ASK: 97.29
+BID: 94.18, ASK: 94.19000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCJB67XZY0K9AX2KV0EK3"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "99.63"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584291794554"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.68, ASK: 94.69000000000001
+BID: 100.01, ASK: 100.02000000000001
+BID: 100.6, ASK: 100.61
+BID: 101.23, ASK: 101.24000000000001
+BID: 97.19, ASK: 97.2
+BID: 91.95, ASK: 91.96000000000001
+BID: 95.66, ASK: 95.67
+BID: 89.46, ASK: 89.47
+BID: 97.8, ASK: 97.81
+BID: 93.73, ASK: 93.74000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCKXAENZ60442C9B30BJ0"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "94.69"
+  quantity: 20
+}
+filled_qty: 20
+remaining_qty: 399980
+timestamp: "1584291795497"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.31, ASK: 94.32000000000001
+BID: 99.68, ASK: 99.69000000000001
+BID: 99.84, ASK: 99.85000000000001
+BID: 101.64, ASK: 101.65
+BID: 97.55, ASK: 97.56
+BID: 92.53, ASK: 92.54
+BID: 96.11, ASK: 96.12
+BID: 89.08, ASK: 89.09
+BID: 97.3, ASK: 97.31
+BID: 93.18, ASK: 93.19000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.8, ASK: 94.81
+BID: 100.01, ASK: 100.02000000000001
+BID: 99.49, ASK: 99.5
+BID: 100.95, ASK: 100.96000000000001
+BID: 98.09, ASK: 98.10000000000001
+BID: 91.8, ASK: 91.81
+BID: 95.52, ASK: 95.53
+BID: 88.32, ASK: 88.33
+BID: 96.16, ASK: 96.17
+BID: 94.16, ASK: 94.17
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCQ1MGV3K02XV00V61Y1Y"
+asset: "B"
+trades {
+  price_level: "100.01"
+  quantity: 25
+}
+filled_qty: 25
+remaining_qty: 399975
+timestamp: "1584291799099"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.44, ASK: 95.45
+BID: 100.38, ASK: 100.39
+BID: 99.02, ASK: 99.03
+BID: 101.47, ASK: 101.48
+BID: 97.71, ASK: 97.72
+BID: 91.18, ASK: 91.19000000000001
+BID: 95.04, ASK: 95.05000000000001
+BID: 88.88, ASK: 88.89
+BID: 95.62, ASK: 95.63000000000001
+BID: 93.54, ASK: 93.55000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCRMJFV0018057BFR04FT"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "93.55"
+  quantity: 10
+}
+filled_qty: 10
+remaining_qty: 399990
+timestamp: "1584291799709"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCRM36ZGM0EN5D40E1M8D"
+asset: "F"
+trades {
+  price_level: "91.18"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291800940"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.9, ASK: 94.91000000000001
+BID: 100.09, ASK: 100.10000000000001
+BID: 99.47, ASK: 99.48
+BID: 101.84, ASK: 101.85000000000001
+BID: 97.39, ASK: 97.4
+BID: 91.65, ASK: 91.66000000000001
+BID: 95.35, ASK: 95.36
+BID: 88.4, ASK: 88.41000000000001
+BID: 96.08, ASK: 96.09
+BID: 93.94, ASK: 93.95
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCT6F2A2C0X5H816G0Q34"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "91.66"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399971
+timestamp: "1584291801551"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.44, ASK: 94.45
+BID: 100.4, ASK: 100.41000000000001
+BID: 99.89, ASK: 99.9
+BID: 102.41, ASK: 102.42
+BID: 96.88, ASK: 96.89
+BID: 92.33, ASK: 92.34
+BID: 95.88, ASK: 95.89
+BID: 88.75, ASK: 88.76
+BID: 96.65, ASK: 96.66000000000001
+BID: 94.59, ASK: 94.60000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCVR0HRMG1T0A1GAR0D02"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "100.41"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291804158"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.79, ASK: 93.80000000000001
+BID: 100.77, ASK: 100.78
+BID: 98.97, ASK: 98.98
+BID: 102.85, ASK: 102.86
+BID: 96.52, ASK: 96.53
+BID: 93.24, ASK: 93.25
+BID: 95.47, ASK: 95.48
+BID: 89.17, ASK: 89.18
+BID: 96.13, ASK: 96.14
+BID: 93.93, ASK: 93.94000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCXA191KN0688404P1S8B"
+asset: "H"
+trades {
+  price_level: "89.17"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291804678"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCX9XX3B507RPTXPA1R42"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "96.53"
+  quantity: 7
+}
+filled_qty: 7
+remaining_qty: 399993
+timestamp: "1584291804885"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.37, ASK: 93.38000000000001
+BID: 100.45, ASK: 100.46000000000001
+BID: 99.53, ASK: 99.54
+BID: 102.27, ASK: 102.28
+BID: 96.87, ASK: 96.88000000000001
+BID: 92.73, ASK: 92.74000000000001
+BID: 95.97, ASK: 95.98
+BID: 88.81, ASK: 88.82000000000001
+BID: 95.5, ASK: 95.51
+BID: 94.69, ASK: 94.7
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCYW3NMNQ0C09RF980QCT"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "102.28"
+  quantity: 19
+}
+filled_qty: 19
+remaining_qty: 399981
+timestamp: "1584291807167"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJCYW9PN4J1X3A8SBT1NRK"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "95.51"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584291807475"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.84, ASK: 93.85000000000001
+BID: 100.07, ASK: 100.08
+BID: 100.13, ASK: 100.14
+BID: 101.74, ASK: 101.75
+BID: 96.33, ASK: 96.34
+BID: 92.3, ASK: 92.31
+BID: 95.52, ASK: 95.53
+BID: 89.28, ASK: 89.29
+BID: 94.68, ASK: 94.69000000000001
+BID: 95.48, ASK: 95.49000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD0EAAFKB01TJ4BH406DT"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "101.75"
+  quantity: 17
+}
+filled_qty: 17
+remaining_qty: 399983
+timestamp: "1584291808103"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD0E9GDMQ0H5S2ZQA00PM"
+asset: "D"
+trades {
+  price_level: "101.74"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584291808310"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.37, ASK: 93.38000000000001
+BID: 100.51, ASK: 100.52000000000001
+BID: 99.61, ASK: 99.62
+BID: 101.2, ASK: 101.21000000000001
+BID: 96.7, ASK: 96.71000000000001
+BID: 93.4, ASK: 93.41000000000001
+BID: 95.95, ASK: 95.96000000000001
+BID: 89.7, ASK: 89.71000000000001
+BID: 94.05, ASK: 94.06
+BID: 94.89, ASK: 94.9
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD20GBQCV0HDCJCBS05EY"
+asset: "F"
+trades {
+  price_level: "93.40"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584291810361"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.84, ASK: 92.85000000000001
+BID: 100.17, ASK: 100.18
+BID: 100.4, ASK: 100.41000000000001
+BID: 101.66, ASK: 101.67
+BID: 96.31, ASK: 96.32000000000001
+BID: 92.35, ASK: 92.36
+BID: 96.48, ASK: 96.49000000000001
+BID: 89.28, ASK: 89.29
+BID: 93.55, ASK: 93.56
+BID: 94.16, ASK: 94.17
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.38, ASK: 92.39
+BID: 100.53, ASK: 100.54
+BID: 101.15, ASK: 101.16000000000001
+BID: 102.31, ASK: 102.32000000000001
+BID: 96.67, ASK: 96.68
+BID: 92.99, ASK: 93.0
+BID: 97.07, ASK: 97.08
+BID: 89.76, ASK: 89.77000000000001
+BID: 93.13, ASK: 93.14
+BID: 93.86, ASK: 93.87
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD54MM88G1AGH55ND1MX2"
+asset: "H"
+trades {
+  price_level: "89.76"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584291813149"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.06, ASK: 93.07000000000001
+BID: 100.88, ASK: 100.89
+BID: 101.74, ASK: 101.75
+BID: 102.82, ASK: 102.83
+BID: 96.14, ASK: 96.15
+BID: 93.78, ASK: 93.79
+BID: 97.5, ASK: 97.51
+BID: 90.21, ASK: 90.22
+BID: 93.7, ASK: 93.71000000000001
+BID: 94.61, ASK: 94.62
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.75, ASK: 93.76
+BID: 101.25, ASK: 101.26
+BID: 102.55, ASK: 102.56
+BID: 102.1, ASK: 102.11
+BID: 96.66, ASK: 96.67
+BID: 94.69, ASK: 94.7
+BID: 96.91, ASK: 96.92
+BID: 90.68, ASK: 90.69000000000001
+BID: 94.51, ASK: 94.52000000000001
+BID: 93.77, ASK: 93.78
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.31, ASK: 94.32000000000001
+BID: 101.8, ASK: 101.81
+BID: 101.69, ASK: 101.7
+BID: 101.47, ASK: 101.48
+BID: 96.12, ASK: 96.13000000000001
+BID: 95.61, ASK: 95.62
+BID: 96.29, ASK: 96.30000000000001
+BID: 90.26, ASK: 90.27000000000001
+BID: 94.03, ASK: 94.04
+BID: 94.58, ASK: 94.59
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD9TYVPGT129DJEHR03XQ"
+asset: "H"
+trades {
+  price_level: "90.26"
+  quantity: 17
+}
+filled_qty: 17
+remaining_qty: 399983
+timestamp: "1584291817334"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD9V0WZRA1G68JFCB1WE1"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "94.04"
+  quantity: 50
+}
+filled_qty: 50
+remaining_qty: 399950
+timestamp: "1584291817945"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD9TQ64841YR30AFJ1S9F"
+asset: "C"
+trades {
+  price_level: "101.69"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584291817950"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJD9TYVQ5M1D0V9MGV11BF"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "96.30"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584291818155"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.84, ASK: 94.85000000000001
+BID: 102.19, ASK: 102.2
+BID: 101.02, ASK: 101.03
+BID: 102.14, ASK: 102.15
+BID: 95.7, ASK: 95.71000000000001
+BID: 96.47, ASK: 96.48
+BID: 96.84, ASK: 96.85000000000001
+BID: 89.66, ASK: 89.67
+BID: 94.68, ASK: 94.69000000000001
+BID: 95.32, ASK: 95.33
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDBCTR2S514WKR3ZA1KJQ"
+asset: "G"
+trades {
+  price_level: "96.84"
+  quantity: 13
+}
+filled_qty: 13
+remaining_qty: 399987
+timestamp: "1584291819188"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.53, ASK: 95.54
+BID: 102.52, ASK: 102.53
+BID: 101.34, ASK: 101.35000000000001
+BID: 102.52, ASK: 102.53
+BID: 95.07, ASK: 95.08
+BID: 97.16, ASK: 97.17
+BID: 97.24, ASK: 97.25
+BID: 90.04, ASK: 90.05000000000001
+BID: 95.09, ASK: 95.10000000000001
+BID: 95.79, ASK: 95.80000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDCZ1ZMDC0FXNAAC90EWQ"
+asset: "G"
+trades {
+  price_level: "97.24"
+  quantity: 50
+}
+filled_qty: 50
+remaining_qty: 399950
+timestamp: "1584291821166"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDCYVWCTA0Z7YJN7P0AN2"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "101.35"
+  quantity: 14
+}
+filled_qty: 14
+remaining_qty: 399986
+timestamp: "1584291821981"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.15, ASK: 96.16000000000001
+BID: 102.91, ASK: 102.92
+BID: 101.91, ASK: 101.92
+BID: 101.97, ASK: 101.98
+BID: 95.78, ASK: 95.79
+BID: 97.82, ASK: 97.83
+BID: 97.87, ASK: 97.88000000000001
+BID: 90.44, ASK: 90.45
+BID: 94.63, ASK: 94.64
+BID: 95.19, ASK: 95.2
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.64, ASK: 96.65
+BID: 102.5, ASK: 102.51
+BID: 101.5, ASK: 101.51
+BID: 102.63, ASK: 102.64
+BID: 95.26, ASK: 95.27000000000001
+BID: 98.55, ASK: 98.56
+BID: 97.29, ASK: 97.30000000000001
+BID: 91.01, ASK: 91.02000000000001
+BID: 93.82, ASK: 93.83
+BID: 95.95, ASK: 95.96000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.05, ASK: 96.06
+BID: 102.86, ASK: 102.87
+BID: 101.1, ASK: 101.11
+BID: 102.24, ASK: 102.25
+BID: 94.6, ASK: 94.61
+BID: 98.09, ASK: 98.10000000000001
+BID: 97.73, ASK: 97.74000000000001
+BID: 90.65, ASK: 90.66000000000001
+BID: 93.34, ASK: 93.35000000000001
+BID: 95.41, ASK: 95.42
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDHNPDS6Y0M2RKJ740KC6"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "90.66"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584291826528"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.71, ASK: 96.72
+BID: 102.52, ASK: 102.53
+BID: 101.74, ASK: 101.75
+BID: 101.68, ASK: 101.69000000000001
+BID: 95.0, ASK: 95.01
+BID: 97.45, ASK: 97.46000000000001
+BID: 97.19, ASK: 97.2
+BID: 91.11, ASK: 91.12
+BID: 92.91, ASK: 92.92
+BID: 94.82, ASK: 94.83
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDK6T71JE0H18RQG41P4F"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "101.75"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291827384"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDK6T71JE0H18RQG41P4F"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "101.75"
+  quantity: 17
+}
+filled_qty: 17
+remaining_qty: 399943
+timestamp: "1584291827912"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDK6YPENQ1WTKTSZ70TKY"
+asset: "G"
+trades {
+  price_level: "97.19"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584291828351"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.14, ASK: 97.15
+BID: 102.8, ASK: 102.81
+BID: 102.02, ASK: 102.03
+BID: 102.1, ASK: 102.11
+BID: 94.56, ASK: 94.57000000000001
+BID: 97.89, ASK: 97.9
+BID: 96.77, ASK: 96.78
+BID: 91.48, ASK: 91.49000000000001
+BID: 92.53, ASK: 92.54
+BID: 95.58, ASK: 95.59
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDMVRDKG70FX6Q0XD134J"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "95.59"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584291829379"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.81, ASK: 97.82000000000001
+BID: 102.38, ASK: 102.39
+BID: 101.33, ASK: 101.34
+BID: 101.64, ASK: 101.65
+BID: 94.15, ASK: 94.16000000000001
+BID: 97.07, ASK: 97.08
+BID: 96.21, ASK: 96.22
+BID: 91.86, ASK: 91.87
+BID: 91.97, ASK: 91.98
+BID: 95.16, ASK: 95.17
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.44, ASK: 97.45
+BID: 102.7, ASK: 102.71000000000001
+BID: 102.11, ASK: 102.12
+BID: 102.13, ASK: 102.14
+BID: 93.72, ASK: 93.73
+BID: 96.49, ASK: 96.5
+BID: 96.66, ASK: 96.67
+BID: 92.35, ASK: 92.36
+BID: 92.34, ASK: 92.35000000000001
+BID: 95.5, ASK: 95.51
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDQY3WC6M1ZWJYJEE10XA"
+asset: "J"
+trades {
+  price_level: "95.50"
+  quantity: 36
+}
+filled_qty: 36
+remaining_qty: 399964
+timestamp: "1584291832800"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.03, ASK: 97.04
+BID: 102.31, ASK: 102.32000000000001
+BID: 101.77, ASK: 101.78
+BID: 102.83, ASK: 102.84
+BID: 94.19, ASK: 94.2
+BID: 96.01, ASK: 96.02000000000001
+BID: 97.24, ASK: 97.25
+BID: 92.03, ASK: 92.04
+BID: 91.94, ASK: 91.95
+BID: 95.88, ASK: 95.89
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.62, ASK: 96.63000000000001
+BID: 102.66, ASK: 102.67
+BID: 102.24, ASK: 102.25
+BID: 103.32, ASK: 103.33
+BID: 93.71, ASK: 93.72
+BID: 96.72, ASK: 96.73
+BID: 96.75, ASK: 96.76
+BID: 92.64, ASK: 92.65
+BID: 92.29, ASK: 92.30000000000001
+BID: 96.48, ASK: 96.49000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDV3NBTR812KPBPWW1D1Q"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "96.73"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399971
+timestamp: "1584291835975"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.09, ASK: 97.10000000000001
+BID: 102.37, ASK: 102.38000000000001
+BID: 102.81, ASK: 102.82000000000001
+BID: 103.72, ASK: 103.73
+BID: 93.32, ASK: 93.33
+BID: 96.33, ASK: 96.34
+BID: 97.23, ASK: 97.24000000000001
+BID: 92.98, ASK: 92.99000000000001
+BID: 92.79, ASK: 92.80000000000001
+BID: 97.06, ASK: 97.07000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDWKNG38X0PHZKZG81DYW"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "102.82"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584291837602"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.73, ASK: 97.74000000000001
+BID: 102.72, ASK: 102.73
+BID: 102.1, ASK: 102.11
+BID: 104.14, ASK: 104.15
+BID: 93.94, ASK: 93.95
+BID: 95.5, ASK: 95.51
+BID: 97.7, ASK: 97.71000000000001
+BID: 93.64, ASK: 93.65
+BID: 93.2, ASK: 93.21000000000001
+BID: 97.77, ASK: 97.78
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDY65FTFW0CHCKKW51MNK"
+asset: "E"
+trades {
+  price_level: "93.94"
+  quantity: 45
+}
+filled_qty: 45
+remaining_qty: 399955
+timestamp: "1584291839138"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJDY6WBPSW0A3345V30D2W"
+asset: "G"
+trades {
+  price_level: "97.70"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291839549"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.21, ASK: 98.22
+BID: 102.21, ASK: 102.22
+BID: 101.38, ASK: 101.39
+BID: 103.53, ASK: 103.54
+BID: 93.35, ASK: 93.36
+BID: 96.25, ASK: 96.26
+BID: 97.09, ASK: 97.10000000000001
+BID: 94.25, ASK: 94.26
+BID: 93.64, ASK: 93.65
+BID: 97.06, ASK: 97.07000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.65, ASK: 98.66000000000001
+BID: 102.65, ASK: 102.66000000000001
+BID: 100.8, ASK: 100.81
+BID: 104.05, ASK: 104.06
+BID: 93.77, ASK: 93.78
+BID: 95.63, ASK: 95.64
+BID: 97.68, ASK: 97.69000000000001
+BID: 94.65, ASK: 94.66000000000001
+BID: 93.23, ASK: 93.24000000000001
+BID: 96.42, ASK: 96.43
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJE19VN5T00TJYY14J092Z"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "93.24"
+  quantity: 37
+}
+filled_qty: 37
+remaining_qty: 399963
+timestamp: "1584291841947"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.01, ASK: 99.02000000000001
+BID: 102.31, ASK: 102.32000000000001
+BID: 101.63, ASK: 101.64
+BID: 104.52, ASK: 104.53
+BID: 94.4, ASK: 94.41000000000001
+BID: 96.46, ASK: 96.47
+BID: 97.24, ASK: 97.25
+BID: 95.25, ASK: 95.26
+BID: 93.74, ASK: 93.75
+BID: 95.93, ASK: 95.94000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.64, ASK: 98.65
+BID: 101.99, ASK: 102.0
+BID: 102.37, ASK: 102.38000000000001
+BID: 104.05, ASK: 104.06
+BID: 94.83, ASK: 94.84
+BID: 95.96, ASK: 95.97
+BID: 96.84, ASK: 96.85000000000001
+BID: 94.85, ASK: 94.86
+BID: 93.07, ASK: 93.08
+BID: 95.38, ASK: 95.39
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJE4E5GF831T4SFK1R0CH2"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "96.85"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584291844598"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.15, ASK: 99.16000000000001
+BID: 101.67, ASK: 101.68
+BID: 101.55, ASK: 101.56
+BID: 104.57, ASK: 104.58
+BID: 94.26, ASK: 94.27000000000001
+BID: 95.47, ASK: 95.48
+BID: 97.41, ASK: 97.42
+BID: 95.28, ASK: 95.29
+BID: 93.59, ASK: 93.60000000000001
+BID: 95.68, ASK: 95.69000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJE5ZJCY1P11G0WA100HBC"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "99.16"
+  quantity: 17
+}
+filled_qty: 17
+remaining_qty: 399983
+timestamp: "1584291846216"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJE5ZJCY1P11G0WA100HBC"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "99.16"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399967
+timestamp: "1584291846827"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.72, ASK: 99.73
+BID: 101.36, ASK: 101.37
+BID: 100.9, ASK: 100.91000000000001
+BID: 104.12, ASK: 104.13000000000001
+BID: 93.7, ASK: 93.71000000000001
+BID: 94.91, ASK: 94.92
+BID: 96.86, ASK: 96.87
+BID: 94.89, ASK: 94.9
+BID: 93.17, ASK: 93.18
+BID: 96.18, ASK: 96.19000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.38, ASK: 100.39
+BID: 101.71, ASK: 101.72
+BID: 100.58, ASK: 100.59
+BID: 104.55, ASK: 104.56
+BID: 94.22, ASK: 94.23
+BID: 95.47, ASK: 95.48
+BID: 97.43, ASK: 97.44000000000001
+BID: 95.58, ASK: 95.59
+BID: 92.75, ASK: 92.76
+BID: 96.71, ASK: 96.72
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJE93MTC9107ENCGZ91XJ8"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "100.39"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584291849744"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJE93W85Q104EGMXZE0JY5"
+asset: "B"
+trades {
+  price_level: "101.71"
+  quantity: 24
+}
+filled_qty: 24
+remaining_qty: 399976
+timestamp: "1584291850565"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.73, ASK: 99.74000000000001
+BID: 101.27, ASK: 101.28
+BID: 101.24, ASK: 101.25
+BID: 105.04, ASK: 105.05000000000001
+BID: 94.69, ASK: 94.7
+BID: 95.96, ASK: 95.97
+BID: 97.89, ASK: 97.9
+BID: 96.11, ASK: 96.12
+BID: 93.19, ASK: 93.2
+BID: 97.53, ASK: 97.54
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.23, ASK: 100.24000000000001
+BID: 101.58, ASK: 101.59
+BID: 100.96, ASK: 100.97
+BID: 105.37, ASK: 105.38000000000001
+BID: 94.16, ASK: 94.17
+BID: 95.54, ASK: 95.55000000000001
+BID: 98.23, ASK: 98.24000000000001
+BID: 96.47, ASK: 96.48
+BID: 93.57, ASK: 93.58
+BID: 97.91, ASK: 97.92
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEC7ZY1RM10GG7XWF0712"
+asset: "B"
+trades {
+  price_level: "101.58"
+  quantity: 10
+}
+filled_qty: 10
+remaining_qty: 399990
+timestamp: "1584291853347"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEC8H0E9C1T9EY7FQ11DG"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "98.24"
+  quantity: 33
+}
+filled_qty: 33
+remaining_qty: 399967
+timestamp: "1584291853761"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.92, ASK: 100.93
+BID: 102.0, ASK: 102.01
+BID: 101.52, ASK: 101.53
+BID: 104.6, ASK: 104.61
+BID: 94.61, ASK: 94.62
+BID: 95.0, ASK: 95.01
+BID: 97.56, ASK: 97.57000000000001
+BID: 97.01, ASK: 97.02000000000001
+BID: 92.88, ASK: 92.89
+BID: 97.25, ASK: 97.26
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEDW2EBFT0FZR8BPV06F4"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "97.02"
+  quantity: 25
+}
+filled_qty: 25
+remaining_qty: 399975
+timestamp: "1584291854992"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.64, ASK: 101.65
+BID: 102.57, ASK: 102.58
+BID: 101.92, ASK: 101.93
+BID: 105.3, ASK: 105.31
+BID: 93.98, ASK: 93.99000000000001
+BID: 95.62, ASK: 95.63000000000001
+BID: 98.26, ASK: 98.27000000000001
+BID: 97.52, ASK: 97.53
+BID: 93.43, ASK: 93.44000000000001
+BID: 96.54, ASK: 96.55000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEFC8D3KR03MSK4VF09TB"
+asset: "E"
+trades {
+  price_level: "93.98"
+  quantity: 31
+}
+filled_qty: 31
+remaining_qty: 399969
+timestamp: "1584291856627"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.01, ASK: 102.02000000000001
+BID: 102.23, ASK: 102.24000000000001
+BID: 101.42, ASK: 101.43
+BID: 104.83, ASK: 104.84
+BID: 93.56, ASK: 93.57000000000001
+BID: 96.11, ASK: 96.12
+BID: 98.76, ASK: 98.77000000000001
+BID: 98.06, ASK: 98.07000000000001
+BID: 93.98, ASK: 93.99000000000001
+BID: 96.84, ASK: 96.85000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEGY93NY615KJE0901Z1A"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "98.07"
+  quantity: 34
+}
+filled_qty: 34
+remaining_qty: 399966
+timestamp: "1584291857762"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEGYB7MTJ139DDG190S9Z"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "93.99"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584291858388"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.36, ASK: 101.37
+BID: 102.56, ASK: 102.57000000000001
+BID: 102.08, ASK: 102.09
+BID: 104.33, ASK: 104.34
+BID: 93.14, ASK: 93.15
+BID: 95.48, ASK: 95.49000000000001
+BID: 98.28, ASK: 98.29
+BID: 97.34, ASK: 97.35000000000001
+BID: 94.35, ASK: 94.36
+BID: 96.53, ASK: 96.54
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEJFZJ4YR1G81Q4XD1Q3X"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "102.57"
+  quantity: 48
+}
+filled_qty: 48
+remaining_qty: 399952
+timestamp: "1584291860142"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.98, ASK: 101.99000000000001
+BID: 102.21, ASK: 102.22
+BID: 101.58, ASK: 101.59
+BID: 103.86, ASK: 103.87
+BID: 93.6, ASK: 93.61
+BID: 94.83, ASK: 94.84
+BID: 97.66, ASK: 97.67
+BID: 98.18, ASK: 98.19000000000001
+BID: 93.79, ASK: 93.80000000000001
+BID: 96.0, ASK: 96.01
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEM1WV2Y90NE966Q30FR3"
+asset: "B"
+trades {
+  price_level: "102.21"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291861170"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.44, ASK: 102.45
+BID: 101.87, ASK: 101.88000000000001
+BID: 102.22, ASK: 102.23
+BID: 104.43, ASK: 104.44000000000001
+BID: 94.22, ASK: 94.23
+BID: 94.16, ASK: 94.17
+BID: 98.27, ASK: 98.28
+BID: 97.47, ASK: 97.48
+BID: 93.33, ASK: 93.34
+BID: 96.54, ASK: 96.55000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.79, ASK: 101.80000000000001
+BID: 101.52, ASK: 101.53
+BID: 102.9, ASK: 102.91000000000001
+BID: 105.15, ASK: 105.16000000000001
+BID: 93.37, ASK: 93.38000000000001
+BID: 94.74, ASK: 94.75
+BID: 98.94, ASK: 98.95
+BID: 98.15, ASK: 98.16000000000001
+BID: 93.75, ASK: 93.76
+BID: 97.27, ASK: 97.28
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.34, ASK: 102.35000000000001
+BID: 101.21, ASK: 101.22
+BID: 103.21, ASK: 103.22
+BID: 105.65, ASK: 105.66000000000001
+BID: 92.83, ASK: 92.84
+BID: 94.25, ASK: 94.26
+BID: 98.42, ASK: 98.43
+BID: 97.66, ASK: 97.67
+BID: 94.29, ASK: 94.30000000000001
+BID: 97.63, ASK: 97.64
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJERRPDF241MQFA5AN0KNV"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "97.67"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584291866418"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.6, ASK: 101.61
+BID: 101.54, ASK: 101.55000000000001
+BID: 103.82, ASK: 103.83
+BID: 105.09, ASK: 105.10000000000001
+BID: 93.49, ASK: 93.5
+BID: 94.74, ASK: 94.75
+BID: 99.01, ASK: 99.02000000000001
+BID: 98.07, ASK: 98.08
+BID: 93.84, ASK: 93.85000000000001
+BID: 97.33, ASK: 97.34
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.46, ASK: 102.47
+BID: 101.88, ASK: 101.89
+BID: 104.35, ASK: 104.36
+BID: 105.72, ASK: 105.73
+BID: 93.03, ASK: 93.04
+BID: 95.3, ASK: 95.31
+BID: 99.63, ASK: 99.64
+BID: 98.81, ASK: 98.82000000000001
+BID: 93.29, ASK: 93.30000000000001
+BID: 98.06, ASK: 98.07000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.89, ASK: 102.9
+BID: 101.49, ASK: 101.5
+BID: 103.86, ASK: 103.87
+BID: 106.23, ASK: 106.24000000000001
+BID: 92.61, ASK: 92.62
+BID: 95.69, ASK: 95.7
+BID: 100.05, ASK: 100.06
+BID: 99.29, ASK: 99.30000000000001
+BID: 93.69, ASK: 93.7
+BID: 98.63, ASK: 98.64
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEXEH467Q0CQYR66V1SE6"
+asset: "H"
+trades {
+  price_level: "99.29"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584291871434"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.39, ASK: 103.4
+BID: 101.14, ASK: 101.15
+BID: 103.39, ASK: 103.4
+BID: 105.65, ASK: 105.66000000000001
+BID: 93.26, ASK: 93.27000000000001
+BID: 96.24, ASK: 96.25
+BID: 100.61, ASK: 100.62
+BID: 100.04, ASK: 100.05000000000001
+BID: 93.35, ASK: 93.36
+BID: 98.23, ASK: 98.24000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEZ0BEQBG0JGG7T241FJK"
+asset: "E"
+trades {
+  price_level: "93.26"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584291872358"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJEZ02BWQA13MJ9MXE04W7"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "103.40"
+  quantity: 45
+}
+filled_qty: 45
+remaining_qty: 399955
+timestamp: "1584291872991"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.11, ASK: 104.12
+BID: 100.75, ASK: 100.76
+BID: 102.81, ASK: 102.82000000000001
+BID: 106.31, ASK: 106.32000000000001
+BID: 93.76, ASK: 93.77000000000001
+BID: 96.67, ASK: 96.68
+BID: 101.04, ASK: 101.05000000000001
+BID: 100.67, ASK: 100.68
+BID: 93.86, ASK: 93.87
+BID: 98.65, ASK: 98.66000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJF0J575391MX3PZQ209HB"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "104.12"
+  quantity: 20
+}
+filled_qty: 20
+remaining_qty: 399980
+timestamp: "1584291873401"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJF0JM2VKF0Y1F4ZM116GP"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "96.68"
+  quantity: 36
+}
+filled_qty: 36
+remaining_qty: 399964
+timestamp: "1584291874436"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.63, ASK: 104.64
+BID: 101.07, ASK: 101.08
+BID: 103.36, ASK: 103.37
+BID: 105.89, ASK: 105.9
+BID: 94.23, ASK: 94.24000000000001
+BID: 96.26, ASK: 96.27000000000001
+BID: 100.48, ASK: 100.49000000000001
+BID: 99.65, ASK: 99.66000000000001
+BID: 93.5, ASK: 93.51
+BID: 97.91, ASK: 97.92
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJF244XQQV09KYC1R61X24"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "104.64"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584291875366"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.93, ASK: 103.94000000000001
+BID: 101.38, ASK: 101.39
+BID: 103.78, ASK: 103.79
+BID: 105.5, ASK: 105.51
+BID: 93.58, ASK: 93.59
+BID: 95.86, ASK: 95.87
+BID: 100.06, ASK: 100.07000000000001
+BID: 98.52, ASK: 98.53
+BID: 93.1, ASK: 93.11
+BID: 97.54, ASK: 97.55000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.07, ASK: 105.08
+BID: 101.03, ASK: 101.04
+BID: 104.42, ASK: 104.43
+BID: 105.0, ASK: 105.01
+BID: 94.04, ASK: 94.05000000000001
+BID: 96.36, ASK: 96.37
+BID: 99.46, ASK: 99.47
+BID: 97.52, ASK: 97.53
+BID: 93.53, ASK: 93.54
+BID: 98.22, ASK: 98.23
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.77, ASK: 105.78
+BID: 100.57, ASK: 100.58
+BID: 103.71, ASK: 103.72
+BID: 104.53, ASK: 104.54
+BID: 93.27, ASK: 93.28
+BID: 95.76, ASK: 95.77000000000001
+BID: 98.91, ASK: 98.92
+BID: 96.81, ASK: 96.82000000000001
+BID: 93.93, ASK: 93.94000000000001
+BID: 98.87, ASK: 98.88000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJF6TG1KRA1W9JN0VH18XM"
+asset: "F"
+trades {
+  price_level: "95.76"
+  quantity: 34
+}
+filled_qty: 34
+remaining_qty: 399966
+timestamp: "1584291879973"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJF6TSZ5S10PYWYF461H4H"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "98.92"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584291879975"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJF6TTS7CK1NT2VZC31FF9"
+asset: "H"
+trades {
+  price_level: "96.81"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399971
+timestamp: "1584291880176"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.94, ASK: 104.95
+BID: 100.88, ASK: 100.89
+BID: 104.21, ASK: 104.22
+BID: 105.05, ASK: 105.06
+BID: 93.73, ASK: 93.74000000000001
+BID: 96.19, ASK: 96.2
+BID: 99.38, ASK: 99.39
+BID: 97.42, ASK: 97.43
+BID: 93.49, ASK: 93.5
+BID: 99.61, ASK: 99.62
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 106.01, ASK: 106.02000000000001
+BID: 100.52, ASK: 100.53
+BID: 103.72, ASK: 103.73
+BID: 104.54, ASK: 104.55000000000001
+BID: 93.11, ASK: 93.12
+BID: 96.63, ASK: 96.64
+BID: 98.95, ASK: 98.96000000000001
+BID: 96.76, ASK: 96.77000000000001
+BID: 93.02, ASK: 93.03
+BID: 100.05, ASK: 100.06
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.41, ASK: 105.42
+BID: 100.21, ASK: 100.22
+BID: 102.71, ASK: 102.72
+BID: 104.09, ASK: 104.10000000000001
+BID: 92.61, ASK: 92.62
+BID: 96.19, ASK: 96.2
+BID: 98.47, ASK: 98.48
+BID: 97.23, ASK: 97.24000000000001
+BID: 93.46, ASK: 93.47
+BID: 99.08, ASK: 99.09
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFBGBBDQN0QR3QHZA1CQS"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "100.22"
+  quantity: 4
+}
+filled_qty: 4
+remaining_qty: 399996
+timestamp: "1584291884991"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.62, ASK: 104.63000000000001
+BID: 100.52, ASK: 100.53
+BID: 103.44, ASK: 103.45
+BID: 103.64, ASK: 103.65
+BID: 92.14, ASK: 92.15
+BID: 96.58, ASK: 96.59
+BID: 98.12, ASK: 98.13000000000001
+BID: 96.7, ASK: 96.71000000000001
+BID: 93.11, ASK: 93.12
+BID: 98.78, ASK: 98.79
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFD2NFKQ51CD8NJNJ1CYF"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "92.15"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399999
+timestamp: "1584291887561"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.17, ASK: 105.18
+BID: 100.2, ASK: 100.21000000000001
+BID: 103.11, ASK: 103.12
+BID: 103.21, ASK: 103.22
+BID: 93.26, ASK: 93.27000000000001
+BID: 97.19, ASK: 97.2
+BID: 97.56, ASK: 97.57000000000001
+BID: 96.09, ASK: 96.10000000000001
+BID: 93.46, ASK: 93.47
+BID: 98.08, ASK: 98.09
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFD2TB5ES1J58ZQRG1AC8"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "96.71"
+  quantity: 8
+}
+filled_qty: 8
+remaining_qty: 399992
+timestamp: "1584291887775"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFEN8QP1109SD4R1F0J2J"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "98.09"
+  quantity: 7
+}
+filled_qty: 7
+remaining_qty: 399993
+timestamp: "1584291888173"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFEMSAHXZ1ZFZJFZE0DT1"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "97.20"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584291888785"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.53, ASK: 104.54
+BID: 99.87, ASK: 99.88000000000001
+BID: 102.23, ASK: 102.24000000000001
+BID: 102.62, ASK: 102.63000000000001
+BID: 94.04, ASK: 94.05000000000001
+BID: 96.54, ASK: 96.55000000000001
+BID: 96.83, ASK: 96.84
+BID: 95.58, ASK: 95.59
+BID: 92.85, ASK: 92.86
+BID: 97.18, ASK: 97.19000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFG71KMG11H7DABK30WW6"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "92.86"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584291890031"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFG6E0P9Q0QJCANNB13MM"
+asset: "B"
+trades {
+  price_level: "99.87"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584291890557"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.02, ASK: 105.03
+BID: 100.17, ASK: 100.18
+BID: 102.59, ASK: 102.60000000000001
+BID: 103.25, ASK: 103.26
+BID: 93.44, ASK: 93.45
+BID: 96.96, ASK: 96.97
+BID: 97.33, ASK: 97.34
+BID: 96.32, ASK: 96.33
+BID: 93.18, ASK: 93.19000000000001
+BID: 97.73, ASK: 97.74000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.58, ASK: 105.59
+BID: 100.57, ASK: 100.58
+BID: 103.77, ASK: 103.78
+BID: 103.74, ASK: 103.75
+BID: 92.99, ASK: 93.0
+BID: 97.53, ASK: 97.54
+BID: 97.92, ASK: 97.93
+BID: 95.89, ASK: 95.9
+BID: 92.67, ASK: 92.68
+BID: 96.97, ASK: 96.98
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFKAXTX2R0B21E2R10SE8"
+asset: "I"
+trades {
+  price_level: "92.67"
+  quantity: 9
+}
+filled_qty: 9
+remaining_qty: 399991
+timestamp: "1584291893012"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFKAQMX5W0C37HHC7106R"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "97.93"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291893641"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.03, ASK: 105.04
+BID: 100.86, ASK: 100.87
+BID: 104.28, ASK: 104.29
+BID: 103.25, ASK: 103.26
+BID: 93.45, ASK: 93.46000000000001
+BID: 97.05, ASK: 97.06
+BID: 98.43, ASK: 98.44000000000001
+BID: 95.44, ASK: 95.45
+BID: 92.3, ASK: 92.31
+BID: 96.19, ASK: 96.2
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFMXHSCG11WKXSZ0S15RE"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "97.06"
+  quantity: 8
+}
+filled_qty: 8
+remaining_qty: 399992
+timestamp: "1584291894571"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFMWMAEJA1ATS5ZWT083R"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "105.04"
+  quantity: 7
+}
+filled_qty: 7
+remaining_qty: 399993
+timestamp: "1584291895201"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.17, ASK: 104.18
+BID: 100.48, ASK: 100.49000000000001
+BID: 103.31, ASK: 103.32000000000001
+BID: 102.72, ASK: 102.73
+BID: 92.96, ASK: 92.97
+BID: 97.72, ASK: 97.73
+BID: 99.1, ASK: 99.11
+BID: 94.76, ASK: 94.77000000000001
+BID: 92.73, ASK: 92.74000000000001
+BID: 96.92, ASK: 96.93
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.61, ASK: 104.62
+BID: 100.87, ASK: 100.88000000000001
+BID: 104.64, ASK: 104.65
+BID: 103.29, ASK: 103.30000000000001
+BID: 93.58, ASK: 93.59
+BID: 98.17, ASK: 98.18
+BID: 99.64, ASK: 99.65
+BID: 93.59, ASK: 93.60000000000001
+BID: 92.18, ASK: 92.19000000000001
+BID: 97.43, ASK: 97.44000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFR0QSAAE1QMY263808HR"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "93.59"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291897761"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 105.43, ASK: 105.44000000000001
+BID: 101.21, ASK: 101.22
+BID: 103.86, ASK: 103.87
+BID: 102.59, ASK: 102.60000000000001
+BID: 94.21, ASK: 94.22
+BID: 98.78, ASK: 98.79
+BID: 100.36, ASK: 100.37
+BID: 93.18, ASK: 93.19000000000001
+BID: 91.63, ASK: 91.64
+BID: 96.74, ASK: 96.75
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.57, ASK: 104.58
+BID: 101.78, ASK: 101.79
+BID: 102.96, ASK: 102.97
+BID: 102.01, ASK: 102.02000000000001
+BID: 94.71, ASK: 94.72
+BID: 98.08, ASK: 98.09
+BID: 101.0, ASK: 101.01
+BID: 92.73, ASK: 92.74000000000001
+BID: 91.11, ASK: 91.12
+BID: 95.74, ASK: 95.75
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.77, ASK: 103.78
+BID: 102.13, ASK: 102.14
+BID: 104.24, ASK: 104.25
+BID: 102.71, ASK: 102.72
+BID: 95.13, ASK: 95.14
+BID: 97.56, ASK: 97.57000000000001
+BID: 100.38, ASK: 100.39
+BID: 93.4, ASK: 93.41000000000001
+BID: 91.56, ASK: 91.57000000000001
+BID: 95.1, ASK: 95.11
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFV5JQKXE0FZ8R6RP1ZKK"
+asset: "E"
+trades {
+  price_level: "94.71"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584291902206"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFWPP1F4M1PNF81QY140B"
+asset: "A"
+trades {
+  price_level: "103.77"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584291903667"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.21, ASK: 103.22
+BID: 101.84, ASK: 101.85000000000001
+BID: 103.77, ASK: 103.78
+BID: 103.11, ASK: 103.12
+BID: 94.58, ASK: 94.59
+BID: 97.95, ASK: 97.96000000000001
+BID: 99.9, ASK: 99.91000000000001
+BID: 92.98, ASK: 92.99000000000001
+BID: 91.23, ASK: 91.24000000000001
+BID: 94.49, ASK: 94.5
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFY8Y9CAM1RTH6R8314FA"
+asset: "C"
+trades {
+  price_level: "103.77"
+  quantity: 41
+}
+filled_qty: 41
+remaining_qty: 399959
+timestamp: "1584291905190"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFY8XC4KG08KK7XM60AFK"
+asset: "B"
+trades {
+  price_level: "101.84"
+  quantity: 45
+}
+filled_qty: 45
+remaining_qty: 399955
+timestamp: "1584291905192"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.78, ASK: 103.79
+BID: 101.54, ASK: 101.55000000000001
+BID: 104.34, ASK: 104.35000000000001
+BID: 102.69, ASK: 102.7
+BID: 94.96, ASK: 94.97
+BID: 97.44, ASK: 97.45
+BID: 100.45, ASK: 100.46000000000001
+BID: 92.53, ASK: 92.54
+BID: 91.58, ASK: 91.59
+BID: 93.84, ASK: 93.85000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFZTXFSR10NV1ASKA18AF"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "101.55"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584291905599"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJFZV8BT5J10GFPQ6T1B22"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "91.59"
+  quantity: 34
+}
+filled_qty: 34
+remaining_qty: 399966
+timestamp: "1584291905600"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.15, ASK: 103.16000000000001
+BID: 101.19, ASK: 101.2
+BID: 103.77, ASK: 103.78
+BID: 103.15, ASK: 103.16000000000001
+BID: 95.52, ASK: 95.53
+BID: 96.97, ASK: 96.98
+BID: 99.93, ASK: 99.94000000000001
+BID: 93.12, ASK: 93.13000000000001
+BID: 91.21, ASK: 91.22
+BID: 93.02, ASK: 93.03
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG1DMSYFF0S7RT99R03AK"
+asset: "F"
+trades {
+  price_level: "96.97"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584291907441"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.0, ASK: 104.01
+BID: 100.88, ASK: 100.89
+BID: 104.55, ASK: 104.56
+BID: 103.72, ASK: 103.73
+BID: 95.15, ASK: 95.16000000000001
+BID: 97.44, ASK: 97.45
+BID: 99.4, ASK: 99.41000000000001
+BID: 93.62, ASK: 93.63000000000001
+BID: 90.83, ASK: 90.84
+BID: 93.68, ASK: 93.69000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.48, ASK: 103.49000000000001
+BID: 100.56, ASK: 100.57000000000001
+BID: 105.85, ASK: 105.86
+BID: 103.33, ASK: 103.34
+BID: 94.78, ASK: 94.79
+BID: 96.88, ASK: 96.89
+BID: 99.89, ASK: 99.9
+BID: 94.0, ASK: 94.01
+BID: 91.19, ASK: 91.2
+BID: 94.16, ASK: 94.17
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG4HEHNMK1BN8XJH10QR0"
+asset: "I"
+trades {
+  price_level: "91.19"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584291911043"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG4H429EC0H60H4R605B0"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "103.34"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584291911044"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG4HC5T4B0F5BV2E817QT"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "99.90"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584291911445"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.95, ASK: 102.96000000000001
+BID: 100.04, ASK: 100.05000000000001
+BID: 105.38, ASK: 105.39
+BID: 103.85, ASK: 103.86
+BID: 95.14, ASK: 95.15
+BID: 97.43, ASK: 97.44000000000001
+BID: 100.47, ASK: 100.48
+BID: 94.46, ASK: 94.47
+BID: 90.84, ASK: 90.85000000000001
+BID: 94.86, ASK: 94.87
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG62XDK0C1ZPS7TTH0XXJ"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "102.96"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399999
+timestamp: "1584291912666"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.99, ASK: 102.0
+BID: 100.55, ASK: 100.56
+BID: 104.24, ASK: 104.25
+BID: 104.3, ASK: 104.31
+BID: 94.64, ASK: 94.65
+BID: 97.93, ASK: 97.94000000000001
+BID: 101.0, ASK: 101.01
+BID: 93.92, ASK: 93.93
+BID: 91.26, ASK: 91.27000000000001
+BID: 95.42, ASK: 95.43
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG7PM3H761KH7ERBB0V6M"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "95.43"
+  quantity: 25
+}
+filled_qty: 25
+remaining_qty: 399975
+timestamp: "1584291914040"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG7PM3H761KH7ERBB0V6M"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "95.43"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399974
+timestamp: "1584291914047"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.37, ASK: 102.38000000000001
+BID: 100.9, ASK: 100.91000000000001
+BID: 105.03, ASK: 105.04
+BID: 103.88, ASK: 103.89
+BID: 94.3, ASK: 94.31
+BID: 98.45, ASK: 98.46000000000001
+BID: 100.61, ASK: 100.62
+BID: 93.54, ASK: 93.55000000000001
+BID: 91.62, ASK: 91.63000000000001
+BID: 95.87, ASK: 95.88000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG97MVCCH192XEYDB07VM"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "103.89"
+  quantity: 20
+}
+filled_qty: 20
+remaining_qty: 399980
+timestamp: "1584291916194"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJG97VAKP113E5Q2KN152Z"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "91.63"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584291916207"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.94, ASK: 102.95
+BID: 101.33, ASK: 101.34
+BID: 104.26, ASK: 104.27000000000001
+BID: 104.28, ASK: 104.29
+BID: 93.95, ASK: 93.96000000000001
+BID: 98.88, ASK: 98.89
+BID: 101.04, ASK: 101.05000000000001
+BID: 93.86, ASK: 93.87
+BID: 91.97, ASK: 91.98
+BID: 96.42, ASK: 96.43
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGASTHWG20CSGQV8R00XJ"
+asset: "J"
+trades {
+  price_level: "96.42"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584291916819"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.52, ASK: 103.53
+BID: 101.04, ASK: 101.05000000000001
+BID: 104.85, ASK: 104.86
+BID: 104.69, ASK: 104.7
+BID: 93.58, ASK: 93.59
+BID: 99.44, ASK: 99.45
+BID: 100.46, ASK: 100.47
+BID: 94.2, ASK: 94.21000000000001
+BID: 92.32, ASK: 92.33
+BID: 96.99, ASK: 97.0
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGCBETZP60JY83D860HS9"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "93.59"
+  quantity: 34
+}
+filled_qty: 34
+remaining_qty: 399966
+timestamp: "1584291919016"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.94, ASK: 102.95
+BID: 100.64, ASK: 100.65
+BID: 104.27, ASK: 104.28
+BID: 104.23, ASK: 104.24000000000001
+BID: 94.27, ASK: 94.28
+BID: 99.02, ASK: 99.03
+BID: 100.0, ASK: 100.01
+BID: 93.62, ASK: 93.63000000000001
+BID: 91.95, ASK: 91.96000000000001
+BID: 96.4, ASK: 96.41000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGDY2M6MG0B1CS42F0682"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "104.24"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291920049"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.44, ASK: 103.45
+BID: 100.98, ASK: 100.99000000000001
+BID: 105.0, ASK: 105.01
+BID: 104.65, ASK: 104.66000000000001
+BID: 93.92, ASK: 93.93
+BID: 99.47, ASK: 99.48
+BID: 100.34, ASK: 100.35000000000001
+BID: 93.11, ASK: 93.12
+BID: 92.28, ASK: 92.29
+BID: 96.72, ASK: 96.73
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.84, ASK: 103.85000000000001
+BID: 101.25, ASK: 101.26
+BID: 104.31, ASK: 104.32000000000001
+BID: 104.29, ASK: 104.30000000000001
+BID: 94.28, ASK: 94.29
+BID: 99.9, ASK: 99.91000000000001
+BID: 100.8, ASK: 100.81
+BID: 92.6, ASK: 92.61
+BID: 91.97, ASK: 91.98
+BID: 96.2, ASK: 96.21000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.09, ASK: 103.10000000000001
+BID: 100.91, ASK: 100.92
+BID: 104.91, ASK: 104.92
+BID: 103.81, ASK: 103.82000000000001
+BID: 94.69, ASK: 94.7
+BID: 99.23, ASK: 99.24000000000001
+BID: 101.46, ASK: 101.47
+BID: 91.94, ASK: 91.95
+BID: 92.46, ASK: 92.47
+BID: 95.28, ASK: 95.29
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.48, ASK: 103.49000000000001
+BID: 100.6, ASK: 100.61
+BID: 106.04, ASK: 106.05000000000001
+BID: 103.45, ASK: 103.46000000000001
+BID: 95.28, ASK: 95.29
+BID: 98.77, ASK: 98.78
+BID: 101.86, ASK: 101.87
+BID: 92.25, ASK: 92.26
+BID: 92.81, ASK: 92.82000000000001
+BID: 95.83, ASK: 95.84
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.08, ASK: 104.09
+BID: 100.29, ASK: 100.30000000000001
+BID: 105.52, ASK: 105.53
+BID: 104.0, ASK: 104.01
+BID: 94.83, ASK: 94.84
+BID: 99.26, ASK: 99.27000000000001
+BID: 101.43, ASK: 101.44000000000001
+BID: 92.73, ASK: 92.74000000000001
+BID: 93.17, ASK: 93.18
+BID: 95.2, ASK: 95.21000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGNR49T881NFVFZSV0S8T"
+asset: "H"
+trades {
+  price_level: "92.73"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584291928204"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.71, ASK: 104.72
+BID: 100.69, ASK: 100.7
+BID: 105.03, ASK: 105.04
+BID: 103.48, ASK: 103.49000000000001
+BID: 94.48, ASK: 94.49000000000001
+BID: 99.67, ASK: 99.68
+BID: 101.87, ASK: 101.88000000000001
+BID: 92.36, ASK: 92.37
+BID: 92.82, ASK: 92.83
+BID: 95.64, ASK: 95.65
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.17, ASK: 104.18
+BID: 100.31, ASK: 100.32000000000001
+BID: 104.08, ASK: 104.09
+BID: 103.94, ASK: 103.95
+BID: 95.05, ASK: 95.06
+BID: 100.08, ASK: 100.09
+BID: 101.44, ASK: 101.45
+BID: 92.83, ASK: 92.84
+BID: 93.2, ASK: 93.21000000000001
+BID: 95.21, ASK: 95.22
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGRVY9Z1208VHKQ5A0P8G"
+asset: "J"
+trades {
+  price_level: "95.21"
+  quantity: 14
+}
+filled_qty: 14
+remaining_qty: 399986
+timestamp: "1584291932429"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.73, ASK: 104.74000000000001
+BID: 100.75, ASK: 100.76
+BID: 103.43, ASK: 103.44000000000001
+BID: 104.37, ASK: 104.38000000000001
+BID: 94.59, ASK: 94.60000000000001
+BID: 99.61, ASK: 99.62
+BID: 101.96, ASK: 101.97
+BID: 93.17, ASK: 93.18
+BID: 93.75, ASK: 93.76
+BID: 95.84, ASK: 95.85000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGTDJVPDY0J8T5XPB11SW"
+asset: "A"
+trades {
+  price_level: "104.73"
+  quantity: 14
+}
+filled_qty: 14
+remaining_qty: 399986
+timestamp: "1584291934077"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGTEAVQG618RQVED21Z0Q"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "93.76"
+  quantity: 42
+}
+filled_qty: 42
+remaining_qty: 399958
+timestamp: "1584291934078"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.21, ASK: 104.22
+BID: 100.44, ASK: 100.45
+BID: 104.23, ASK: 104.24000000000001
+BID: 104.78, ASK: 104.79
+BID: 94.17, ASK: 94.18
+BID: 100.16, ASK: 100.17
+BID: 102.44, ASK: 102.45
+BID: 93.54, ASK: 93.55000000000001
+BID: 93.21, ASK: 93.22
+BID: 96.2, ASK: 96.21000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGVZQRYJW1BVP357M0HHY"
+asset: "B"
+trades {
+  price_level: "100.44"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584291934607"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.84, ASK: 103.85000000000001
+BID: 100.72, ASK: 100.73
+BID: 104.64, ASK: 104.65
+BID: 104.37, ASK: 104.38000000000001
+BID: 93.82, ASK: 93.83
+BID: 100.7, ASK: 100.71000000000001
+BID: 102.87, ASK: 102.88000000000001
+BID: 93.87, ASK: 93.88000000000001
+BID: 92.81, ASK: 92.82000000000001
+BID: 95.84, ASK: 95.85000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJGXJPSMZ51TRJ2M001T7D"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "102.88"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584291936053"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.25, ASK: 103.26
+BID: 101.02, ASK: 101.03
+BID: 105.39, ASK: 105.4
+BID: 104.79, ASK: 104.80000000000001
+BID: 94.24, ASK: 94.25
+BID: 101.17, ASK: 101.18
+BID: 103.33, ASK: 103.34
+BID: 94.38, ASK: 94.39
+BID: 93.21, ASK: 93.22
+BID: 96.52, ASK: 96.53
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.74, ASK: 103.75
+BID: 100.64, ASK: 100.65
+BID: 106.01, ASK: 106.02000000000001
+BID: 105.25, ASK: 105.26
+BID: 93.71, ASK: 93.72
+BID: 101.71, ASK: 101.72
+BID: 102.84, ASK: 102.85000000000001
+BID: 94.71, ASK: 94.72
+BID: 93.59, ASK: 93.60000000000001
+BID: 96.95, ASK: 96.96000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.2, ASK: 104.21000000000001
+BID: 101.01, ASK: 101.02000000000001
+BID: 105.68, ASK: 105.69000000000001
+BID: 105.6, ASK: 105.61
+BID: 94.07, ASK: 94.08
+BID: 102.05, ASK: 102.06
+BID: 103.26, ASK: 103.27000000000001
+BID: 95.05, ASK: 95.06
+BID: 93.94, ASK: 93.95
+BID: 97.46, ASK: 97.47
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJH29TV1EA1SVE1P8Z00EB"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "94.08"
+  quantity: 24
+}
+filled_qty: 24
+remaining_qty: 399976
+timestamp: "1584291942073"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.48, ASK: 103.49000000000001
+BID: 101.42, ASK: 101.43
+BID: 105.36, ASK: 105.37
+BID: 106.03, ASK: 106.04
+BID: 93.67, ASK: 93.68
+BID: 101.48, ASK: 101.49000000000001
+BID: 102.72, ASK: 102.73
+BID: 94.62, ASK: 94.63000000000001
+BID: 93.52, ASK: 93.53
+BID: 98.03, ASK: 98.04
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJH3Y6VTCC1Y6GA96G0HKT"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "94.63"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584291942534"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJH404W4FG1F3RZVBJ0WYX"
+asset: "J"
+trades {
+  price_level: "98.03"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291942637"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJH3VYJY531BQMMJBV10E0"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "93.68"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291943662"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.94, ASK: 103.95
+BID: 101.96, ASK: 101.97
+BID: 105.05, ASK: 105.06
+BID: 105.47, ASK: 105.48
+BID: 93.27, ASK: 93.28
+BID: 100.99, ASK: 101.0
+BID: 102.14, ASK: 102.15
+BID: 95.17, ASK: 95.18
+BID: 93.04, ASK: 93.05000000000001
+BID: 98.61, ASK: 98.62
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJH5C9RT6R1R066JNM0B5N"
+asset: "B"
+trades {
+  price_level: "101.96"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584291944078"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJH5E2MT8B16E7DH130CZA"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "98.62"
+  quantity: 8
+}
+filled_qty: 8
+remaining_qty: 399992
+timestamp: "1584291945104"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.07, ASK: 103.08
+BID: 102.36, ASK: 102.37
+BID: 103.74, ASK: 103.75
+BID: 106.05, ASK: 106.06
+BID: 92.52, ASK: 92.53
+BID: 100.39, ASK: 100.4
+BID: 101.6, ASK: 101.61
+BID: 95.55, ASK: 95.56
+BID: 92.59, ASK: 92.60000000000001
+BID: 98.15, ASK: 98.16000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.54, ASK: 102.55000000000001
+BID: 102.0, ASK: 102.01
+BID: 102.87, ASK: 102.88000000000001
+BID: 105.65, ASK: 105.66000000000001
+BID: 92.98, ASK: 92.99000000000001
+BID: 99.95, ASK: 99.96000000000001
+BID: 102.16, ASK: 102.17
+BID: 95.2, ASK: 95.21000000000001
+BID: 92.97, ASK: 92.98
+BID: 98.68, ASK: 98.69000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.04, ASK: 103.05000000000001
+BID: 101.68, ASK: 101.69000000000001
+BID: 101.98, ASK: 101.99000000000001
+BID: 105.22, ASK: 105.23
+BID: 93.58, ASK: 93.59
+BID: 100.41, ASK: 100.42
+BID: 101.59, ASK: 101.60000000000001
+BID: 95.63, ASK: 95.64
+BID: 92.52, ASK: 92.53
+BID: 99.23, ASK: 99.24000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJHA2DFMVG0JANPYKV1KQT"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "103.05"
+  quantity: 39
+}
+filled_qty: 39
+remaining_qty: 399961
+timestamp: "1584291949488"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.49, ASK: 103.5
+BID: 101.22, ASK: 101.23
+BID: 101.36, ASK: 101.37
+BID: 104.68, ASK: 104.69000000000001
+BID: 92.89, ASK: 92.9
+BID: 100.83, ASK: 100.84
+BID: 101.04, ASK: 101.05000000000001
+BID: 95.18, ASK: 95.19000000000001
+BID: 92.16, ASK: 92.17
+BID: 98.9, ASK: 98.91000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJHBMGZMPQ1DAMH7FY0JNM"
+asset: "F"
+trades {
+  price_level: "100.83"
+  quantity: 10
+}
+filled_qty: 10
+remaining_qty: 399990
+timestamp: "1584291951311"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.01, ASK: 103.02000000000001
+BID: 101.69, ASK: 101.7
+BID: 102.27, ASK: 102.28
+BID: 105.19, ASK: 105.2
+BID: 93.5, ASK: 93.51
+BID: 101.44, ASK: 101.45
+BID: 101.54, ASK: 101.55000000000001
+BID: 95.91, ASK: 95.92
+BID: 91.61, ASK: 91.62
+BID: 99.58, ASK: 99.59
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJHD80ZK4J0RMA9E2115BS"
+asset: "I"
+trades {
+  price_level: "91.61"
+  quantity: 47
+}
+filled_qty: 47
+remaining_qty: 399953
+timestamp: "1584291952453"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJHD7MC8ZA068N3DTA1XGH"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "95.92"
+  quantity: 50
+}
+filled_qty: 50
+remaining_qty: 399950
+timestamp: "1584291952454"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.58, ASK: 102.59
+BID: 101.39, ASK: 101.4
+BID: 102.9, ASK: 102.91000000000001
+BID: 104.73, ASK: 104.74000000000001
+BID: 93.93, ASK: 93.94000000000001
+BID: 101.93, ASK: 101.94000000000001
+BID: 101.92, ASK: 101.93
+BID: 95.58, ASK: 95.59
+BID: 91.93, ASK: 91.94000000000001
+BID: 99.31, ASK: 99.32000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.05, ASK: 103.06
+BID: 100.9, ASK: 100.91000000000001
+BID: 103.46, ASK: 103.47
+BID: 105.22, ASK: 105.23
+BID: 94.35, ASK: 94.36
+BID: 102.3, ASK: 102.31
+BID: 102.34, ASK: 102.35000000000001
+BID: 96.21, ASK: 96.22
+BID: 92.38, ASK: 92.39
+BID: 99.81, ASK: 99.82000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJHGBM6KH31NY7T0SC17DH"
+asset: "C"
+trades {
+  price_level: "103.46"
+  quantity: 12
+}
+filled_qty: 12
+remaining_qty: 399988
+timestamp: "1584291955531"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.55, ASK: 103.56
+BID: 100.47, ASK: 100.48
+BID: 102.68, ASK: 102.69000000000001
+BID: 104.72, ASK: 104.73
+BID: 93.93, ASK: 93.94000000000001
+BID: 101.79, ASK: 101.80000000000001
+BID: 101.88, ASK: 101.89
+BID: 96.58, ASK: 96.59
+BID: 92.8, ASK: 92.81
+BID: 100.11, ASK: 100.12
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.93, ASK: 102.94000000000001
+BID: 100.06, ASK: 100.07000000000001
+BID: 103.55, ASK: 103.56
+BID: 104.25, ASK: 104.26
+BID: 93.52, ASK: 93.53
+BID: 101.34, ASK: 101.35000000000001
+BID: 101.45, ASK: 101.46000000000001
+BID: 96.07, ASK: 96.08
+BID: 92.42, ASK: 92.43
+BID: 100.41, ASK: 100.42
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.35, ASK: 103.36
+BID: 100.36, ASK: 100.37
+BID: 104.24, ASK: 104.25
+BID: 103.63, ASK: 103.64
+BID: 93.06, ASK: 93.07000000000001
+BID: 101.95, ASK: 101.96000000000001
+BID: 100.82, ASK: 100.83
+BID: 95.15, ASK: 95.16000000000001
+BID: 92.03, ASK: 92.04
+BID: 100.87, ASK: 100.88000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.03, ASK: 104.04
+BID: 100.73, ASK: 100.74000000000001
+BID: 103.26, ASK: 103.27000000000001
+BID: 104.09, ASK: 104.10000000000001
+BID: 92.51, ASK: 92.52000000000001
+BID: 101.32, ASK: 101.33
+BID: 101.37, ASK: 101.38000000000001
+BID: 95.66, ASK: 95.67
+BID: 91.6, ASK: 91.61
+BID: 101.22, ASK: 101.23
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.5, ASK: 104.51
+BID: 100.34, ASK: 100.35000000000001
+BID: 102.58, ASK: 102.59
+BID: 104.51, ASK: 104.52000000000001
+BID: 93.0, ASK: 93.01
+BID: 101.8, ASK: 101.81
+BID: 101.73, ASK: 101.74000000000001
+BID: 96.07, ASK: 96.08
+BID: 91.26, ASK: 91.27000000000001
+BID: 101.51, ASK: 101.52000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.99, ASK: 105.0
+BID: 100.02, ASK: 100.03
+BID: 103.7, ASK: 103.71000000000001
+BID: 104.03, ASK: 104.04
+BID: 92.34, ASK: 92.35000000000001
+BID: 102.41, ASK: 102.42
+BID: 101.26, ASK: 101.27000000000001
+BID: 96.82, ASK: 96.83
+BID: 90.92, ASK: 90.93
+BID: 101.18, ASK: 101.19000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJHSTYQ1931BCZAM220A67"
+asset: "I"
+trades {
+  price_level: "90.92"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399999
+timestamp: "1584291966173"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 104.4, ASK: 104.41000000000001
+BID: 99.7, ASK: 99.71000000000001
+BID: 104.5, ASK: 104.51
+BID: 103.59, ASK: 103.60000000000001
+BID: 92.81, ASK: 92.82000000000001
+BID: 101.65, ASK: 101.66000000000001
+BID: 100.84, ASK: 100.85000000000001
+BID: 96.2, ASK: 96.21000000000001
+BID: 91.28, ASK: 91.29
+BID: 100.6, ASK: 100.61
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.75, ASK: 103.76
+BID: 100.04, ASK: 100.05000000000001
+BID: 103.81, ASK: 103.82000000000001
+BID: 103.02, ASK: 103.03
+BID: 91.79, ASK: 91.80000000000001
+BID: 102.6, ASK: 102.61
+BID: 101.67, ASK: 101.68
+BID: 97.04, ASK: 97.05000000000001
+BID: 91.66, ASK: 91.67
+BID: 101.34, ASK: 101.35000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.07, ASK: 103.08
+BID: 100.36, ASK: 100.37
+BID: 104.72, ASK: 104.73
+BID: 102.57, ASK: 102.58
+BID: 91.3, ASK: 91.31
+BID: 101.81, ASK: 101.82000000000001
+BID: 101.08, ASK: 101.09
+BID: 97.51, ASK: 97.52000000000001
+BID: 91.27, ASK: 91.28
+BID: 100.69, ASK: 100.7
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJHYG1F5DQ0J9QBHKV10H3"
+asset: "E"
+trades {
+  price_level: "91.30"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584291970781"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.55, ASK: 102.56
+BID: 100.78, ASK: 100.79
+BID: 105.21, ASK: 105.22
+BID: 102.14, ASK: 102.15
+BID: 92.09, ASK: 92.10000000000001
+BID: 101.24, ASK: 101.25
+BID: 100.39, ASK: 100.4
+BID: 96.86, ASK: 96.87
+BID: 90.94, ASK: 90.95
+BID: 100.37, ASK: 100.38000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ02R26NR0NWKN8SZ039D"
+asset: "I"
+trades {
+  price_level: "90.94"
+  quantity: 14
+}
+filled_qty: 14
+remaining_qty: 399986
+timestamp: "1584291971597"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ026SD5X1QCEZRYY07KN"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "92.10"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291972539"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.04, ASK: 102.05000000000001
+BID: 100.42, ASK: 100.43
+BID: 104.6, ASK: 104.61
+BID: 101.6, ASK: 101.61
+BID: 91.39, ASK: 91.4
+BID: 100.75, ASK: 100.76
+BID: 99.88, ASK: 99.89
+BID: 96.26, ASK: 96.27000000000001
+BID: 90.62, ASK: 90.63000000000001
+BID: 100.67, ASK: 100.68
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.67, ASK: 102.68
+BID: 100.88, ASK: 100.89
+BID: 103.85, ASK: 103.86
+BID: 101.2, ASK: 101.21000000000001
+BID: 90.91, ASK: 90.92
+BID: 100.25, ASK: 100.26
+BID: 99.37, ASK: 99.38000000000001
+BID: 96.83, ASK: 96.84
+BID: 90.99, ASK: 91.0
+BID: 101.34, ASK: 101.35000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ36CBPH00MJZFSJN0DVT"
+asset: "G"
+trades {
+  price_level: "99.37"
+  quantity: 20
+}
+filled_qty: 20
+remaining_qty: 399980
+timestamp: "1584291975548"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 103.22, ASK: 103.23
+BID: 101.25, ASK: 101.26
+BID: 102.61, ASK: 102.62
+BID: 100.57, ASK: 100.58
+BID: 90.38, ASK: 90.39
+BID: 99.51, ASK: 99.52000000000001
+BID: 99.87, ASK: 99.88000000000001
+BID: 96.08, ASK: 96.09
+BID: 91.37, ASK: 91.38000000000001
+BID: 101.94, ASK: 101.95
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.82, ASK: 102.83
+BID: 101.61, ASK: 101.62
+BID: 103.03, ASK: 103.04
+BID: 100.26, ASK: 100.27000000000001
+BID: 91.29, ASK: 91.30000000000001
+BID: 99.16, ASK: 99.17
+BID: 99.43, ASK: 99.44000000000001
+BID: 95.44, ASK: 95.45
+BID: 91.09, ASK: 91.10000000000001
+BID: 101.52, ASK: 101.53
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ6BG67271FGWZM5G1QQM"
+asset: "C"
+trades {
+  price_level: "103.03"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584291978441"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.42, ASK: 102.43
+BID: 101.09, ASK: 101.10000000000001
+BID: 103.89, ASK: 103.9
+BID: 99.76, ASK: 99.77000000000001
+BID: 91.88, ASK: 91.89
+BID: 98.39, ASK: 98.4
+BID: 100.02, ASK: 100.03
+BID: 95.84, ASK: 95.85000000000001
+BID: 91.44, ASK: 91.45
+BID: 101.09, ASK: 101.10000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ7ZEVTR107T38CQV0BM8"
+asset: "I"
+trades {
+  price_level: "91.44"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584291979630"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ7ZQM9NA17PDZ70212MG"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "101.10"
+  quantity: 44
+}
+filled_qty: 44
+remaining_qty: 399956
+timestamp: "1584291980038"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ7Z2GX1210XF3AD319JT"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "95.85"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584291980039"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ7WPH7EQ1HB0FJFW10DA"
+asset: "B"
+trades {
+  price_level: "101.09"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584291980447"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.97, ASK: 101.98
+BID: 101.48, ASK: 101.49000000000001
+BID: 102.39, ASK: 102.4
+BID: 99.25, ASK: 99.26
+BID: 92.42, ASK: 92.43
+BID: 98.99, ASK: 99.0
+BID: 99.43, ASK: 99.44000000000001
+BID: 96.23, ASK: 96.24000000000001
+BID: 91.83, ASK: 91.84
+BID: 100.63, ASK: 100.64
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJ9G16PQB0N88KY1H114K"
+asset: "D"
+trades {
+  price_level: "99.25"
+  quantity: 25
+}
+filled_qty: 25
+remaining_qty: 399975
+timestamp: "1584291981799"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.45, ASK: 102.46000000000001
+BID: 101.16, ASK: 101.17
+BID: 102.75, ASK: 102.76
+BID: 98.84, ASK: 98.85000000000001
+BID: 91.78, ASK: 91.79
+BID: 98.59, ASK: 98.60000000000001
+BID: 99.05, ASK: 99.06
+BID: 95.85, ASK: 95.86
+BID: 91.51, ASK: 91.52000000000001
+BID: 100.24, ASK: 100.25
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJB109YN70WJ6P0H10W9N"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "101.17"
+  quantity: 31
+}
+filled_qty: 31
+remaining_qty: 399969
+timestamp: "1584291983427"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.85, ASK: 102.86
+BID: 100.84, ASK: 100.85000000000001
+BID: 101.62, ASK: 101.63000000000001
+BID: 98.29, ASK: 98.30000000000001
+BID: 92.29, ASK: 92.30000000000001
+BID: 99.01, ASK: 99.02000000000001
+BID: 99.6, ASK: 99.61
+BID: 96.77, ASK: 96.78
+BID: 91.17, ASK: 91.18
+BID: 100.63, ASK: 100.64
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJCKJ7HNF1RVREA7V1RMD"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "92.30"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584291984667"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.46, ASK: 102.47
+BID: 100.5, ASK: 100.51
+BID: 100.95, ASK: 100.96000000000001
+BID: 98.76, ASK: 98.77000000000001
+BID: 90.87, ASK: 90.88000000000001
+BID: 99.64, ASK: 99.65
+BID: 99.03, ASK: 99.04
+BID: 97.21, ASK: 97.22
+BID: 90.84, ASK: 90.85000000000001
+BID: 101.1, ASK: 101.11
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJE64EDN70ZJBSV861G00"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "99.65"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584291985614"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJE5CPKAA0WA596GP0XT3"
+asset: "D"
+trades {
+  price_level: "98.76"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584291986452"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.93, ASK: 101.94000000000001
+BID: 100.9, ASK: 100.91000000000001
+BID: 100.31, ASK: 100.32000000000001
+BID: 98.39, ASK: 98.4
+BID: 90.24, ASK: 90.25
+BID: 99.02, ASK: 99.03
+BID: 99.49, ASK: 99.5
+BID: 98.37, ASK: 98.38000000000001
+BID: 90.53, ASK: 90.54
+BID: 101.48, ASK: 101.49000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJFQY33XJ0DSAA6A30ZH3"
+asset: "H"
+trades {
+  price_level: "98.37"
+  quantity: 20
+}
+filled_qty: 20
+remaining_qty: 399980
+timestamp: "1584291987385"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJFQM5A83019JZRKR0Q46"
+asset: "F"
+trades {
+  price_level: "99.02"
+  quantity: 3
+}
+filled_qty: 3
+remaining_qty: 399997
+timestamp: "1584291988235"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.21, ASK: 101.22
+BID: 100.43, ASK: 100.44000000000001
+BID: 101.2, ASK: 101.21000000000001
+BID: 97.67, ASK: 97.68
+BID: 91.1, ASK: 91.11
+BID: 99.94, ASK: 99.95
+BID: 98.68, ASK: 98.69000000000001
+BID: 97.71, ASK: 97.72
+BID: 90.93, ASK: 90.94000000000001
+BID: 100.84, ASK: 100.85000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.85, ASK: 100.86
+BID: 100.91, ASK: 100.92
+BID: 101.81, ASK: 101.82000000000001
+BID: 97.15, ASK: 97.16000000000001
+BID: 91.72, ASK: 91.73
+BID: 99.4, ASK: 99.41000000000001
+BID: 99.17, ASK: 99.18
+BID: 98.49, ASK: 98.5
+BID: 90.62, ASK: 90.63000000000001
+BID: 101.36, ASK: 101.37
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJJV91NJ41J6KS5911456"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "100.86"
+  quantity: 31
+}
+filled_qty: 31
+remaining_qty: 399969
+timestamp: "1584291991835"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.48, ASK: 101.49000000000001
+BID: 100.58, ASK: 100.59
+BID: 102.45, ASK: 102.46000000000001
+BID: 96.55, ASK: 96.56
+BID: 90.87, ASK: 90.88000000000001
+BID: 99.99, ASK: 100.0
+BID: 99.76, ASK: 99.77000000000001
+BID: 98.02, ASK: 98.03
+BID: 91.0, ASK: 91.01
+BID: 101.9, ASK: 101.91000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 102.22, ASK: 102.23
+BID: 100.93, ASK: 100.94000000000001
+BID: 101.04, ASK: 101.05000000000001
+BID: 95.96, ASK: 95.97
+BID: 91.54, ASK: 91.55000000000001
+BID: 100.71, ASK: 100.72
+BID: 100.49, ASK: 100.5
+BID: 98.59, ASK: 98.60000000000001
+BID: 90.39, ASK: 90.4
+BID: 100.99, ASK: 101.0
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJNZGMSXF023JVWW41RXN"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "101.05"
+  quantity: 13
+}
+filled_qty: 13
+remaining_qty: 399987
+timestamp: "1584291994634"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJNZAEGG419JZMX991V4B"
+asset: "A"
+trades {
+  price_level: "102.22"
+  quantity: 8
+}
+filled_qty: 8
+remaining_qty: 399992
+timestamp: "1584291995042"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.65, ASK: 101.66000000000001
+BID: 100.52, ASK: 100.53
+BID: 102.24, ASK: 102.25
+BID: 95.57, ASK: 95.58
+BID: 90.79, ASK: 90.80000000000001
+BID: 101.6, ASK: 101.61
+BID: 99.98, ASK: 99.99000000000001
+BID: 99.49, ASK: 99.5
+BID: 90.76, ASK: 90.77000000000001
+BID: 100.52, ASK: 100.53
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.1, ASK: 101.11
+BID: 100.21, ASK: 100.22
+BID: 101.85, ASK: 101.86
+BID: 95.1, ASK: 95.11
+BID: 90.05, ASK: 90.06
+BID: 102.25, ASK: 102.26
+BID: 99.49, ASK: 99.5
+BID: 98.76, ASK: 98.77000000000001
+BID: 91.13, ASK: 91.14
+BID: 101.06, ASK: 101.07000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.66, ASK: 101.67
+BID: 99.76, ASK: 99.77000000000001
+BID: 100.8, ASK: 100.81
+BID: 95.51, ASK: 95.52000000000001
+BID: 89.51, ASK: 89.52000000000001
+BID: 103.19, ASK: 103.2
+BID: 98.89, ASK: 98.9
+BID: 98.21, ASK: 98.22
+BID: 91.51, ASK: 91.52000000000001
+BID: 100.48, ASK: 100.49000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.13, ASK: 101.14
+BID: 99.44, ASK: 99.45
+BID: 101.37, ASK: 101.38000000000001
+BID: 94.91, ASK: 94.92
+BID: 90.07, ASK: 90.08
+BID: 102.55, ASK: 102.56
+BID: 98.36, ASK: 98.37
+BID: 98.85, ASK: 98.86
+BID: 91.06, ASK: 91.07000000000001
+BID: 100.06, ASK: 100.07000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJW7WEB580Z86BJMW08WP"
+asset: "G"
+trades {
+  price_level: "98.36"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584292000386"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.71, ASK: 101.72
+BID: 99.78, ASK: 99.79
+BID: 101.96, ASK: 101.97
+BID: 94.34, ASK: 94.35000000000001
+BID: 88.94, ASK: 88.95
+BID: 101.82, ASK: 101.83
+BID: 99.05, ASK: 99.06
+BID: 99.41, ASK: 99.42
+BID: 90.62, ASK: 90.63000000000001
+BID: 99.32, ASK: 99.33
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJJXT19GNA0W5FQPEC14YQ"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "101.72"
+  quantity: 42
+}
+filled_qty: 42
+remaining_qty: 399958
+timestamp: "1584292002668"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.23, ASK: 101.24000000000001
+BID: 99.4, ASK: 99.41000000000001
+BID: 101.45, ASK: 101.46000000000001
+BID: 93.9, ASK: 93.91000000000001
+BID: 88.34, ASK: 88.35000000000001
+BID: 101.08, ASK: 101.09
+BID: 98.64, ASK: 98.65
+BID: 98.96, ASK: 98.97
+BID: 90.32, ASK: 90.33
+BID: 99.0, ASK: 99.01
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.67, ASK: 101.68
+BID: 99.84, ASK: 99.85000000000001
+BID: 102.42, ASK: 102.43
+BID: 93.28, ASK: 93.29
+BID: 89.02, ASK: 89.03
+BID: 100.41, ASK: 100.42
+BID: 99.13, ASK: 99.14
+BID: 98.38, ASK: 98.39
+BID: 90.65, ASK: 90.66000000000001
+BID: 99.31, ASK: 99.32000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJK0XQHNY61KFTB1PG1WFE"
+asset: "D"
+trades {
+  price_level: "93.28"
+  quantity: 31
+}
+filled_qty: 31
+remaining_qty: 399969
+timestamp: "1584292004812"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJK0Y0WENS1370XGVZ1JQC"
+asset: "F"
+trades {
+  price_level: "100.41"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292006044"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.96, ASK: 100.97
+BID: 99.49, ASK: 99.5
+BID: 101.36, ASK: 101.37
+BID: 93.86, ASK: 93.87
+BID: 89.82, ASK: 89.83
+BID: 101.23, ASK: 101.24000000000001
+BID: 99.88, ASK: 99.89
+BID: 97.84, ASK: 97.85000000000001
+BID: 90.24, ASK: 90.25
+BID: 100.15, ASK: 100.16000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 101.37, ASK: 101.38000000000001
+BID: 99.18, ASK: 99.19000000000001
+BID: 102.27, ASK: 102.28
+BID: 94.26, ASK: 94.27000000000001
+BID: 90.63, ASK: 90.64
+BID: 101.88, ASK: 101.89
+BID: 100.46, ASK: 100.47
+BID: 97.08, ASK: 97.09
+BID: 89.88, ASK: 89.89
+BID: 100.73, ASK: 100.74000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJK424BCC50AXSY99H1DXN"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "101.89"
+  quantity: 48
+}
+filled_qty: 48
+remaining_qty: 399952
+timestamp: "1584292008611"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJK41D997R15FVTBET0DS0"
+asset: "A"
+trades {
+  price_level: "101.37"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584292008818"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJK429AJ331ATPSBCR0PZF"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "97.09"
+  quantity: 33
+}
+filled_qty: 33
+remaining_qty: 399967
+timestamp: "1584292009421"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.88, ASK: 100.89
+BID: 98.88, ASK: 98.89
+BID: 101.7, ASK: 101.71000000000001
+BID: 94.67, ASK: 94.68
+BID: 91.24, ASK: 91.25
+BID: 102.43, ASK: 102.44000000000001
+BID: 100.91, ASK: 100.92
+BID: 96.7, ASK: 96.71000000000001
+BID: 89.58, ASK: 89.59
+BID: 100.27, ASK: 100.28
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.6, ASK: 100.61
+BID: 98.59, ASK: 98.60000000000001
+BID: 102.66, ASK: 102.67
+BID: 94.38, ASK: 94.39
+BID: 90.73, ASK: 90.74000000000001
+BID: 101.91, ASK: 101.92
+BID: 100.57, ASK: 100.58
+BID: 96.35, ASK: 96.36
+BID: 89.29, ASK: 89.30000000000001
+BID: 100.57, ASK: 100.58
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.02, ASK: 100.03
+BID: 98.95, ASK: 98.96000000000001
+BID: 103.24, ASK: 103.25
+BID: 94.78, ASK: 94.79
+BID: 91.31, ASK: 91.32000000000001
+BID: 102.36, ASK: 102.37
+BID: 101.18, ASK: 101.19000000000001
+BID: 95.94, ASK: 95.95
+BID: 88.94, ASK: 88.95
+BID: 100.08, ASK: 100.09
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.42, ASK: 100.43
+BID: 98.59, ASK: 98.60000000000001
+BID: 101.98, ASK: 101.99000000000001
+BID: 94.31, ASK: 94.32000000000001
+BID: 90.8, ASK: 90.81
+BID: 101.94, ASK: 101.95
+BID: 100.7, ASK: 100.71000000000001
+BID: 96.53, ASK: 96.54
+BID: 88.6, ASK: 88.61
+BID: 99.38, ASK: 99.39
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJK8QZSN3P0VZDJFHT0EQB"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "102.37"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584292014423"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKABN50ZV064RB8GM07RB"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "94.32"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584292015664"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.99, ASK: 100.0
+BID: 97.96, ASK: 97.97
+BID: 102.88, ASK: 102.89
+BID: 94.85, ASK: 94.86
+BID: 91.3, ASK: 91.31
+BID: 101.49, ASK: 101.5
+BID: 101.24, ASK: 101.25
+BID: 96.14, ASK: 96.15
+BID: 88.97, ASK: 88.98
+BID: 98.67, ASK: 98.68
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKBXGW4Z50T35CZ3T18PM"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "101.50"
+  quantity: 47
+}
+filled_qty: 47
+remaining_qty: 399953
+timestamp: "1584292017255"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.57, ASK: 99.58
+BID: 97.66, ASK: 97.67
+BID: 102.21, ASK: 102.22
+BID: 95.37, ASK: 95.38000000000001
+BID: 91.77, ASK: 91.78
+BID: 100.76, ASK: 100.77000000000001
+BID: 100.71, ASK: 100.72
+BID: 95.71, ASK: 95.72
+BID: 89.32, ASK: 89.33
+BID: 98.04, ASK: 98.05000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.08, ASK: 99.09
+BID: 97.97, ASK: 97.98
+BID: 101.16, ASK: 101.17
+BID: 94.91, ASK: 94.92
+BID: 91.27, ASK: 91.28
+BID: 100.02, ASK: 100.03
+BID: 100.17, ASK: 100.18
+BID: 94.93, ASK: 94.94000000000001
+BID: 88.94, ASK: 88.95
+BID: 97.04, ASK: 97.05000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKF1GAHY815JQAC7808TJ"
+asset: "D"
+trades {
+  price_level: "94.91"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584292019253"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKDFNN4X21TY53CSA0VY7"
+asset: "J"
+trades {
+  price_level: "98.04"
+  quantity: 15
+}
+filled_qty: 15
+remaining_qty: 399985
+timestamp: "1584292019258"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKF2A28SC0CRSQBJF1H8T"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "94.94"
+  quantity: 25
+}
+filled_qty: 25
+remaining_qty: 399975
+timestamp: "1584292019683"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.65, ASK: 99.66000000000001
+BID: 98.27, ASK: 98.28
+BID: 100.43, ASK: 100.44000000000001
+BID: 94.53, ASK: 94.54
+BID: 91.71, ASK: 91.72
+BID: 99.32, ASK: 99.33
+BID: 100.67, ASK: 100.68
+BID: 95.52, ASK: 95.53
+BID: 88.57, ASK: 88.58
+BID: 97.7, ASK: 97.71000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKGNMEFXF1ECZB89S18HM"
+asset: "J"
+trades {
+  price_level: "97.70"
+  quantity: 34
+}
+filled_qty: 34
+remaining_qty: 399966
+timestamp: "1584292021470"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKGNMEFXF1ECZB89S18HM"
+asset: "J"
+trades {
+  price_level: "97.70"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399923
+timestamp: "1584292021479"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKGN7YAWY0D4SQSRD0VKQ"
+asset: "H"
+trades {
+  price_level: "95.52"
+  quantity: 24
+}
+filled_qty: 24
+remaining_qty: 399976
+timestamp: "1584292021910"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 100.19, ASK: 100.2
+BID: 97.84, ASK: 97.85000000000001
+BID: 99.29, ASK: 99.30000000000001
+BID: 95.02, ASK: 95.03
+BID: 92.32, ASK: 92.33
+BID: 99.81, ASK: 99.82000000000001
+BID: 101.33, ASK: 101.34
+BID: 96.15, ASK: 96.16000000000001
+BID: 88.1, ASK: 88.11
+BID: 96.79, ASK: 96.80000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.76, ASK: 99.77000000000001
+BID: 97.53, ASK: 97.54
+BID: 98.36, ASK: 98.37
+BID: 94.42, ASK: 94.43
+BID: 92.84, ASK: 92.85000000000001
+BID: 99.31, ASK: 99.32000000000001
+BID: 101.84, ASK: 101.85000000000001
+BID: 96.74, ASK: 96.75
+BID: 88.48, ASK: 88.49000000000001
+BID: 96.06, ASK: 96.07000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKKPX3ESX0B2RH5T11P1H"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "99.77"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584292024243"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKKPX3ESX0B2RH5T11P1H"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "99.77"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399936
+timestamp: "1584292025069"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.16, ASK: 99.17
+BID: 97.24, ASK: 97.25
+BID: 97.63, ASK: 97.64
+BID: 94.01, ASK: 94.02000000000001
+BID: 93.24, ASK: 93.25
+BID: 98.72, ASK: 98.73
+BID: 101.31, ASK: 101.32000000000001
+BID: 96.33, ASK: 96.34
+BID: 88.13, ASK: 88.14
+BID: 95.39, ASK: 95.4
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKN99S6KS1GAB9F9R0XRA"
+asset: "A"
+trades {
+  price_level: "99.16"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584292026048"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.64, ASK: 99.65
+BID: 97.58, ASK: 97.59
+BID: 98.26, ASK: 98.27000000000001
+BID: 94.53, ASK: 94.54
+BID: 93.85, ASK: 93.86
+BID: 99.19, ASK: 99.2
+BID: 101.81, ASK: 101.82000000000001
+BID: 96.68, ASK: 96.69000000000001
+BID: 88.44, ASK: 88.45
+BID: 95.12, ASK: 95.13000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKPZ8WJNE02RGMXB20SNM"
+asset: "G"
+trades {
+  price_level: "101.81"
+  quantity: 42
+}
+filled_qty: 42
+remaining_qty: 399958
+timestamp: "1584292027716"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKPZMGW2Y0HGJHR671W3E"
+asset: "H"
+trades {
+  price_level: "96.68"
+  quantity: 36
+}
+filled_qty: 36
+remaining_qty: 399964
+timestamp: "1584292028258"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.88, ASK: 98.89
+BID: 97.17, ASK: 97.18
+BID: 97.49, ASK: 97.5
+BID: 95.16, ASK: 95.17
+BID: 94.27, ASK: 94.28
+BID: 98.39, ASK: 98.4
+BID: 101.12, ASK: 101.13000000000001
+BID: 95.9, ASK: 95.91000000000001
+BID: 87.98, ASK: 87.99000000000001
+BID: 94.1, ASK: 94.11
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.2, ASK: 98.21000000000001
+BID: 96.53, ASK: 96.54
+BID: 96.82, ASK: 96.83
+BID: 95.75, ASK: 95.76
+BID: 94.66, ASK: 94.67
+BID: 99.25, ASK: 99.26
+BID: 101.64, ASK: 101.65
+BID: 95.09, ASK: 95.10000000000001
+BID: 87.46, ASK: 87.47
+BID: 93.55, ASK: 93.56
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKRGMQCZS1FNC03PK1Z3J"
+asset: "F"
+trades {
+  price_level: "98.39"
+  quantity: 47
+}
+filled_qty: 47
+remaining_qty: 399953
+timestamp: "1584292030479"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKT1E3R7X0MY8DNYC0F5D"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "95.10"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584292031327"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKT1E3R7X0MY8DNYC0F5D"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "95.10"
+  quantity: 6
+}
+filled_qty: 6
+remaining_qty: 399951
+timestamp: "1584292031683"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.58, ASK: 98.59
+BID: 96.84, ASK: 96.85000000000001
+BID: 97.64, ASK: 97.65
+BID: 95.1, ASK: 95.11
+BID: 95.04, ASK: 95.05000000000001
+BID: 99.86, ASK: 99.87
+BID: 101.21, ASK: 101.22
+BID: 95.48, ASK: 95.49000000000001
+BID: 87.87, ASK: 87.88000000000001
+BID: 93.14, ASK: 93.15
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKVK5AJA20FVP7Q4Z0SSG"
+asset: "H"
+trades {
+  price_level: "95.48"
+  quantity: 6
+}
+filled_qty: 6
+remaining_qty: 399994
+timestamp: "1584292032958"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.12, ASK: 98.13000000000001
+BID: 96.35, ASK: 96.36
+BID: 97.36, ASK: 97.37
+BID: 94.64, ASK: 94.65
+BID: 95.51, ASK: 95.52000000000001
+BID: 99.46, ASK: 99.47
+BID: 100.66, ASK: 100.67
+BID: 95.04, ASK: 95.05000000000001
+BID: 88.22, ASK: 88.23
+BID: 92.53, ASK: 92.54
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKVKJAN9Q0JECRPC71SBW"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "93.15"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584292033716"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJKX7Q8KRP1Z9K5DT115GD"
+asset: "J"
+trades {
+  price_level: "92.53"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584292033924"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.62, ASK: 98.63000000000001
+BID: 96.78, ASK: 96.79
+BID: 98.0, ASK: 98.01
+BID: 95.21, ASK: 95.22
+BID: 95.94, ASK: 95.95
+BID: 100.07, ASK: 100.08
+BID: 101.17, ASK: 101.18
+BID: 95.42, ASK: 95.43
+BID: 88.62, ASK: 88.63000000000001
+BID: 93.0, ASK: 93.01
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.13, ASK: 99.14
+BID: 97.1, ASK: 97.11
+BID: 96.83, ASK: 96.84
+BID: 95.7, ASK: 95.71000000000001
+BID: 95.39, ASK: 95.4
+BID: 100.61, ASK: 100.62
+BID: 100.71, ASK: 100.72
+BID: 95.95, ASK: 95.96000000000001
+BID: 88.98, ASK: 88.99000000000001
+BID: 93.6, ASK: 93.61
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJM0CXEK3813Q0QK8S0831"
+asset: "J"
+trades {
+  price_level: "93.60"
+  quantity: 18
+}
+filled_qty: 18
+remaining_qty: 399982
+timestamp: "1584292037259"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJM0B0MDDP08ED5WCA1736"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "95.71"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584292037277"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.53, ASK: 98.54
+BID: 97.68, ASK: 97.69000000000001
+BID: 96.07, ASK: 96.08
+BID: 95.25, ASK: 95.26
+BID: 95.73, ASK: 95.74000000000001
+BID: 101.04, ASK: 101.05000000000001
+BID: 101.3, ASK: 101.31
+BID: 96.88, ASK: 96.89
+BID: 88.6, ASK: 88.61
+BID: 93.21, ASK: 93.22
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJM1VXGCRC1DMV7QWV0EHE"
+asset: "E"
+trades {
+  price_level: "95.73"
+  quantity: 47
+}
+filled_qty: 47
+remaining_qty: 399953
+timestamp: "1584292038551"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.96, ASK: 97.97
+BID: 97.28, ASK: 97.29
+BID: 95.0, ASK: 95.01
+BID: 94.7, ASK: 94.71000000000001
+BID: 95.3, ASK: 95.31
+BID: 100.28, ASK: 100.29
+BID: 100.7, ASK: 100.71000000000001
+BID: 96.41, ASK: 96.42
+BID: 88.23, ASK: 88.24000000000001
+BID: 93.74, ASK: 93.75
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.78, ASK: 98.79
+BID: 97.64, ASK: 97.65
+BID: 95.99, ASK: 96.0
+BID: 94.21, ASK: 94.22
+BID: 95.66, ASK: 95.67
+BID: 99.78, ASK: 99.79
+BID: 101.26, ASK: 101.27000000000001
+BID: 96.99, ASK: 97.0
+BID: 87.82, ASK: 87.83
+BID: 94.56, ASK: 94.57000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJM4YV6BV30FZ8QVSE19W2"
+asset: "B"
+trades {
+  price_level: "97.64"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584292043181"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.1, ASK: 99.11
+BID: 98.07, ASK: 98.08
+BID: 97.01, ASK: 97.02000000000001
+BID: 94.66, ASK: 94.67
+BID: 96.1, ASK: 96.11
+BID: 100.45, ASK: 100.46000000000001
+BID: 100.85, ASK: 100.86
+BID: 96.64, ASK: 96.65
+BID: 88.14, ASK: 88.15
+BID: 94.91, ASK: 94.92
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.76, ASK: 98.77000000000001
+BID: 97.79, ASK: 97.80000000000001
+BID: 96.44, ASK: 96.45
+BID: 94.2, ASK: 94.21000000000001
+BID: 95.78, ASK: 95.79
+BID: 99.91, ASK: 99.92
+BID: 100.37, ASK: 100.38000000000001
+BID: 96.15, ASK: 96.16000000000001
+BID: 87.79, ASK: 87.80000000000001
+BID: 94.53, ASK: 94.54
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJM851NY8P1P1JMJ0315RR"
+asset: "I"
+trades {
+  price_level: "87.79"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584292044968"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 99.35, ASK: 99.36
+BID: 98.09, ASK: 98.10000000000001
+BID: 95.54, ASK: 95.55000000000001
+BID: 94.66, ASK: 94.67
+BID: 96.12, ASK: 96.13000000000001
+BID: 100.5, ASK: 100.51
+BID: 100.88, ASK: 100.89
+BID: 96.53, ASK: 96.54
+BID: 87.43, ASK: 87.44000000000001
+BID: 95.15, ASK: 95.16000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.87, ASK: 98.88000000000001
+BID: 98.41, ASK: 98.42
+BID: 95.04, ASK: 95.05000000000001
+BID: 94.34, ASK: 94.35000000000001
+BID: 95.79, ASK: 95.80000000000001
+BID: 100.14, ASK: 100.15
+BID: 100.46, ASK: 100.47
+BID: 96.88, ASK: 96.89
+BID: 87.12, ASK: 87.13000000000001
+BID: 95.87, ASK: 95.88000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMBAV8GJM0G0NEB4G00HE"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "95.88"
+  quantity: 12
+}
+filled_qty: 12
+remaining_qty: 399988
+timestamp: "1584292048363"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMB8TZ2J40DPZA3DM109Z"
+asset: "C"
+trades {
+  price_level: "95.04"
+  quantity: 38
+}
+filled_qty: 38
+remaining_qty: 399962
+timestamp: "1584292049099"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.38, ASK: 98.39
+BID: 98.13, ASK: 98.14
+BID: 95.5, ASK: 95.51
+BID: 94.71, ASK: 94.72
+BID: 96.11, ASK: 96.12
+BID: 99.67, ASK: 99.68
+BID: 100.09, ASK: 100.10000000000001
+BID: 96.32, ASK: 96.33
+BID: 87.46, ASK: 87.47
+BID: 96.33, ASK: 96.34
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.97, ASK: 98.98
+BID: 98.57, ASK: 98.58
+BID: 94.63, ASK: 94.64
+BID: 95.25, ASK: 95.26
+BID: 96.47, ASK: 96.48
+BID: 100.41, ASK: 100.42
+BID: 100.57, ASK: 100.58
+BID: 95.66, ASK: 95.67
+BID: 87.84, ASK: 87.85000000000001
+BID: 96.95, ASK: 96.96000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.63, ASK: 98.64
+BID: 98.32, ASK: 98.33
+BID: 95.02, ASK: 95.03
+BID: 94.93, ASK: 94.94000000000001
+BID: 96.77, ASK: 96.78
+BID: 100.02, ASK: 100.03
+BID: 100.04, ASK: 100.05000000000001
+BID: 95.07, ASK: 95.08
+BID: 88.12, ASK: 88.13000000000001
+BID: 96.62, ASK: 96.63000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMFXZBEPK1RDRD2N50P91"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "100.05"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584292053179"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMFXG2Z970ARGSX0J161Q"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "98.33"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584292053799"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 98.17, ASK: 98.18
+BID: 98.02, ASK: 98.03
+BID: 94.32, ASK: 94.33
+BID: 94.52, ASK: 94.53
+BID: 96.31, ASK: 96.32000000000001
+BID: 99.33, ASK: 99.34
+BID: 99.5, ASK: 99.51
+BID: 94.46, ASK: 94.47
+BID: 87.75, ASK: 87.76
+BID: 95.99, ASK: 96.0
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.6, ASK: 97.61
+BID: 97.73, ASK: 97.74000000000001
+BID: 94.63, ASK: 94.64
+BID: 95.01, ASK: 95.02000000000001
+BID: 96.63, ASK: 96.64
+BID: 100.2, ASK: 100.21000000000001
+BID: 98.93, ASK: 98.94000000000001
+BID: 94.1, ASK: 94.11
+BID: 88.08, ASK: 88.09
+BID: 95.58, ASK: 95.59
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.31, ASK: 97.32000000000001
+BID: 97.47, ASK: 97.48
+BID: 95.04, ASK: 95.05000000000001
+BID: 95.52, ASK: 95.53
+BID: 96.9, ASK: 96.91000000000001
+BID: 100.53, ASK: 100.54
+BID: 98.52, ASK: 98.53
+BID: 94.37, ASK: 94.38000000000001
+BID: 87.77, ASK: 87.78
+BID: 95.83, ASK: 95.84
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.93, ASK: 96.94000000000001
+BID: 97.96, ASK: 97.97
+BID: 95.61, ASK: 95.62
+BID: 95.92, ASK: 95.93
+BID: 97.29, ASK: 97.30000000000001
+BID: 100.17, ASK: 100.18
+BID: 98.07, ASK: 98.08
+BID: 93.96, ASK: 93.97
+BID: 87.36, ASK: 87.37
+BID: 95.51, ASK: 95.52000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMP88DQ7M1JT84BEG046Z"
+asset: "C"
+trades {
+  price_level: "95.61"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584292060144"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMP8S042X063MCMZ50BGS"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "93.97"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584292060769"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMP972MAE1CN0Y0AC1QJ9"
+asset: "J"
+trades {
+  price_level: "95.51"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292060774"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.19, ASK: 97.2
+BID: 98.22, ASK: 98.23
+BID: 96.02, ASK: 96.03
+BID: 96.22, ASK: 96.23
+BID: 96.92, ASK: 96.93
+BID: 99.64, ASK: 99.65
+BID: 98.41, ASK: 98.42
+BID: 94.35, ASK: 94.36
+BID: 87.64, ASK: 87.65
+BID: 95.77, ASK: 95.78
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMQSHQGDR1E2B58721Z4H"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "96.93"
+  quantity: 4
+}
+filled_qty: 4
+remaining_qty: 399996
+timestamp: "1584292062429"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.65, ASK: 97.66000000000001
+BID: 98.89, ASK: 98.9
+BID: 96.51, ASK: 96.52000000000001
+BID: 96.77, ASK: 96.78
+BID: 96.62, ASK: 96.63000000000001
+BID: 100.33, ASK: 100.34
+BID: 98.88, ASK: 98.89
+BID: 94.73, ASK: 94.74000000000001
+BID: 87.27, ASK: 87.28
+BID: 95.25, ASK: 95.26
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMSBCFR260ZR8RV9G1YFH"
+asset: "A"
+trades {
+  price_level: "97.65"
+  quantity: 42
+}
+filled_qty: 42
+remaining_qty: 399958
+timestamp: "1584292063357"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.34, ASK: 97.35000000000001
+BID: 99.2, ASK: 99.21000000000001
+BID: 96.8, ASK: 96.81
+BID: 96.44, ASK: 96.45
+BID: 96.9, ASK: 96.91000000000001
+BID: 99.67, ASK: 99.68
+BID: 99.27, ASK: 99.28
+BID: 95.37, ASK: 95.38000000000001
+BID: 86.95, ASK: 86.96000000000001
+BID: 94.96, ASK: 94.97
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMTYFCW8S1EKVC53J14Y3"
+asset: "F"
+trades {
+  price_level: "99.67"
+  quantity: 38
+}
+filled_qty: 38
+remaining_qty: 399962
+timestamp: "1584292064425"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.78, ASK: 97.79
+BID: 99.52, ASK: 99.53
+BID: 97.14, ASK: 97.15
+BID: 96.13, ASK: 96.14
+BID: 97.26, ASK: 97.27000000000001
+BID: 100.13, ASK: 100.14
+BID: 99.66, ASK: 99.67
+BID: 95.66, ASK: 95.67
+BID: 87.26, ASK: 87.27000000000001
+BID: 94.64, ASK: 94.65
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMWGW3VJH04PFZ0721HTA"
+asset: "I"
+trades {
+  price_level: "87.26"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584292066948"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMWGK3JVZ03NHVPRD03WG"
+asset: "G"
+trades {
+  price_level: "99.66"
+  quantity: 10
+}
+filled_qty: 10
+remaining_qty: 399990
+timestamp: "1584292066962"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.21, ASK: 97.22
+BID: 99.22, ASK: 99.23
+BID: 96.65, ASK: 96.66000000000001
+BID: 95.48, ASK: 95.49000000000001
+BID: 97.58, ASK: 97.59
+BID: 99.53, ASK: 99.54
+BID: 100.27, ASK: 100.28
+BID: 95.11, ASK: 95.12
+BID: 86.78, ASK: 86.79
+BID: 95.31, ASK: 95.32000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.71, ASK: 96.72
+BID: 98.95, ASK: 98.96000000000001
+BID: 96.37, ASK: 96.38000000000001
+BID: 95.87, ASK: 95.88000000000001
+BID: 97.86, ASK: 97.87
+BID: 99.93, ASK: 99.94000000000001
+BID: 100.71, ASK: 100.72
+BID: 95.59, ASK: 95.60000000000001
+BID: 87.14, ASK: 87.15
+BID: 95.03, ASK: 95.04
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJMZKCPN1V0W27VB8F0F6N"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "96.72"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584292069647"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.19, ASK: 97.2
+BID: 99.28, ASK: 99.29
+BID: 95.81, ASK: 95.82000000000001
+BID: 96.31, ASK: 96.32000000000001
+BID: 98.17, ASK: 98.18
+BID: 99.45, ASK: 99.46000000000001
+BID: 101.29, ASK: 101.30000000000001
+BID: 95.21, ASK: 95.22
+BID: 86.75, ASK: 86.76
+BID: 95.7, ASK: 95.71000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN19GT2SW1A0S2R4T0Y79"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "95.71"
+  quantity: 15
+}
+filled_qty: 15
+remaining_qty: 399985
+timestamp: "1584292070797"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN17HFXDA19RXZY0X1CHC"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "96.32"
+  quantity: 39
+}
+filled_qty: 39
+remaining_qty: 399961
+timestamp: "1584292072020"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.62, ASK: 96.63000000000001
+BID: 98.92, ASK: 98.93
+BID: 95.23, ASK: 95.24000000000001
+BID: 96.76, ASK: 96.77000000000001
+BID: 97.88, ASK: 97.89
+BID: 99.05, ASK: 99.06
+BID: 100.84, ASK: 100.85000000000001
+BID: 94.92, ASK: 94.93
+BID: 87.11, ASK: 87.12
+BID: 96.13, ASK: 96.14
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN2V7A2360419DDM207P5"
+asset: "H"
+trades {
+  price_level: "94.92"
+  quantity: 13
+}
+filled_qty: 13
+remaining_qty: 399987
+timestamp: "1584292073067"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN2SCKASY0FSXWCKE0XER"
+asset: "B"
+trades {
+  price_level: "98.92"
+  quantity: 11
+}
+filled_qty: 11
+remaining_qty: 399989
+timestamp: "1584292073296"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN2SCKASY0FSXWCKE0XER"
+asset: "B"
+trades {
+  price_level: "98.92"
+  quantity: 37
+}
+filled_qty: 37
+remaining_qty: 399952
+timestamp: "1584292073706"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 97.02, ASK: 97.03
+BID: 98.58, ASK: 98.59
+BID: 94.81, ASK: 94.82000000000001
+BID: 97.21, ASK: 97.22
+BID: 97.37, ASK: 97.38000000000001
+BID: 98.6, ASK: 98.61
+BID: 100.39, ASK: 100.4
+BID: 94.59, ASK: 94.60000000000001
+BID: 87.47, ASK: 87.48
+BID: 96.74, ASK: 96.75
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN4C779NA17W9XN840B8Z"
+asset: "H"
+trades {
+  price_level: "94.59"
+  quantity: 12
+}
+filled_qty: 12
+remaining_qty: 399988
+timestamp: "1584292074438"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN4C2ACRW18SJ6RCP0YYM"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "100.40"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292075113"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.69, ASK: 96.7
+BID: 98.86, ASK: 98.87
+BID: 95.42, ASK: 95.43
+BID: 96.79, ASK: 96.80000000000001
+BID: 97.65, ASK: 97.66000000000001
+BID: 98.94, ASK: 98.95
+BID: 100.71, ASK: 100.72
+BID: 94.1, ASK: 94.11
+BID: 87.14, ASK: 87.15
+BID: 97.01, ASK: 97.02000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.98, ASK: 96.99000000000001
+BID: 98.59, ASK: 98.60000000000001
+BID: 95.04, ASK: 95.05000000000001
+BID: 96.35, ASK: 96.36
+BID: 97.94, ASK: 97.95
+BID: 98.52, ASK: 98.53
+BID: 100.28, ASK: 100.29
+BID: 93.66, ASK: 93.67
+BID: 86.71, ASK: 86.72
+BID: 97.29, ASK: 97.30000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.65, ASK: 96.66000000000001
+BID: 98.91, ASK: 98.92
+BID: 95.87, ASK: 95.88000000000001
+BID: 95.83, ASK: 95.84
+BID: 98.32, ASK: 98.33
+BID: 97.93, ASK: 97.94000000000001
+BID: 100.78, ASK: 100.79
+BID: 93.13, ASK: 93.14
+BID: 87.11, ASK: 87.12
+BID: 97.66, ASK: 97.67
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN91VZJ9X18GQ7TZ01QCH"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "98.92"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584292079100"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJN92K5GQY1DH1R8FH02HC"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "97.67"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584292079287"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.26, ASK: 96.27000000000001
+BID: 99.22, ASK: 99.23
+BID: 95.59, ASK: 95.60000000000001
+BID: 95.27, ASK: 95.28
+BID: 97.99, ASK: 98.0
+BID: 98.44, ASK: 98.45
+BID: 100.26, ASK: 100.27000000000001
+BID: 92.81, ASK: 92.82000000000001
+BID: 86.72, ASK: 86.73
+BID: 97.23, ASK: 97.24000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.8, ASK: 95.81
+BID: 99.74, ASK: 99.75
+BID: 95.05, ASK: 95.06
+BID: 94.78, ASK: 94.79
+BID: 97.68, ASK: 97.69000000000001
+BID: 97.78, ASK: 97.79
+BID: 99.74, ASK: 99.75
+BID: 92.35, ASK: 92.36
+BID: 86.26, ASK: 86.27000000000001
+BID: 96.8, ASK: 96.81
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.46, ASK: 95.47
+BID: 99.46, ASK: 99.47
+BID: 95.41, ASK: 95.42
+BID: 95.3, ASK: 95.31
+BID: 97.97, ASK: 97.98
+BID: 97.33, ASK: 97.34
+BID: 100.18, ASK: 100.19000000000001
+BID: 91.82, ASK: 91.83
+BID: 85.89, ASK: 85.9
+BID: 97.26, ASK: 97.27000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNC790P0Z0ZX3DPBS1MP9"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "94.79"
+  quantity: 14
+}
+filled_qty: 14
+remaining_qty: 399986
+timestamp: "1584292083500"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNC7FHDJD1KEB8EA106M4"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "99.75"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399999
+timestamp: "1584292083523"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.15, ASK: 95.16000000000001
+BID: 99.73, ASK: 99.74000000000001
+BID: 95.69, ASK: 95.7
+BID: 94.96, ASK: 94.97
+BID: 97.69, ASK: 97.7
+BID: 96.99, ASK: 97.0
+BID: 99.81, ASK: 99.82000000000001
+BID: 92.08, ASK: 92.09
+BID: 85.39, ASK: 85.4
+BID: 96.99, ASK: 97.0
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNFBMFRXM01BWP5EA03N3"
+asset: "D"
+trades {
+  price_level: "94.96"
+  quantity: 37
+}
+filled_qty: 37
+remaining_qty: 399963
+timestamp: "1584292085281"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNFCW68WY033YB5YX106A"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "85.40"
+  quantity: 8
+}
+filled_qty: 8
+remaining_qty: 399992
+timestamp: "1584292086307"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.65, ASK: 95.66000000000001
+BID: 99.42, ASK: 99.43
+BID: 95.38, ASK: 95.39
+BID: 94.43, ASK: 94.44000000000001
+BID: 98.19, ASK: 98.2
+BID: 96.35, ASK: 96.36
+BID: 100.23, ASK: 100.24000000000001
+BID: 91.77, ASK: 91.78
+BID: 85.85, ASK: 85.86
+BID: 97.32, ASK: 97.33
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 96.0, ASK: 96.01
+BID: 99.13, ASK: 99.14
+BID: 94.7, ASK: 94.71000000000001
+BID: 94.09, ASK: 94.10000000000001
+BID: 98.48, ASK: 98.49000000000001
+BID: 95.98, ASK: 95.99000000000001
+BID: 99.9, ASK: 99.91000000000001
+BID: 92.24, ASK: 92.25
+BID: 85.42, ASK: 85.43
+BID: 96.93, ASK: 96.94000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 95.52, ASK: 95.53
+BID: 98.84, ASK: 98.85000000000001
+BID: 94.09, ASK: 94.10000000000001
+BID: 94.55, ASK: 94.56
+BID: 98.16, ASK: 98.17
+BID: 96.36, ASK: 96.37
+BID: 100.35, ASK: 100.36
+BID: 92.54, ASK: 92.55000000000001
+BID: 84.9, ASK: 84.91000000000001
+BID: 96.32, ASK: 96.33
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNM2BAFD11ENNY26F14V6"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "96.33"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584292090293"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.9, ASK: 94.91000000000001
+BID: 99.16, ASK: 99.17
+BID: 94.4, ASK: 94.41000000000001
+BID: 95.18, ASK: 95.19000000000001
+BID: 98.49, ASK: 98.5
+BID: 95.84, ASK: 95.85000000000001
+BID: 99.92, ASK: 99.93
+BID: 93.08, ASK: 93.09
+BID: 84.33, ASK: 84.34
+BID: 95.69, ASK: 95.7
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNNKTJDGW18AQT75C1NHT"
+asset: "E"
+trades {
+  price_level: "98.49"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584292091575"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNNMPQFQQ132HPCJ410B4"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "84.34"
+  quantity: 13
+}
+filled_qty: 13
+remaining_qty: 399987
+timestamp: "1584292091576"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNNKK6R6T1VETGJ8111YF"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "94.41"
+  quantity: 43
+}
+filled_qty: 43
+remaining_qty: 399957
+timestamp: "1584292092557"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.34, ASK: 94.35000000000001
+BID: 99.47, ASK: 99.48
+BID: 94.99, ASK: 95.0
+BID: 95.55, ASK: 95.56
+BID: 98.06, ASK: 98.07000000000001
+BID: 96.55, ASK: 96.56
+BID: 100.29, ASK: 100.30000000000001
+BID: 93.41, ASK: 93.42
+BID: 84.78, ASK: 84.79
+BID: 96.04, ASK: 96.05000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNQ5J0CEN04E762KW052C"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "94.35"
+  quantity: 24
+}
+filled_qty: 24
+remaining_qty: 399976
+timestamp: "1584292093503"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNQ77NH2A08SN6D4X17CT"
+asset: "H"
+trades {
+  price_level: "93.41"
+  quantity: 18
+}
+filled_qty: 18
+remaining_qty: 399982
+timestamp: "1584292094121"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.85, ASK: 94.86
+BID: 99.82, ASK: 99.83
+BID: 95.65, ASK: 95.66000000000001
+BID: 95.04, ASK: 95.05000000000001
+BID: 97.73, ASK: 97.74000000000001
+BID: 95.99, ASK: 96.0
+BID: 99.82, ASK: 99.83
+BID: 92.84, ASK: 92.85000000000001
+BID: 83.91, ASK: 83.92
+BID: 96.38, ASK: 96.39
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNRR374M10Y0Y6C10083E"
+asset: "B"
+trades {
+  price_level: "99.82"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584292094965"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.29, ASK: 94.30000000000001
+BID: 99.52, ASK: 99.53
+BID: 95.35, ASK: 95.36
+BID: 95.45, ASK: 95.46000000000001
+BID: 97.4, ASK: 97.41000000000001
+BID: 95.33, ASK: 95.34
+BID: 99.4, ASK: 99.41000000000001
+BID: 93.35, ASK: 93.36
+BID: 83.45, ASK: 83.46000000000001
+BID: 96.99, ASK: 97.0
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.79, ASK: 93.80000000000001
+BID: 99.89, ASK: 99.9
+BID: 95.94, ASK: 95.95
+BID: 95.99, ASK: 96.0
+BID: 97.7, ASK: 97.71000000000001
+BID: 94.96, ASK: 94.97
+BID: 99.83, ASK: 99.84
+BID: 93.79, ASK: 93.80000000000001
+BID: 83.94, ASK: 83.95
+BID: 97.43, ASK: 97.44000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNVWDY0BB1P8N4SWC0BPF"
+asset: "D"
+trades {
+  price_level: "95.99"
+  quantity: 11
+}
+filled_qty: 11
+remaining_qty: 399989
+timestamp: "1584292098951"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.17, ASK: 94.18
+BID: 99.49, ASK: 99.5
+BID: 96.22, ASK: 96.23
+BID: 96.44, ASK: 96.45
+BID: 97.98, ASK: 97.99000000000001
+BID: 95.28, ASK: 95.29
+BID: 99.52, ASK: 99.53
+BID: 94.13, ASK: 94.14
+BID: 83.47, ASK: 83.48
+BID: 97.72, ASK: 97.73
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJNXFY5EJP0M4G37X91KH1"
+asset: "G"
+trades {
+  price_level: "99.52"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584292099983"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.83, ASK: 93.84
+BID: 99.09, ASK: 99.10000000000001
+BID: 95.6, ASK: 95.61
+BID: 95.94, ASK: 95.95
+BID: 97.67, ASK: 97.68
+BID: 94.87, ASK: 94.88000000000001
+BID: 99.08, ASK: 99.09
+BID: 93.71, ASK: 93.72
+BID: 82.94, ASK: 82.95
+BID: 98.08, ASK: 98.09
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.17, ASK: 93.18
+BID: 98.76, ASK: 98.77000000000001
+BID: 95.29, ASK: 95.30000000000001
+BID: 95.39, ASK: 95.4
+BID: 97.31, ASK: 97.32000000000001
+BID: 94.27, ASK: 94.28
+BID: 98.61, ASK: 98.62
+BID: 93.31, ASK: 93.32000000000001
+BID: 81.9, ASK: 81.91000000000001
+BID: 98.47, ASK: 98.48
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP0JTESY4084F2H9417AM"
+asset: "D"
+trades {
+  price_level: "95.39"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584292103010"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP0HYW06E1TNCBF741GZH"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "93.18"
+  quantity: 44
+}
+filled_qty: 44
+remaining_qty: 399956
+timestamp: "1584292103011"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP0K0CNPN06Q0FHJW1WXK"
+asset: "E"
+trades {
+  price_level: "97.31"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584292103322"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.61, ASK: 93.62
+BID: 99.05, ASK: 99.06
+BID: 95.73, ASK: 95.74000000000001
+BID: 94.89, ASK: 94.9
+BID: 97.65, ASK: 97.66000000000001
+BID: 93.82, ASK: 93.83
+BID: 98.13, ASK: 98.14
+BID: 92.84, ASK: 92.85000000000001
+BID: 81.4, ASK: 81.41000000000001
+BID: 97.94, ASK: 97.95
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP254208A12BT5DB40PMV"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "92.85"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584292105602"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.0, ASK: 94.01
+BID: 99.45, ASK: 99.46000000000001
+BID: 95.31, ASK: 95.32000000000001
+BID: 95.45, ASK: 95.46000000000001
+BID: 97.95, ASK: 97.96000000000001
+BID: 94.41, ASK: 94.42
+BID: 98.49, ASK: 98.5
+BID: 93.22, ASK: 93.23
+BID: 81.94, ASK: 81.95
+BID: 97.64, ASK: 97.65
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP3S2YT5E10W1WKXE0TTK"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "97.65"
+  quantity: 15
+}
+filled_qty: 15
+remaining_qty: 399985
+timestamp: "1584292106020"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP3RBRXR405CQ2PVF0JPZ"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "93.23"
+  quantity: 19
+}
+filled_qty: 19
+remaining_qty: 399981
+timestamp: "1584292106943"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP3RHXBSD0EHN0SS80BPE"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "81.95"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584292107147"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP3Q0RMH913SJDD941P2H"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "99.46"
+  quantity: 20
+}
+filled_qty: 20
+remaining_qty: 399980
+timestamp: "1584292107163"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP3RHXBSD0EHN0SS80BPE"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "81.95"
+  quantity: 39
+}
+filled_qty: 39
+remaining_qty: 399915
+timestamp: "1584292107376"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.66, ASK: 93.67
+BID: 99.06, ASK: 99.07000000000001
+BID: 95.75, ASK: 95.76
+BID: 95.99, ASK: 96.0
+BID: 97.43, ASK: 97.44000000000001
+BID: 94.77, ASK: 94.78
+BID: 98.98, ASK: 98.99000000000001
+BID: 93.54, ASK: 93.55000000000001
+BID: 81.38, ASK: 81.39
+BID: 97.19, ASK: 97.2
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP58DWXG91NQ479M70ETP"
+asset: "B"
+trades {
+  price_level: "99.06"
+  quantity: 17
+}
+filled_qty: 17
+remaining_qty: 399983
+timestamp: "1584292108735"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.3, ASK: 93.31
+BID: 98.75, ASK: 98.76
+BID: 96.05, ASK: 96.06
+BID: 96.65, ASK: 96.66000000000001
+BID: 97.06, ASK: 97.07000000000001
+BID: 95.27, ASK: 95.28
+BID: 98.47, ASK: 98.48
+BID: 94.05, ASK: 94.06
+BID: 82.2, ASK: 82.21000000000001
+BID: 96.87, ASK: 96.88000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.64, ASK: 93.65
+BID: 99.03, ASK: 99.04
+BID: 95.57, ASK: 95.58
+BID: 96.19, ASK: 96.2
+BID: 97.35, ASK: 97.36
+BID: 94.93, ASK: 94.94000000000001
+BID: 98.06, ASK: 98.07000000000001
+BID: 93.74, ASK: 93.75
+BID: 82.79, ASK: 82.80000000000001
+BID: 96.35, ASK: 96.36
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJP8EZ7KGB0P61JTWS1495"
+asset: "I"
+trades {
+  price_level: "82.79"
+  quantity: 41
+}
+filled_qty: 41
+remaining_qty: 399959
+timestamp: "1584292112240"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.12, ASK: 94.13000000000001
+BID: 98.65, ASK: 98.66000000000001
+BID: 96.38, ASK: 96.39
+BID: 96.71, ASK: 96.72
+BID: 97.93, ASK: 97.94000000000001
+BID: 95.61, ASK: 95.62
+BID: 98.68, ASK: 98.69000000000001
+BID: 94.36, ASK: 94.37
+BID: 83.27, ASK: 83.28
+BID: 96.79, ASK: 96.80000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPA1JV5W918XSTB4P1QJS"
+asset: "E"
+trades {
+  price_level: "97.93"
+  quantity: 30
+}
+filled_qty: 30
+remaining_qty: 399970
+timestamp: "1584292112992"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.65, ASK: 93.66000000000001
+BID: 98.97, ASK: 98.98
+BID: 96.87, ASK: 96.88000000000001
+BID: 96.13, ASK: 96.14
+BID: 97.61, ASK: 97.62
+BID: 96.14, ASK: 96.15
+BID: 98.26, ASK: 98.27000000000001
+BID: 93.71, ASK: 93.72
+BID: 82.65, ASK: 82.66000000000001
+BID: 96.17, ASK: 96.18
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPBJCFRX014D18MDM03DD"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "96.18"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584292114260"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.29, ASK: 93.30000000000001
+BID: 99.3, ASK: 99.31
+BID: 97.17, ASK: 97.18
+BID: 96.56, ASK: 96.57000000000001
+BID: 97.9, ASK: 97.91000000000001
+BID: 96.62, ASK: 96.63000000000001
+BID: 98.67, ASK: 98.68
+BID: 93.32, ASK: 93.33
+BID: 83.08, ASK: 83.09
+BID: 95.66, ASK: 95.67
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPD4S776R09BN2FSG0MK4"
+asset: "E"
+trades {
+  price_level: "97.90"
+  quantity: 6
+}
+filled_qty: 6
+remaining_qty: 399994
+timestamp: "1584292115821"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPD4459KW1PZ7V24Q1P24"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "93.30"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399999
+timestamp: "1584292116984"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.71, ASK: 93.72
+BID: 99.0, ASK: 99.01
+BID: 96.67, ASK: 96.68
+BID: 96.03, ASK: 96.04
+BID: 98.19, ASK: 98.2
+BID: 97.07, ASK: 97.08
+BID: 99.14, ASK: 99.15
+BID: 93.63, ASK: 93.64
+BID: 82.59, ASK: 82.60000000000001
+BID: 96.2, ASK: 96.21000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPEPHRNX805M7YMEM119T"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "99.15"
+  quantity: 33
+}
+filled_qty: 33
+remaining_qty: 399967
+timestamp: "1584292118452"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.98, ASK: 92.99000000000001
+BID: 98.68, ASK: 98.69000000000001
+BID: 97.23, ASK: 97.24000000000001
+BID: 95.57, ASK: 95.58
+BID: 97.88, ASK: 97.89
+BID: 97.66, ASK: 97.67
+BID: 99.61, ASK: 99.62
+BID: 94.16, ASK: 94.17
+BID: 81.87, ASK: 81.88000000000001
+BID: 95.85, ASK: 95.86
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.64, ASK: 93.65
+BID: 99.15, ASK: 99.16000000000001
+BID: 96.91, ASK: 96.92
+BID: 94.94, ASK: 94.95
+BID: 98.18, ASK: 98.19000000000001
+BID: 98.12, ASK: 98.13000000000001
+BID: 100.22, ASK: 100.23
+BID: 93.7, ASK: 93.71000000000001
+BID: 82.39, ASK: 82.4
+BID: 96.38, ASK: 96.39
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPHSP7ZRF10A94V2J10R8"
+asset: "D"
+trades {
+  price_level: "94.94"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584292120468"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPHV8KPCZ1REFAQWB17DS"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "96.39"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584292120597"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 94.04, ASK: 94.05000000000001
+BID: 99.58, ASK: 99.59
+BID: 96.42, ASK: 96.43
+BID: 95.53, ASK: 95.54
+BID: 97.88, ASK: 97.89
+BID: 97.56, ASK: 97.57000000000001
+BID: 100.6, ASK: 100.61
+BID: 94.03, ASK: 94.04
+BID: 83.1, ASK: 83.11
+BID: 96.09, ASK: 96.10000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPKCCRP2J073N77X81TS8"
+asset: "D"
+trades {
+  price_level: "95.53"
+  quantity: 36
+}
+filled_qty: 36
+remaining_qty: 399964
+timestamp: "1584292122468"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPKD8H4VG1PCCVCTW1Q98"
+asset: "I"
+trades {
+  price_level: "83.10"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399971
+timestamp: "1584292122676"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPKBXRVBB0V93DSEV0WHV"
+asset: "A"
+trades {
+  price_level: "94.04"
+  quantity: 48
+}
+filled_qty: 48
+remaining_qty: 399952
+timestamp: "1584292122988"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.46, ASK: 93.47
+BID: 99.24, ASK: 99.25
+BID: 95.64, ASK: 95.65
+BID: 95.07, ASK: 95.08
+BID: 97.5, ASK: 97.51
+BID: 97.13, ASK: 97.14
+BID: 100.25, ASK: 100.26
+BID: 93.59, ASK: 93.60000000000001
+BID: 82.7, ASK: 82.71000000000001
+BID: 95.8, ASK: 95.81
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.92, ASK: 92.93
+BID: 98.87, ASK: 98.88000000000001
+BID: 96.16, ASK: 96.17
+BID: 95.56, ASK: 95.57000000000001
+BID: 97.22, ASK: 97.23
+BID: 96.6, ASK: 96.61
+BID: 99.75, ASK: 99.76
+BID: 93.3, ASK: 93.31
+BID: 82.32, ASK: 82.33
+BID: 95.39, ASK: 95.4
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPPJ60EK90JJ3P8WP0K28"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "96.61"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584292125470"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.33, ASK: 93.34
+BID: 99.15, ASK: 99.16000000000001
+BID: 96.48, ASK: 96.49000000000001
+BID: 95.94, ASK: 95.95
+BID: 96.85, ASK: 96.86
+BID: 97.03, ASK: 97.04
+BID: 100.15, ASK: 100.16000000000001
+BID: 92.99, ASK: 93.0
+BID: 82.7, ASK: 82.71000000000001
+BID: 96.04, ASK: 96.05000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.97, ASK: 92.98
+BID: 99.51, ASK: 99.52000000000001
+BID: 96.08, ASK: 96.09
+BID: 95.43, ASK: 95.44000000000001
+BID: 96.41, ASK: 96.42
+BID: 97.39, ASK: 97.4
+BID: 100.63, ASK: 100.64
+BID: 93.27, ASK: 93.28
+BID: 82.23, ASK: 82.24000000000001
+BID: 95.57, ASK: 95.58
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPSMYY01B16QEX4241Z33"
+asset: "H"
+trades {
+  price_level: "93.27"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292129443"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPSMXG4VY098T4C3F1YNV"
+asset: "G"
+trades {
+  price_level: "100.63"
+  quantity: 48
+}
+filled_qty: 48
+remaining_qty: 399952
+timestamp: "1584292129653"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPSNJV0ZT0JH09BK90QP4"
+asset: "J"
+trades {
+  price_level: "95.57"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584292129860"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.65, ASK: 92.66000000000001
+BID: 99.08, ASK: 99.09
+BID: 96.81, ASK: 96.82000000000001
+BID: 95.03, ASK: 95.04
+BID: 96.12, ASK: 96.13000000000001
+BID: 96.89, ASK: 96.9
+BID: 100.21, ASK: 100.22
+BID: 93.62, ASK: 93.63000000000001
+BID: 81.85, ASK: 81.86
+BID: 95.14, ASK: 95.15
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPV7ETAQ100JR6K041D62"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "96.13"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399971
+timestamp: "1584292130072"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPV8CXF1J0HXWBWMZ04G2"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "93.63"
+  quantity: 6
+}
+filled_qty: 6
+remaining_qty: 399994
+timestamp: "1584292130290"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPV7SBRR21T315R34055E"
+order_side: SELL
+asset: "F"
+trades {
+  price_level: "96.90"
+  quantity: 12
+}
+filled_qty: 12
+remaining_qty: 399988
+timestamp: "1584292130811"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPV7KFQMQ0VTMXKRH02X5"
+asset: "F"
+trades {
+  price_level: "96.89"
+  quantity: 20
+}
+filled_qty: 20
+remaining_qty: 399980
+timestamp: "1584292131223"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.07, ASK: 93.08
+BID: 98.77, ASK: 98.78
+BID: 97.65, ASK: 97.66000000000001
+BID: 95.45, ASK: 95.46000000000001
+BID: 95.79, ASK: 95.80000000000001
+BID: 97.24, ASK: 97.25
+BID: 99.88, ASK: 99.89
+BID: 93.96, ASK: 93.97
+BID: 82.55, ASK: 82.56
+BID: 95.62, ASK: 95.63000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPWT4TZM201RS051C1QFS"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "95.63"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584292132604"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 93.57, ASK: 93.58
+BID: 98.34, ASK: 98.35000000000001
+BID: 98.25, ASK: 98.26
+BID: 95.82, ASK: 95.83
+BID: 95.51, ASK: 95.52000000000001
+BID: 97.72, ASK: 97.73
+BID: 100.25, ASK: 100.26
+BID: 94.3, ASK: 94.31
+BID: 82.12, ASK: 82.13000000000001
+BID: 95.9, ASK: 95.91000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPYBXA8D41MXB31EX1KBR"
+asset: "F"
+trades {
+  price_level: "97.72"
+  quantity: 6
+}
+filled_qty: 6
+remaining_qty: 399994
+timestamp: "1584292133488"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPYBGH9Y01EPM4TVM0RTM"
+asset: "D"
+trades {
+  price_level: "95.82"
+  quantity: 17
+}
+filled_qty: 17
+remaining_qty: 399983
+timestamp: "1584292133605"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.89, ASK: 92.9
+BID: 98.67, ASK: 98.68
+BID: 99.04, ASK: 99.05000000000001
+BID: 95.15, ASK: 95.16000000000001
+BID: 95.18, ASK: 95.19000000000001
+BID: 97.16, ASK: 97.17
+BID: 99.61, ASK: 99.62
+BID: 94.65, ASK: 94.66000000000001
+BID: 81.41, ASK: 81.42
+BID: 96.47, ASK: 96.48
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJPZXNR8340ZGCVPR90678"
+asset: "I"
+trades {
+  price_level: "81.41"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584292136236"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.59, ASK: 92.60000000000001
+BID: 98.4, ASK: 98.41000000000001
+BID: 98.77, ASK: 98.78
+BID: 95.52, ASK: 95.53
+BID: 94.9, ASK: 94.91000000000001
+BID: 96.66, ASK: 96.67
+BID: 99.21, ASK: 99.22
+BID: 94.34, ASK: 94.35000000000001
+BID: 81.94, ASK: 81.95
+BID: 96.82, ASK: 96.83
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.2, ASK: 92.21000000000001
+BID: 98.11, ASK: 98.12
+BID: 99.4, ASK: 99.41000000000001
+BID: 95.16, ASK: 95.17
+BID: 95.2, ASK: 95.21000000000001
+BID: 97.25, ASK: 97.26
+BID: 98.83, ASK: 98.84
+BID: 94.01, ASK: 94.02000000000001
+BID: 81.54, ASK: 81.55000000000001
+BID: 97.35, ASK: 97.36
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.7, ASK: 92.71000000000001
+BID: 97.8, ASK: 97.81
+BID: 99.84, ASK: 99.85000000000001
+BID: 95.54, ASK: 95.55000000000001
+BID: 95.61, ASK: 95.62
+BID: 97.62, ASK: 97.63000000000001
+BID: 99.27, ASK: 99.28
+BID: 93.5, ASK: 93.51
+BID: 81.18, ASK: 81.19000000000001
+BID: 97.65, ASK: 97.66000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQ4M8ATJ40C0G03CN1FS8"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "99.28"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584292140670"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.16, ASK: 92.17
+BID: 97.52, ASK: 97.53
+BID: 100.39, ASK: 100.4
+BID: 95.22, ASK: 95.23
+BID: 95.31, ASK: 95.32000000000001
+BID: 98.01, ASK: 98.02000000000001
+BID: 99.58, ASK: 99.59
+BID: 93.77, ASK: 93.78
+BID: 80.79, ASK: 80.80000000000001
+BID: 97.93, ASK: 97.94000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 91.87, ASK: 91.88000000000001
+BID: 97.8, ASK: 97.81
+BID: 100.75, ASK: 100.76
+BID: 94.74, ASK: 94.75
+BID: 95.03, ASK: 95.04
+BID: 98.54, ASK: 98.55000000000001
+BID: 99.96, ASK: 99.97
+BID: 94.3, ASK: 94.31
+BID: 80.3, ASK: 80.31
+BID: 97.62, ASK: 97.63000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQ7RCC9ZT1NZAXNHY0ZDK"
+asset: "C"
+trades {
+  price_level: "100.75"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584292144051"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.39, ASK: 92.4
+BID: 98.24, ASK: 98.25
+BID: 101.12, ASK: 101.13000000000001
+BID: 95.35, ASK: 95.36
+BID: 94.73, ASK: 94.74000000000001
+BID: 99.31, ASK: 99.32000000000001
+BID: 100.38, ASK: 100.39
+BID: 93.82, ASK: 93.83
+BID: 80.71, ASK: 80.72
+BID: 98.06, ASK: 98.07000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 92.08, ASK: 92.09
+BID: 98.53, ASK: 98.54
+BID: 100.67, ASK: 100.68
+BID: 94.81, ASK: 94.82000000000001
+BID: 95.14, ASK: 95.15
+BID: 98.85, ASK: 98.86
+BID: 100.78, ASK: 100.79
+BID: 93.51, ASK: 93.52000000000001
+BID: 80.25, ASK: 80.26
+BID: 98.45, ASK: 98.46000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 91.76, ASK: 91.77000000000001
+BID: 98.83, ASK: 98.84
+BID: 99.85, ASK: 99.86
+BID: 94.3, ASK: 94.31
+BID: 95.45, ASK: 95.46000000000001
+BID: 98.24, ASK: 98.25
+BID: 100.27, ASK: 100.28
+BID: 94.15, ASK: 94.16000000000001
+BID: 79.87, ASK: 79.88000000000001
+BID: 98.14, ASK: 98.15
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 91.37, ASK: 91.38000000000001
+BID: 98.47, ASK: 98.48
+BID: 100.39, ASK: 100.4
+BID: 93.9, ASK: 93.91000000000001
+BID: 95.81, ASK: 95.82000000000001
+BID: 97.77, ASK: 97.78
+BID: 100.61, ASK: 100.62
+BID: 93.58, ASK: 93.59
+BID: 79.27, ASK: 79.28
+BID: 98.46, ASK: 98.47
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 91.04, ASK: 91.05000000000001
+BID: 98.18, ASK: 98.19000000000001
+BID: 101.22, ASK: 101.23
+BID: 94.26, ASK: 94.27000000000001
+BID: 96.28, ASK: 96.29
+BID: 98.27, ASK: 98.28
+BID: 101.0, ASK: 101.01
+BID: 94.09, ASK: 94.10000000000001
+BID: 78.84, ASK: 78.85000000000001
+BID: 97.92, ASK: 97.93
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQFKBAD9H0XP3SC9X0T5J"
+asset: "C"
+trades {
+  price_level: "101.22"
+  quantity: 4
+}
+filled_qty: 4
+remaining_qty: 399996
+timestamp: "1584292151707"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 90.47, ASK: 90.48
+BID: 97.75, ASK: 97.76
+BID: 100.92, ASK: 100.93
+BID: 93.72, ASK: 93.73
+BID: 96.64, ASK: 96.65
+BID: 98.87, ASK: 98.88000000000001
+BID: 101.69, ASK: 101.7
+BID: 94.55, ASK: 94.56
+BID: 78.18, ASK: 78.19000000000001
+BID: 98.77, ASK: 98.78
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQH4KKJPJ1P97AY660AGZ"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "96.65"
+  quantity: 13
+}
+filled_qty: 13
+remaining_qty: 399987
+timestamp: "1584292152846"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQH3WW00E0YJGSNHN1NVM"
+asset: "B"
+trades {
+  price_level: "97.75"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584292153062"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQH4X23500FP03PAS0WX1"
+asset: "F"
+trades {
+  price_level: "98.87"
+  quantity: 28
+}
+filled_qty: 28
+remaining_qty: 399972
+timestamp: "1584292153882"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 90.09, ASK: 90.10000000000001
+BID: 98.3, ASK: 98.31
+BID: 100.45, ASK: 100.46000000000001
+BID: 94.24, ASK: 94.25
+BID: 96.24, ASK: 96.25
+BID: 98.33, ASK: 98.34
+BID: 102.1, ASK: 102.11
+BID: 94.2, ASK: 94.21000000000001
+BID: 78.8, ASK: 78.81
+BID: 98.27, ASK: 98.28
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQH5ESS1G09YMQGZ311CV"
+asset: "I"
+trades {
+  price_level: "78.18"
+  quantity: 27
+}
+filled_qty: 27
+remaining_qty: 399973
+timestamp: "1584292154111"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQJSVW5KV01ZWCHRC18BG"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "78.81"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584292154528"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.68, ASK: 89.69000000000001
+BID: 98.6, ASK: 98.61
+BID: 100.05, ASK: 100.06
+BID: 94.66, ASK: 94.67
+BID: 95.94, ASK: 95.95
+BID: 97.73, ASK: 97.74000000000001
+BID: 102.49, ASK: 102.5
+BID: 93.75, ASK: 93.76
+BID: 78.2, ASK: 78.21000000000001
+BID: 97.75, ASK: 97.76
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.37, ASK: 89.38000000000001
+BID: 98.01, ASK: 98.02000000000001
+BID: 99.77, ASK: 99.78
+BID: 95.09, ASK: 95.10000000000001
+BID: 95.67, ASK: 95.68
+BID: 97.37, ASK: 97.38000000000001
+BID: 102.09, ASK: 102.10000000000001
+BID: 94.17, ASK: 94.18
+BID: 78.65, ASK: 78.66000000000001
+BID: 97.43, ASK: 97.44000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQNXFJBYE0EPF0MBJ0T2J"
+asset: "E"
+trades {
+  price_level: "95.67"
+  quantity: 42
+}
+filled_qty: 42
+remaining_qty: 399958
+timestamp: "1584292157977"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQNXRWMGS1PR7J73N0BXR"
+order_side: SELL
+asset: "I"
+trades {
+  price_level: "78.66"
+  quantity: 41
+}
+filled_qty: 41
+remaining_qty: 399959
+timestamp: "1584292158611"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.07, ASK: 89.08
+BID: 97.55, ASK: 97.56
+BID: 100.4, ASK: 100.41000000000001
+BID: 95.59, ASK: 95.60000000000001
+BID: 95.96, ASK: 95.97
+BID: 97.02, ASK: 97.03
+BID: 101.7, ASK: 101.71000000000001
+BID: 94.66, ASK: 94.67
+BID: 78.19, ASK: 78.2
+BID: 97.72, ASK: 97.73
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQQHKXCP415CV9P0A1RM6"
+asset: "I"
+trades {
+  price_level: "78.19"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292159969"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQQH0YV041NR2MY3Y1QNM"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "94.67"
+  quantity: 19
+}
+filled_qty: 19
+remaining_qty: 399981
+timestamp: "1584292160177"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.66, ASK: 88.67
+BID: 97.21, ASK: 97.22
+BID: 101.01, ASK: 101.02000000000001
+BID: 96.3, ASK: 96.31
+BID: 96.38, ASK: 96.39
+BID: 97.51, ASK: 97.52000000000001
+BID: 102.27, ASK: 102.28
+BID: 95.19, ASK: 95.2
+BID: 78.66, ASK: 78.67
+BID: 98.26, ASK: 98.27000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQS0PKPQW0NGHJ4JP1H1F"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "97.22"
+  quantity: 33
+}
+filled_qty: 33
+remaining_qty: 399967
+timestamp: "1584292161981"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.08, ASK: 88.09
+BID: 96.86, ASK: 96.87
+BID: 100.48, ASK: 100.49000000000001
+BID: 95.66, ASK: 95.67
+BID: 96.69, ASK: 96.7
+BID: 97.07, ASK: 97.08
+BID: 101.79, ASK: 101.80000000000001
+BID: 94.65, ASK: 94.66000000000001
+BID: 79.46, ASK: 79.47
+BID: 97.85, ASK: 97.86
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQS2PCA1D0K516BXV1XR0"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "98.27"
+  quantity: 10
+}
+filled_qty: 10
+remaining_qty: 399990
+timestamp: "1584292162203"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.67, ASK: 87.68
+BID: 97.23, ASK: 97.24000000000001
+BID: 100.98, ASK: 100.99000000000001
+BID: 95.21, ASK: 95.22
+BID: 96.41, ASK: 96.42
+BID: 97.5, ASK: 97.51
+BID: 101.33, ASK: 101.34
+BID: 94.37, ASK: 94.38000000000001
+BID: 79.06, ASK: 79.07000000000001
+BID: 97.49, ASK: 97.5
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJQW66JBZC0PDZD61B18Y3"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "94.38"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584292164776"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.05, ASK: 88.06
+BID: 96.74, ASK: 96.75
+BID: 101.27, ASK: 101.28
+BID: 95.61, ASK: 95.62
+BID: 96.14, ASK: 96.15
+BID: 97.98, ASK: 97.99000000000001
+BID: 101.72, ASK: 101.73
+BID: 93.89, ASK: 93.9
+BID: 79.44, ASK: 79.45
+BID: 97.83, ASK: 97.84
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.66, ASK: 88.67
+BID: 96.3, ASK: 96.31
+BID: 101.76, ASK: 101.77000000000001
+BID: 95.17, ASK: 95.18
+BID: 95.73, ASK: 95.74000000000001
+BID: 97.56, ASK: 97.57000000000001
+BID: 101.22, ASK: 101.23
+BID: 93.55, ASK: 93.56
+BID: 78.9, ASK: 78.91000000000001
+BID: 97.25, ASK: 97.26
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.26, ASK: 89.27000000000001
+BID: 96.6, ASK: 96.61
+BID: 102.74, ASK: 102.75
+BID: 95.63, ASK: 95.64
+BID: 95.34, ASK: 95.35000000000001
+BID: 97.08, ASK: 97.09
+BID: 101.81, ASK: 101.82000000000001
+BID: 93.17, ASK: 93.18
+BID: 79.47, ASK: 79.48
+BID: 96.84, ASK: 96.85000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJR0X7WTX00TJRYX6K00H4"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "102.75"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292168888"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJR0XJAP3916XE5KKF0KC1"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "95.35"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399971
+timestamp: "1584292170043"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.85, ASK: 88.86
+BID: 96.06, ASK: 96.07000000000001
+BID: 102.01, ASK: 102.02000000000001
+BID: 95.1, ASK: 95.11
+BID: 95.7, ASK: 95.71000000000001
+BID: 97.75, ASK: 97.76
+BID: 101.25, ASK: 101.26
+BID: 92.82, ASK: 92.83
+BID: 80.03, ASK: 80.04
+BID: 97.49, ASK: 97.5
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.35, ASK: 88.36
+BID: 95.54, ASK: 95.55000000000001
+BID: 102.67, ASK: 102.68
+BID: 94.57, ASK: 94.58
+BID: 96.1, ASK: 96.11
+BID: 98.34, ASK: 98.35000000000001
+BID: 100.86, ASK: 100.87
+BID: 93.13, ASK: 93.14
+BID: 80.55, ASK: 80.56
+BID: 97.8, ASK: 97.81
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJR41EW59406DCZNNA1X8G"
+asset: "A"
+trades {
+  price_level: "88.35"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399999
+timestamp: "1584292173245"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.85, ASK: 88.86
+BID: 95.83, ASK: 95.84
+BID: 103.05, ASK: 103.06
+BID: 94.97, ASK: 94.98
+BID: 96.56, ASK: 96.57000000000001
+BID: 98.93, ASK: 98.94000000000001
+BID: 101.33, ASK: 101.34
+BID: 93.58, ASK: 93.59
+BID: 80.05, ASK: 80.06
+BID: 97.3, ASK: 97.31
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.18, ASK: 89.19000000000001
+BID: 95.56, ASK: 95.57000000000001
+BID: 103.39, ASK: 103.4
+BID: 94.53, ASK: 94.54
+BID: 96.26, ASK: 96.27000000000001
+BID: 98.45, ASK: 98.46000000000001
+BID: 100.8, ASK: 100.81
+BID: 94.12, ASK: 94.13000000000001
+BID: 80.74, ASK: 80.75
+BID: 96.97, ASK: 96.98
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJR788R2RN022N0XT60BB4"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "96.98"
+  quantity: 6
+}
+filled_qty: 6
+remaining_qty: 399994
+timestamp: "1584292175640"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.85, ASK: 88.86
+BID: 95.29, ASK: 95.30000000000001
+BID: 103.68, ASK: 103.69000000000001
+BID: 94.2, ASK: 94.21000000000001
+BID: 96.53, ASK: 96.54
+BID: 97.9, ASK: 97.91000000000001
+BID: 101.2, ASK: 101.21000000000001
+BID: 93.8, ASK: 93.81
+BID: 81.09, ASK: 81.10000000000001
+BID: 97.39, ASK: 97.4
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.47, ASK: 88.48
+BID: 95.66, ASK: 95.67
+BID: 104.12, ASK: 104.13000000000001
+BID: 94.58, ASK: 94.59
+BID: 96.79, ASK: 96.80000000000001
+BID: 98.22, ASK: 98.23
+BID: 101.56, ASK: 101.57000000000001
+BID: 94.05, ASK: 94.06
+BID: 81.43, ASK: 81.44000000000001
+BID: 97.66, ASK: 97.67
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRAA1EGDD1JSEQE5Z19NT"
+asset: "B"
+trades {
+  price_level: "95.66"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292179514"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.14, ASK: 88.15
+BID: 95.28, ASK: 95.29
+BID: 104.51, ASK: 104.52000000000001
+BID: 94.18, ASK: 94.19000000000001
+BID: 96.51, ASK: 96.52000000000001
+BID: 98.7, ASK: 98.71000000000001
+BID: 101.97, ASK: 101.98
+BID: 93.5, ASK: 93.51
+BID: 81.08, ASK: 81.09
+BID: 97.19, ASK: 97.2
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRBX0TN2P1F4ATX6D1MQT"
+asset: "C"
+trades {
+  price_level: "104.51"
+  quantity: 44
+}
+filled_qty: 44
+remaining_qty: 399956
+timestamp: "1584292180717"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.56, ASK: 87.57000000000001
+BID: 94.86, ASK: 94.87
+BID: 103.73, ASK: 103.74000000000001
+BID: 93.74, ASK: 93.75
+BID: 96.97, ASK: 96.98
+BID: 99.37, ASK: 99.38000000000001
+BID: 102.55, ASK: 102.56
+BID: 93.12, ASK: 93.13000000000001
+BID: 80.54, ASK: 80.55000000000001
+BID: 96.65, ASK: 96.66000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.89, ASK: 87.9
+BID: 95.19, ASK: 95.2
+BID: 104.25, ASK: 104.26
+BID: 94.15, ASK: 94.16000000000001
+BID: 97.3, ASK: 97.31
+BID: 99.95, ASK: 99.96000000000001
+BID: 102.94, ASK: 102.95
+BID: 92.7, ASK: 92.71000000000001
+BID: 80.93, ASK: 80.94000000000001
+BID: 96.16, ASK: 96.17
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRDHMGQW91ASAQNR9145S"
+asset: "D"
+trades {
+  price_level: "93.74"
+  quantity: 14
+}
+filled_qty: 14
+remaining_qty: 399986
+timestamp: "1584292183791"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRFRQQTP31QS62RR300A7"
+order_side: SELL
+asset: "C"
+trades {
+  price_level: "104.26"
+  quantity: 21
+}
+filled_qty: 21
+remaining_qty: 399979
+timestamp: "1584292184036"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.52, ASK: 87.53
+BID: 95.52, ASK: 95.53
+BID: 105.02, ASK: 105.03
+BID: 94.74, ASK: 94.75
+BID: 97.7, ASK: 97.71000000000001
+BID: 99.36, ASK: 99.37
+BID: 102.41, ASK: 102.42
+BID: 92.18, ASK: 92.19000000000001
+BID: 81.43, ASK: 81.44000000000001
+BID: 95.69, ASK: 95.7
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.15, ASK: 87.16000000000001
+BID: 95.8, ASK: 95.81
+BID: 105.62, ASK: 105.63000000000001
+BID: 95.12, ASK: 95.13000000000001
+BID: 97.43, ASK: 97.44000000000001
+BID: 99.7, ASK: 99.71000000000001
+BID: 102.82, ASK: 102.83
+BID: 92.66, ASK: 92.67
+BID: 81.02, ASK: 81.03
+BID: 95.31, ASK: 95.32000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRJMQWDW702WV52JY1S4W"
+asset: "I"
+trades {
+  price_level: "81.02"
+  quantity: 19
+}
+filled_qty: 19
+remaining_qty: 399981
+timestamp: "1584292187397"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.55, ASK: 87.56
+BID: 95.33, ASK: 95.34
+BID: 105.01, ASK: 105.02000000000001
+BID: 94.54, ASK: 94.55000000000001
+BID: 97.73, ASK: 97.74000000000001
+BID: 99.2, ASK: 99.21000000000001
+BID: 103.29, ASK: 103.30000000000001
+BID: 93.03, ASK: 93.04
+BID: 80.56, ASK: 80.57000000000001
+BID: 94.64, ASK: 94.65
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRM6AKACM15XQRGQ410RR"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "94.55"
+  quantity: 38
+}
+filled_qty: 38
+remaining_qty: 399962
+timestamp: "1584292188500"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRM55AM8K0GFVBXDE1XF0"
+asset: "A"
+trades {
+  price_level: "87.55"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584292189584"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.95, ASK: 87.96000000000001
+BID: 94.76, ASK: 94.77000000000001
+BID: 104.32, ASK: 104.33
+BID: 94.04, ASK: 94.05000000000001
+BID: 97.38, ASK: 97.39
+BID: 98.55, ASK: 98.56
+BID: 102.83, ASK: 102.84
+BID: 92.7, ASK: 92.71000000000001
+BID: 80.13, ASK: 80.14
+BID: 94.05, ASK: 94.06
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRM93838V13CT53JA1ZH2"
+asset: "I"
+trades {
+  price_level: "80.56"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584292189967"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRNS8ZWWY09268S1M0Y43"
+asset: "G"
+trades {
+  price_level: "102.83"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584292191175"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.42, ASK: 88.43
+BID: 94.47, ASK: 94.48
+BID: 104.73, ASK: 104.74000000000001
+BID: 94.49, ASK: 94.5
+BID: 96.92, ASK: 96.93
+BID: 99.18, ASK: 99.19000000000001
+BID: 103.31, ASK: 103.32000000000001
+BID: 93.29, ASK: 93.30000000000001
+BID: 79.71, ASK: 79.72
+BID: 94.55, ASK: 94.56
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRQBDHP8E1C6PJXR213ZK"
+order_side: SELL
+asset: "D"
+trades {
+  price_level: "94.50"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399999
+timestamp: "1584292192474"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.79, ASK: 88.80000000000001
+BID: 93.96, ASK: 93.97
+BID: 104.23, ASK: 104.24000000000001
+BID: 93.93, ASK: 93.94000000000001
+BID: 97.32, ASK: 97.33
+BID: 99.77, ASK: 99.78
+BID: 102.83, ASK: 102.84
+BID: 93.0, ASK: 93.01
+BID: 79.31, ASK: 79.32000000000001
+BID: 94.27, ASK: 94.28
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRQB6AN7S07905AW400CT"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "94.48"
+  quantity: 32
+}
+filled_qty: 32
+remaining_qty: 399968
+timestamp: "1584292193186"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRQBYQ5CG1ZY7NBTF0A13"
+order_side: SELL
+asset: "J"
+trades {
+  price_level: "94.56"
+  quantity: 4
+}
+filled_qty: 4
+remaining_qty: 399996
+timestamp: "1584292193187"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.14, ASK: 89.15
+BID: 94.26, ASK: 94.27000000000001
+BID: 103.67, ASK: 103.68
+BID: 94.42, ASK: 94.43
+BID: 97.7, ASK: 97.71000000000001
+BID: 100.25, ASK: 100.26
+BID: 103.21, ASK: 103.22
+BID: 93.4, ASK: 93.41000000000001
+BID: 79.71, ASK: 79.72
+BID: 94.55, ASK: 94.56
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRRXREXTY1BXQEQP80H25"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "88.80"
+  quantity: 7
+}
+filled_qty: 7
+remaining_qty: 399993
+timestamp: "1584292194839"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRTJEEKNS1SBDX1BP0JN6"
+asset: "B"
+trades {
+  price_level: "94.26"
+  quantity: 9
+}
+filled_qty: 9
+remaining_qty: 399991
+timestamp: "1584292195252"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRTJSBV1X041KJNV51XAE"
+asset: "D"
+trades {
+  price_level: "94.42"
+  quantity: 10
+}
+filled_qty: 10
+remaining_qty: 399990
+timestamp: "1584292195657"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRTN6JDYV1870XJ2R0S26"
+asset: "J"
+trades {
+  price_level: "94.55"
+  quantity: 46
+}
+filled_qty: 46
+remaining_qty: 399954
+timestamp: "1584292195774"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRTJSBV1X041KJNV51XAE"
+asset: "D"
+trades {
+  price_level: "94.42"
+  quantity: 29
+}
+filled_qty: 29
+remaining_qty: 399961
+timestamp: "1584292196045"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.53, ASK: 89.54
+BID: 94.76, ASK: 94.77000000000001
+BID: 104.24, ASK: 104.25
+BID: 93.93, ASK: 93.94000000000001
+BID: 98.2, ASK: 98.21000000000001
+BID: 100.92, ASK: 100.93
+BID: 103.72, ASK: 103.73
+BID: 93.05, ASK: 93.06
+BID: 79.18, ASK: 79.19000000000001
+BID: 94.17, ASK: 94.18
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRTKRFNNR1Q9P3PYV1B37"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "103.22"
+  quantity: 23
+}
+filled_qty: 23
+remaining_qty: 399977
+timestamp: "1584292196456"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRW3RAEBB0FQHSDSR01PV"
+order_side: SELL
+asset: "B"
+trades {
+  price_level: "94.77"
+  quantity: 26
+}
+filled_qty: 26
+remaining_qty: 399974
+timestamp: "1584292198109"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRW3W3G701ZTNNMJA0RQF"
+asset: "C"
+trades {
+  price_level: "104.24"
+  quantity: 35
+}
+filled_qty: 35
+remaining_qty: 399965
+timestamp: "1584292198113"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.14, ASK: 89.15
+BID: 94.37, ASK: 94.38000000000001
+BID: 103.72, ASK: 103.73
+BID: 93.55, ASK: 93.56
+BID: 98.49, ASK: 98.5
+BID: 101.38, ASK: 101.39
+BID: 104.1, ASK: 104.11
+BID: 93.37, ASK: 93.38000000000001
+BID: 78.67, ASK: 78.68
+BID: 94.81, ASK: 94.82000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRXVJ3MBM00GZAWVP1E30"
+asset: "J"
+trades {
+  price_level: "94.81"
+  quantity: 2
+}
+filled_qty: 2
+remaining_qty: 399998
+timestamp: "1584292199323"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.55, ASK: 89.56
+BID: 93.78, ASK: 93.79
+BID: 104.25, ASK: 104.26
+BID: 93.0, ASK: 93.01
+BID: 98.9, ASK: 98.91000000000001
+BID: 101.86, ASK: 101.87
+BID: 104.62, ASK: 104.63000000000001
+BID: 93.96, ASK: 93.97
+BID: 78.09, ASK: 78.10000000000001
+BID: 95.23, ASK: 95.24000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.15, ASK: 89.16000000000001
+BID: 94.08, ASK: 94.09
+BID: 103.57, ASK: 103.58
+BID: 93.64, ASK: 93.65
+BID: 99.33, ASK: 99.34
+BID: 102.33, ASK: 102.34
+BID: 105.11, ASK: 105.12
+BID: 94.3, ASK: 94.31
+BID: 78.7, ASK: 78.71000000000001
+BID: 94.63, ASK: 94.64
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.66, ASK: 89.67
+BID: 94.43, ASK: 94.44000000000001
+BID: 103.27, ASK: 103.28
+BID: 94.01, ASK: 94.02000000000001
+BID: 99.6, ASK: 99.61
+BID: 102.79, ASK: 102.80000000000001
+BID: 105.49, ASK: 105.5
+BID: 94.63, ASK: 94.64
+BID: 79.18, ASK: 79.19000000000001
+BID: 94.93, ASK: 94.94000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.33, ASK: 89.34
+BID: 93.84, ASK: 93.85000000000001
+BID: 102.54, ASK: 102.55000000000001
+BID: 93.52, ASK: 93.53
+BID: 99.24, ASK: 99.25
+BID: 102.31, ASK: 102.32000000000001
+BID: 105.98, ASK: 105.99000000000001
+BID: 94.34, ASK: 94.35000000000001
+BID: 79.69, ASK: 79.7
+BID: 94.59, ASK: 94.60000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.96, ASK: 89.97
+BID: 94.53, ASK: 94.54
+BID: 102.89, ASK: 102.9
+BID: 92.93, ASK: 92.94000000000001
+BID: 98.86, ASK: 98.87
+BID: 101.6, ASK: 101.61
+BID: 105.42, ASK: 105.43
+BID: 94.85, ASK: 94.86
+BID: 80.15, ASK: 80.16000000000001
+BID: 95.04, ASK: 95.05000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.56, ASK: 89.57000000000001
+BID: 94.24, ASK: 94.25
+BID: 102.33, ASK: 102.34
+BID: 92.46, ASK: 92.47
+BID: 98.36, ASK: 98.37
+BID: 101.22, ASK: 101.23
+BID: 104.96, ASK: 104.97
+BID: 95.43, ASK: 95.44000000000001
+BID: 79.65, ASK: 79.66000000000001
+BID: 94.47, ASK: 94.48
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.23, ASK: 89.24000000000001
+BID: 93.95, ASK: 93.96000000000001
+BID: 102.74, ASK: 102.75
+BID: 93.06, ASK: 93.07000000000001
+BID: 98.63, ASK: 98.64
+BID: 101.73, ASK: 101.74000000000001
+BID: 105.44, ASK: 105.45
+BID: 94.96, ASK: 94.97
+BID: 79.27, ASK: 79.28
+BID: 94.75, ASK: 94.76
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.88, ASK: 88.89
+BID: 93.47, ASK: 93.48
+BID: 102.22, ASK: 102.23
+BID: 92.71, ASK: 92.72
+BID: 98.9, ASK: 98.91000000000001
+BID: 101.33, ASK: 101.34
+BID: 105.78, ASK: 105.79
+BID: 95.33, ASK: 95.34
+BID: 78.83, ASK: 78.84
+BID: 94.47, ASK: 94.48
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.35, ASK: 88.36
+BID: 93.09, ASK: 93.10000000000001
+BID: 101.64, ASK: 101.65
+BID: 92.34, ASK: 92.35000000000001
+BID: 99.3, ASK: 99.31
+BID: 100.95, ASK: 100.96000000000001
+BID: 105.4, ASK: 105.41000000000001
+BID: 95.73, ASK: 95.74000000000001
+BID: 79.31, ASK: 79.32000000000001
+BID: 93.99, ASK: 94.0
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.86, ASK: 87.87
+BID: 93.64, ASK: 93.65
+BID: 101.93, ASK: 101.94000000000001
+BID: 91.92, ASK: 91.93
+BID: 99.6, ASK: 99.61
+BID: 101.48, ASK: 101.49000000000001
+BID: 106.02, ASK: 106.03
+BID: 96.15, ASK: 96.16000000000001
+BID: 78.87, ASK: 78.88000000000001
+BID: 93.42, ASK: 93.43
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.38, ASK: 87.39
+BID: 94.06, ASK: 94.07000000000001
+BID: 102.37, ASK: 102.38000000000001
+BID: 92.42, ASK: 92.43
+BID: 99.14, ASK: 99.15
+BID: 101.89, ASK: 101.9
+BID: 106.48, ASK: 106.49000000000001
+BID: 95.84, ASK: 95.85000000000001
+BID: 79.28, ASK: 79.29
+BID: 93.99, ASK: 94.0
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.77, ASK: 87.78
+BID: 93.67, ASK: 93.68
+BID: 102.86, ASK: 102.87
+BID: 92.94, ASK: 92.95
+BID: 99.44, ASK: 99.45
+BID: 101.38, ASK: 101.39
+BID: 106.94, ASK: 106.95
+BID: 95.31, ASK: 95.32000000000001
+BID: 79.74, ASK: 79.75
+BID: 93.41, ASK: 93.42
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.3, ASK: 88.31
+BID: 93.17, ASK: 93.18
+BID: 102.18, ASK: 102.19000000000001
+BID: 93.44, ASK: 93.45
+BID: 99.76, ASK: 99.77000000000001
+BID: 100.66, ASK: 100.67
+BID: 107.44, ASK: 107.45
+BID: 94.84, ASK: 94.85000000000001
+BID: 80.22, ASK: 80.23
+BID: 94.0, ASK: 94.01
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.65, ASK: 88.66000000000001
+BID: 92.88, ASK: 92.89
+BID: 101.64, ASK: 101.65
+BID: 93.89, ASK: 93.9
+BID: 100.05, ASK: 100.06
+BID: 101.21, ASK: 101.22
+BID: 107.94, ASK: 107.95
+BID: 95.23, ASK: 95.24000000000001
+BID: 79.84, ASK: 79.85000000000001
+BID: 93.57, ASK: 93.58
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.36, ASK: 88.37
+BID: 92.59, ASK: 92.60000000000001
+BID: 102.06, ASK: 102.07000000000001
+BID: 94.34, ASK: 94.35000000000001
+BID: 100.33, ASK: 100.34
+BID: 101.53, ASK: 101.54
+BID: 107.55, ASK: 107.56
+BID: 95.81, ASK: 95.82000000000001
+BID: 79.31, ASK: 79.32000000000001
+BID: 93.92, ASK: 93.93
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FJRXVJ3MBM00GZAWVP1E30"
+asset: "J"
+trades {
+  price_level: "94.81"
+  quantity: 1
+}
+filled_qty: 1
+remaining_qty: 399997
+timestamp: "1584292469805"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.82, ASK: 87.83
+BID: 92.1, ASK: 92.11
+BID: 101.41, ASK: 101.42
+BID: 93.69, ASK: 93.7
+BID: 100.02, ASK: 100.03
+BID: 100.97, ASK: 100.98
+BID: 107.01, ASK: 107.02000000000001
+BID: 95.45, ASK: 95.46000000000001
+BID: 78.74, ASK: 78.75
+BID: 94.52, ASK: 94.53
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.15, ASK: 88.16000000000001
+BID: 91.76, ASK: 91.77000000000001
+BID: 100.65, ASK: 100.66000000000001
+BID: 94.09, ASK: 94.10000000000001
+BID: 99.7, ASK: 99.71000000000001Traceback (most recent call last):
+  File "case2/../xchange/client.py", line 189, in _update_stream_handler
+    self.handle_exchange_update(update)
+  File "case2/stockbot.py", line 143, in handle_exchange_update
+    self.handle_market_update(exchange_update_response)
+  File "case2/stockbot.py", line 109, in handle_market_update
+    self.send_rtq()
+  File "case2/stockbot.py", line 89, in send_rtq
+    self.send_bs_update(bsParams)
+  File "case2/../xchange/case_manager.py", line 57, in send_bs_update
+    parameters=update
+  File "/home/kdduan/Documents/Projects/Uchicago Trading 2020/MWTC-platform-release/venv/lib/python3.7/site-packages/grpc/_channel.py", line 826, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+  File "/home/kdduan/Documents/Projects/Uchicago Trading 2020/MWTC-platform-release/venv/lib/python3.7/site-packages/grpc/_channel.py", line 729, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "{"created":"@1584292583.300269014","description":"Error received from peer ipv6:[::1]:9090","file":"src/core/lib/surface/call.cc","file_line":1056,"grpc_message":"Socket closed","grpc_status":14}"
+>
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/home/kdduan/anaconda3/lib/python3.7/threading.py", line 917, in _bootstrap_inner
+    self.run()
+  File "/home/kdduan/anaconda3/lib/python3.7/threading.py", line 865, in run
+    self._target(*self._args, **self._kwargs)
+  File "case2/../xchange/client.py", line 187, in _update_stream_handler
+    for update in exchange_updates:
+  File "/home/kdduan/Documents/Projects/Uchicago Trading 2020/MWTC-platform-release/venv/lib/python3.7/site-packages/grpc/_channel.py", line 416, in __next__
+    return self._next()
+  File "/home/kdduan/Documents/Projects/Uchicago Trading 2020/MWTC-platform-release/venv/lib/python3.7/site-packages/grpc/_channel.py", line 689, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "{"created":"@1584292583.300188810","description":"Error received from peer ipv6:[::1]:9090","file":"src/core/lib/surface/call.cc","file_line":1056,"grpc_message":"Socket closed","grpc_status":14}"
+>
+
+
+BID: 101.48, ASK: 101.49000000000001
+BID: 107.41, ASK: 107.42
+BID: 95.76, ASK: 95.77000000000001
+BID: 79.2, ASK: 79.21000000000001
+BID: 94.21, ASK: 94.22
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK18WJXS951YRNXD6C1G0H"
+order_side: SELL
+asset: "A"
+trades {
+  price_level: "89.24"
+  quantity: 22
+}
+filled_qty: 22
+remaining_qty: 399978
+timestamp: "1584292471861"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK194GMFJY0VPTM2S415HD"
+asset: "E"
+trades {
+  price_level: "98.90"
+  quantity: 49
+}
+filled_qty: 49
+remaining_qty: 399951
+timestamp: "1584292472063"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.52, ASK: 88.53
+BID: 91.27, ASK: 91.28
+BID: 100.19, ASK: 100.2
+BID: 93.58, ASK: 93.59
+BID: 100.05, ASK: 100.06
+BID: 101.96, ASK: 101.97
+BID: 106.98, ASK: 106.99000000000001
+BID: 95.47, ASK: 95.48
+BID: 79.6, ASK: 79.61
+BID: 93.94, ASK: 93.95
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1BM9HV5W0EG1RPS10KBK"
+order_side: SELL
+asset: "G"
+trades {
+  price_level: "106.99"
+  quantity: 47
+}
+filled_qty: 47
+remaining_qty: 399953
+timestamp: "1584292474638"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.15, ASK: 88.16000000000001
+BID: 90.83, ASK: 90.84
+BID: 99.77, ASK: 99.78
+BID: 93.96, ASK: 93.97
+BID: 100.33, ASK: 100.34
+BID: 102.41, ASK: 102.42
+BID: 107.42, ASK: 107.43
+BID: 95.05, ASK: 95.06
+BID: 79.11, ASK: 79.12
+BID: 93.64, ASK: 93.65
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1BYRQ8JG020RM9Y705EC"
+asset: "D"
+trades {
+  price_level: "93.96"
+  quantity: 48
+}
+filled_qty: 48
+remaining_qty: 399952
+timestamp: "1584292475703"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.51, ASK: 88.52000000000001
+BID: 91.13, ASK: 91.14
+BID: 99.5, ASK: 99.51
+BID: 93.55, ASK: 93.56
+BID: 99.88, ASK: 99.89
+BID: 101.97, ASK: 101.98
+BID: 106.94, ASK: 106.95
+BID: 94.61, ASK: 94.62
+BID: 79.5, ASK: 79.51
+BID: 94.34, ASK: 94.35000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.13, ASK: 88.14
+BID: 90.83, ASK: 90.84
+BID: 99.12, ASK: 99.13000000000001
+BID: 93.15, ASK: 93.16000000000001
+BID: 99.57, ASK: 99.58
+BID: 101.43, ASK: 101.44000000000001
+BID: 106.16, ASK: 106.17
+BID: 95.08, ASK: 95.09
+BID: 79.1, ASK: 79.11
+BID: 94.73, ASK: 94.74000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1DHQ1X8K1QMZ3YWW0NNQ"
+asset: "I"
+trades {
+  price_level: "79.50"
+  quantity: 5
+}
+filled_qty: 5
+remaining_qty: 399995
+timestamp: "1584292478138"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 87.8, ASK: 87.81
+BID: 91.47, ASK: 91.48
+BID: 99.53, ASK: 99.54
+BID: 92.58, ASK: 92.59
+BID: 99.89, ASK: 99.9
+BID: 102.11, ASK: 102.12
+BID: 106.69, ASK: 106.7
+BID: 94.55, ASK: 94.56
+BID: 78.47, ASK: 78.48
+BID: 94.2, ASK: 94.21000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1F41BEVH1BK6580K1HH2"
+order_side: SELL
+asset: "E"
+trades {
+  price_level: "99.58"
+  quantity: 34
+}
+filled_qty: 34
+remaining_qty: 399966
+timestamp: "1584292479678"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1GQ9ZB9N1B4MMCY90V4G"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "94.56"
+  quantity: 11
+}
+filled_qty: 11
+remaining_qty: 399989
+timestamp: "1584292479923"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.33, ASK: 88.34
+BID: 91.13, ASK: 91.14
+BID: 99.83, ASK: 99.84
+BID: 93.13, ASK: 93.14
+BID: 100.44, ASK: 100.45
+BID: 102.65, ASK: 102.66000000000001
+BID: 107.61, ASK: 107.62
+BID: 94.21, ASK: 94.22
+BID: 79.03, ASK: 79.04
+BID: 94.63, ASK: 94.64
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1J8KB6TA0BW2E3VW0SXP"
+asset: "D"
+trades {
+  price_level: "93.13"
+  quantity: 40
+}
+filled_qty: 40
+remaining_qty: 399960
+timestamp: "1584292481658"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 88.71, ASK: 88.72
+BID: 91.43, ASK: 91.44000000000001
+BID: 100.2, ASK: 100.21000000000001
+BID: 92.73, ASK: 92.74000000000001
+BID: 100.74, ASK: 100.75
+BID: 103.19, ASK: 103.2
+BID: 108.29, ASK: 108.30000000000001
+BID: 93.86, ASK: 93.87
+BID: 78.62, ASK: 78.63000000000001
+BID: 94.17, ASK: 94.18
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.22, ASK: 89.23
+BID: 91.06, ASK: 91.07000000000001
+BID: 100.63, ASK: 100.64
+BID: 93.33, ASK: 93.34
+BID: 100.37, ASK: 100.38000000000001
+BID: 103.94, ASK: 103.95
+BID: 108.94, ASK: 108.95
+BID: 94.41, ASK: 94.42
+BID: 78.17, ASK: 78.18
+BID: 94.84, ASK: 94.85000000000001
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1NH857N41RT0C64T06JA"
+order_side: SELL
+asset: "H"
+trades {
+  price_level: "94.42"
+  quantity: 19
+}
+filled_qty: 19
+remaining_qty: 399981
+timestamp: "1584292485076"
+
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1NH5M5Z307S021TN1BQV"
+asset: "G"
+trades {
+  price_level: "108.94"
+  quantity: 16
+}
+filled_qty: 16
+remaining_qty: 399984
+timestamp: "1584292485599"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.91, ASK: 89.92
+BID: 91.81, ASK: 91.82000000000001
+BID: 99.84, ASK: 99.85000000000001
+BID: 93.9, ASK: 93.91000000000001
+BID: 100.0, ASK: 100.01
+BID: 104.85, ASK: 104.86
+BID: 109.6, ASK: 109.61
+BID: 94.82, ASK: 94.83
+BID: 78.75, ASK: 78.76
+BID: 94.26, ASK: 94.27000000000001
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 90.45, ASK: 90.46000000000001
+BID: 92.15, ASK: 92.16000000000001
+BID: 100.16, ASK: 100.17
+BID: 93.42, ASK: 93.43
+BID: 100.47, ASK: 100.48
+BID: 104.12, ASK: 104.13000000000001
+BID: 110.25, ASK: 110.26
+BID: 95.22, ASK: 95.23
+BID: 79.18, ASK: 79.19000000000001
+BID: 93.8, ASK: 93.81
+fill_update: username: "CASEMANAGER_1"
+order_id: "01E3FK1RMBFW4H134SFR1E0NCA"
+asset: "H"
+trades {
+  price_level: "95.22"
+  quantity: 9
+}
+filled_qty: 9
+remaining_qty: 399991
+timestamp: "1584292488099"
+
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 91.06, ASK: 91.07000000000001
+BID: 91.82, ASK: 91.83
+BID: 100.68, ASK: 100.69000000000001
+BID: 93.95, ASK: 93.96000000000001
+BID: 100.8, ASK: 100.81
+BID: 104.75, ASK: 104.76
+BID: 111.01, ASK: 111.02000000000001
+BID: 94.65, ASK: 94.66000000000001
+BID: 78.74, ASK: 78.75
+BID: 93.08, ASK: 93.09
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 90.71, ASK: 90.72
+BID: 91.5, ASK: 91.51
+BID: 99.88, ASK: 99.89
+BID: 94.34, ASK: 94.35000000000001
+BID: 101.15, ASK: 101.16000000000001
+BID: 104.07, ASK: 104.08
+BID: 110.49, ASK: 110.5
+BID: 95.06, ASK: 95.07000000000001
+BID: 79.14, ASK: 79.15
+BID: 92.66, ASK: 92.67
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 90.11, ASK: 90.12
+BID: 92.11, ASK: 92.12
+BID: 99.39, ASK: 99.4
+BID: 95.01, ASK: 95.02000000000001
+BID: 101.51, ASK: 101.52000000000001
+BID: 103.25, ASK: 103.26
+BID: 111.41, ASK: 111.42
+BID: 94.66, ASK: 94.67
+BID: 78.56, ASK: 78.57000000000001
+BID: 93.28, ASK: 93.29
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 89.67, ASK: 89.68
+BID: 92.42, ASK: 92.43
+BID: 99.68, ASK: 99.69000000000001
+BID: 94.43, ASK: 94.44000000000001
+BID: 102.01, ASK: 102.02000000000001
+BID: 103.81, ASK: 103.82000000000001
+BID: 112.2, ASK: 112.21000000000001
+BID: 95.0, ASK: 95.01
+BID: 79.02, ASK: 79.03
+BID: 93.97, ASK: 93.98
+['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+BID: 90.16, ASK: 90.17
+BID: 92.11, ASK: 92.12
+BID: 99.32, ASK: 99.33
+BID: 93.87, ASK: 93.88000000000001
+BID: 102.38, ASK: 102.39
+BID: 104.6, ASK: 104.61
+BID: 113.28, ASK: 113.29
+BID: 94.55, ASK: 94.56
+BID: 79.66, ASK: 79.67
+BID: 94.42, ASK: 94.43
