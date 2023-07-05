@@ -1,6 +1,6 @@
 astroid==2.3.3
 grpc-tools==0.0.1
-grpcio==1.27.2
+grpcio==1.53.0
 grpcio-tools==1.27.2
 isort==4.3.21
 lazy-object-proxy==1.4.3
